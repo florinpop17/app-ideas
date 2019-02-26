@@ -12,5 +12,9 @@ All you have to do is clone
 
 ## To Do
 
--   [] gather a list of projects to be added in the collection
--   [] write _User Stories_ for all of the projects
+-   [ ] gather a list of projects to be added in the collection
+-   [ ] write _User Stories_ for all of the projects
+-   [ ] improve the design of the repo by adding images and tags
+-   [ ] add extra information to the README like:
+    -   [ ] How people can collaborate by creating PR's?
+    -   [ ] How to use the information in this repo
