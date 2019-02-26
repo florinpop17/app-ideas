@@ -8,12 +8,15 @@ Not only that you'll find a list of projects but each project has _User Stories_
 
 Also, each project will have a Trello Board ready for you to clone and use to track your progress.
 
-All you have to do is clone
+After you choose your project, make sure you clone the Trello Board corresponding to it.
 
 ## To Do
 
 -   [ ] gather a list of projects to be added in the collection
--   [ ] write _User Stories_ for all of the projects
+-   [ ] write the main objective for each project
+-   [ ] write _User Stories_ for the project
+-   [ ] add bonus features where possible
+-   [ ] create a template to be used when adding new projects
 -   [ ] improve the design of the repo by adding images and tags
 -   [ ] add extra information to the README like:
     -   [ ] How people can collaborate by creating PR's?
