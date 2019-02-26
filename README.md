@@ -1,14 +1,21 @@
 ## App Ideas Collection
 
-Did you ever wanted to build something but you had no idea what to do? Are you sick of all the ToDo app ideas?
+Did you ever wanted to build something but you had no idea what to do?
 
 Welcome to the **biggest collection** of app ideas you could build to improve your coding skills and why not, to impress your next employer with a shiny portfolio!
 
-Not only that you'll find a list of projects but each project has _User Stories_ (a list of ToDo's) which will guide you through the process.
+Not only that you'll find a list of projects but each project has the following features which will guide you through the process:
 
-Also, each project will have a Trello Board ready for you to clone and use to track your progress.
+1. The main objective of the project
+2. A list of minimal _User Stories_ which have to be implemented
+3. A list of bonus features to improve the base project
+4. A Trello Board that can be cloned and used to track your progress
 
-After you choose your project, make sure you clone the Trello Board corresponding to it.
+### Projects
+
+## Contribution
+
+If you want to contribute you can open a PR by following the [Contribution Guide](./Contribution%20Guide.md).
 
 ## To Do
 
