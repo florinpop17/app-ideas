@@ -25,8 +25,6 @@ If you want to contribute you can open a PR by following the [Contribution Guide
 -   [ ] write the main objective for each project
 -   [ ] write _User Stories_ for the project
 -   [ ] add bonus features where possible
--   [ ] create a template to be used when adding new projects
 -   [ ] improve the design of the repo by adding images and tags
 -   [ ] add extra information to the README like:
-    -   [ ] How people can collaborate by creating PR's?
     -   [ ] How to use the information in this repo
