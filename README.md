@@ -13,6 +13,8 @@ Not only that you'll find a list of projects but each project has the following 
 
 ### Projects
 
+_In progress_
+
 ## Contribution
 
 If you want to contribute you can open a PR by following the [Contribution Guide](./Contribution%20Guide.md).
