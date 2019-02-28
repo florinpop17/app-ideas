@@ -13,9 +13,10 @@ Not only that you'll find a list of projects but each project has the following 
 
 ### Projects
 
-| Name                                             |
-| ------------------------------------------------ |
-| [Book Finder App](./Projects/Book-Finder-App.md) |
+| Name                                                                 |
+| -------------------------------------------------------------------- |
+| [Book Finder App](./Projects/Book-Finder-App.md)                     |
+| [Markdown Tables Generator](./Projects/Markdown-Tables-Generator.md) |
 
 ## Contribution
 

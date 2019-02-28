@@ -1,4 +1,4 @@
-## Book Finder App
+## Markdown Tables Generator
 
 Add a clear and descriptive description of the application.
 Answer to the following questions:
