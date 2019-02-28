@@ -1,4 +1,4 @@
-## Application Name
+# Application Name
 
 Add a clear and descriptive description of the application.
 Answer to the following questions:
@@ -24,3 +24,7 @@ Answer to the following questions:
 ## Useful links and resources
 
 Add all the useful links and resources corresponding to this project.
+
+## Example projects
+
+Add one or more example projects. This will act as a guide for the developer.
