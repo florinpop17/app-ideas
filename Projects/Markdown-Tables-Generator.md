@@ -1,26 +1,26 @@
-## Markdown Tables Generator
+# Markdown Tables Generator
 
-Add a clear and descriptive description of the application.
-Answer to the following questions:
-
--   "What is the main purpose of this application?"
--   "Is there any resource needed in order to complete the project?" - If the answer is yes, make sure you add it
+Create an application that will convert a regular table with data provided by the User (optionally) into a Makdown formated table.
 
 ## User Stories
 
--   [ ] first user story
--   [ ] second user story
--   [ ] third user story
--   [ ] forth user story
--   [ ] fifth user story
--   etc...
+-   [ ] User can create an `HTML table` with a given number of **Rows** and **Columns**
+-   [ ] User can insert text in each cell of the `HTML table`
+-   [ ] User can generate a `Markdown formatted table` that will contain the data from the `HTML table`
+-   [ ] User can preview the `Markdown formatted table`
 
 ## Bonus features
 
--   [ ] first bonus feature
--   [ ] second bonus feature
--   etc...
+-   [ ] User can copy the `Markdown formatter table` to the clipboard by pressing a button
+-   [ ] User can insert a new **Row** or **Column** to a specified location
+-   [ ] User can delete a **Row** or a **Column** entirely
+-   [ ] User can align (to the _left_, _right_ or _center_) a **cell**, a **column**, a **row**, or the entire **table**
 
 ## Useful links and resources
 
-Add all the useful links and resources corresponding to this project.
+-   [Markdown Guide](https://www.markdownguide.org/)
+-   [How to Copy to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
+
+## Example project
+
+-   [Tables Generator / Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
