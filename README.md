@@ -13,7 +13,9 @@ Not only that you'll find a list of projects but each project has the following 
 
 ### Projects
 
-_In progress_
+| Name                                           | Example |
+| ---------------------------------------------- | ------- |
+| [Book Finder App](./Projects/Book-Finder-App.) |         |
 
 ## Contribution
 
