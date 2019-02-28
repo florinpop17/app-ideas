@@ -1,33 +1,37 @@
 ## App Ideas Collection
 
-Did you ever wanted to build something but you had no idea what to do?
+Have you ever wanted to build something but you had no idea what to build or where to start?
 
-Welcome to the **biggest collection** of app ideas you could build to improve your coding skills and why not, to impress your next employer with a shiny portfolio!
+Welcome to the **biggest collection** of application ideas. (if not yet, it will be soon enough xD)
 
-Not only that you'll find a list of projects but each project has the following features which will guide you through the process:
+These applications are:
 
-1. The main objective of the project
-2. A list of minimal _User Stories_ which have to be implemented
-3. A list of bonus features to improve the base project
-4. A Trello Board that can be cloned and used to track your progress
+-   great to improve your coding skills;
+-   great to experiment with new technologies;
+-   great to be added in your portofolio to impress your next employer;
+-   great to be used as examples in tutorials (articles or videos);
+-   easy to complete but also can be extended with new features
 
-### Projects
+Not only that you'll find a list of projects but each project has the following features:
 
-| Name                                                               |
-| ------------------------------------------------------------------ |
-| [Book Finder App](./Projects/Book-Finder-App.md)                   |
+1. A clear and descriptive objective;
+2. A list of _User Stories_ which should be implemented; (these stories act more as a guideline than a forced list of _ToDo's_. Fell free to add your own features if you want)
+3. A list of bonus features that can improve the base project;
+4. A Trello Board that can be cloned and used to track your progress;
+
+## Projects
+
+| [Book Finder App](./Projects/Book-Finder-App.md) |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
 
-## Contribution
+### Contribution
 
-If you want to contribute you can open a PR by following the [Contribution Guide](./Contribution%20Guide.md).
+Any contributions are highly appreciated. In order to contribute you must fork the project and submit a PR. Before doing that, please make sure that you are reading and following the [Contribution Guide](./Contribution%20Guide.md).
 
-## To Do
+### Spread the word!
 
--   [ ] gather a list of projects to be added in the collection
--   [ ] write the main objective for each project
--   [ ] write _User Stories_ for the project
--   [ ] add bonus features where possible
--   [ ] improve the design of the repo by adding images and tags
--   [ ] add extra information to the README like:
-    -   [ ] How to use the information in this repo
+If the information from this repo was useful to you in any way, make sure you give it a star, this way others can find it and benefit too! Together we can grow and make our community better! :)
+
+Do you have any suggestions on how we could improve this project overall? Let me know! I'd love to hear your feedback!
+
+You can find me on [Twitter](https://twitter.com/florinpop1705) and on my [website](https://florin-pop.com).
