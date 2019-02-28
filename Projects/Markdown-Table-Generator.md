@@ -1,4 +1,4 @@
-# Markdown Tables Generator
+# Markdown Table Generator
 
 Create an application that will convert a regular table with data provided by the User (optionally) into a Makdown formated table.
 
