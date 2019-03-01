@@ -1,10 +1,16 @@
 ## App Ideas Collection
 
-Have you ever wanted to build something but you had no idea what to build or where to start?
+Welcome to the **biggest collection** of app ideas you could build to improve
+your coding skills and why not, to impress your next employer with a shiny
+portfolio!
 
-Welcome to the **biggest collection** of application ideas. (if not yet, it will be soon enough xD)
+Did you ever wanted to build something but you had no idea what to do? Just as
+authors sometimes have "writers block" it's also true for developers. Use this
+repo to get ideas for your next app to help you improve your skills or to share
+your idea with other developers.
 
-These applications are:
+This is indended not only to be a simple list of projects, but a list that
+describes each project in enough detail so you can develop it:
 
 -   great to improve your coding skills;
 -   great to experiment with new technologies;
