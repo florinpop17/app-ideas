@@ -28,6 +28,7 @@ Each project has the following features:
 | Name                                                               |
 | ------------------------------------------------------------------ |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   |
+| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
 
 ### Contribution
