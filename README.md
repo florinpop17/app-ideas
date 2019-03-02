@@ -31,11 +31,14 @@ Each project has the following **features**:
 
 ### Contribution
 
-Any contributions are highly appreciated. In order to contribute you must fork the project and submit a PR. Before doing that, please make sure that you are reading and following the [Contribution Guide](./Contribution%20Guide.md).
+Any contributions are highly appreciated. :pray: You can contribute in two ways:
+
+1. create an issue and tell us your idea :bulb:. Make sure you use the **new idea** label in this case;
+2. fork the project and submit a PR. Before doing that, please make sure that you are reading and following the [Contribution Guide](./Contribution%20Guide.md);
 
 ### Spread the word!
 
-If the information from this repo was useful to you in any way, make sure you give it a star, this way others can find it and benefit too! Together we can grow and make our community better! :)
+If the information from this repo was useful to you in any way, make sure you give it a star, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
 
 Do you have any suggestions on how we could improve this project overall? Let me know! I'd love to hear your feedback!
 
