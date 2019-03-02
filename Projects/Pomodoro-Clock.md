@@ -12,7 +12,6 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 -   [ ] User can change / customize the minutes in both sessions before starting
 -   [ ] User can hear a sound playing when the timer hits `00:00`
--   etc...
 
 ## Useful links and resources
 
