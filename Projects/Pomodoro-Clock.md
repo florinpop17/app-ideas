@@ -10,8 +10,9 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 ## Bonus features
 
+-   [ ] User can hear a sound playing when the timer hits `00:00` - denoting that the session has ended
 -   [ ] User can change / customize the minutes in both sessions before starting
--   [ ] User can hear a sound playing when the timer hits `00:00`
+-   [ ] User can set a **long break** session of 10 minutes. This will be activated every 4th **break** session
 
 ## Useful links and resources
 
