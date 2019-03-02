@@ -1,6 +1,4 @@
-## App Ideas Collection
-
-Welcome to the **biggest collection** of app ideas!
+## App Ideas Collection :ledger:
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers.
@@ -16,7 +14,7 @@ These applications are:
 This is indended not only to be a simple list of projects, but a list that
 describes each project in enough detail so you can develop it!
 
-Each project has the following features:
+Each project has the following **features**:
 
 1. A clear and descriptive objective;
 2. A list of _User Stories_ which should be implemented; (these stories act more as a guideline than a forced list of _ToDo's_. Fell free to add your own features if you want)
