@@ -29,6 +29,7 @@ Each project has the following **features**:
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
+| [String Art](./Projects/String-Art.md)                             |
 
 ### Contribution
 
