@@ -2,7 +2,7 @@
 
 Welcome to the **biggest collection** of app ideas!
 
-Did you ever wanted to build something but you had no idea what to do? Just as
+Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers.
 
 These applications are:

@@ -1,6 +1,6 @@
 # Kudo's Slackbot
 
-Have you ever recognizd a team mate's contributions or assistance in a Slack
+Have you ever recognized a team mate's contributions or assistance in a Slack
 channel only to find that it's lost after a few days? Let _*Kudo's*_ come to
 the rescue.
 
