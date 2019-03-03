@@ -18,6 +18,7 @@ Create and store your notes for later purpose!
 
 -   [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 -   [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+-   [Marked - A markdown parser](https://github.com/markedjs/marked)
 
 ## Example projects
 
