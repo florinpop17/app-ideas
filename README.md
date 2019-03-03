@@ -30,6 +30,7 @@ Each project has the following **features**:
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
+| [Timezone Slackbot](./Projects/Timezone-Slackbot.md)                |
 
 ## Contribution
 
