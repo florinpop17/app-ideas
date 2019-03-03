@@ -31,6 +31,7 @@ Each project has the following **features**:
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
 | [Notes App](./Projects/Notes-App.md)                               |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
+| [Ripple Lights](./Projects/Ripple-Lights-App.md)                   |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
 | [String Art](./Projects/String-Art.md)                             |
 
