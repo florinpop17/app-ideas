@@ -27,9 +27,12 @@ Each project has the following **features**:
 | ------------------------------------------------------------------ |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
+| [Markdown Previewer](./Projects/Markdown-Previewer.md)             |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
+| [Notes App](./Projects/Notes-App.md)                               |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
+| [String Art](./Projects/String-Art.md)                             |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)                |
 
 ## Contribution

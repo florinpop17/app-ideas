@@ -8,17 +8,17 @@ Answer to the following questions:
 
 ## User Stories
 
--   [ ] first user story
--   [ ] second user story
--   [ ] third user story
--   [ ] forth user story
--   [ ] fifth user story
+-   [ ] User can ... first user story
+-   [ ] User can ... second user story
+-   [ ] User can ... third user story
+-   [ ] User can ... forth user story
+-   [ ] User can ... fifth user story
 -   etc...
 
 ## Bonus features
 
--   [ ] first bonus feature
--   [ ] second bonus feature
+-   [ ] User can ... first bonus feature
+-   [ ] User can ... second bonus feature
 -   etc...
 
 ## Useful links and resources
