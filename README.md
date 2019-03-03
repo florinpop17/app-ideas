@@ -32,6 +32,7 @@ Each project has the following **features**:
 | [Notes App](./Projects/Notes-App.md)                               |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
+| [String Art](./Projects/String-Art.md)                             |
 
 ## Contribution
 
