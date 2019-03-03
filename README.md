@@ -33,6 +33,7 @@ Each project has the following **features**:
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
 | [String Art](./Projects/String-Art.md)                             |
+| [Windchill](./Projects/Windchill-App.md)                           |
 
 ## Contribution
 
