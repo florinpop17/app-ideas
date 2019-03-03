@@ -1,4 +1,4 @@
-# Application Name
+# StringArt
 
 The purpose of String Art is to provide the developer with practice creating a
 simple animated graphic, using geometry in the animation algorithm, and
@@ -27,8 +27,8 @@ recent 10-20 lines are visible to create the sense of movement or "ripple".
 
 ## Bonus features
 
--   [ ] Allow the user to specify the length of the line and it's velocity
--   [ ] Allow the user to specify the multiple lines within the window, all
+-   [ ] User can specify the length of the line and it's velocity
+-   [ ] User can specify the multiple lines within the window, all
 moving along different trajectories and velocities
 
 ## Useful links and resources
