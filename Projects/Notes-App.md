@@ -16,6 +16,7 @@ Create and store your notes for later purpose!
 
 ## Useful links and resources
 
+-   [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 -   [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Example projects
