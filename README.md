@@ -25,6 +25,7 @@ Each project has the following **features**:
 
 | Name                                                               |
 | ------------------------------------------------------------------ |
+| [Bin2Dec](./Projects/Bin2Dec-App.md)                               |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)             |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
