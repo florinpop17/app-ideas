@@ -36,6 +36,7 @@ Each project has the following **features**:
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
 | [String Art](./Projects/String-Art.md)                             |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               |
+| [TrueOrFalse](./Projects/True-or-False-App.md)                     |
 | [Wind Chill](./Projects/Windchill-App.md)                          |
 
 ## Contribution
