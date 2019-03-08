@@ -57,7 +57,7 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let me know! I'd love to hear your feedback!
 
-### Contributors
+### Main Contributors
 
-**Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
-**Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
+- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
