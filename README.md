@@ -28,6 +28,7 @@ Each project has the following **features**:
 | [Bin2Dec](./Projects/Bin2Dec-App.md)                               |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)             |
+| [Color Cycle](./Projects/Color-Cycle-App.md)                       |
 | [Flip Image](./Projects/Flip-image-App.md)                         |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             |
