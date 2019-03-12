@@ -14,6 +14,10 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 -   [ ] User can change / customize the minutes in both sessions before starting
 -   [ ] User can set a **long break** session of 10 minutes. This will be activated every 4th **break** session
 
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](https://trello.com/b/hLevRg1P/pomodoro-clock)
+
 ## Useful links and resources
 
 -   More about the [Pomodoro Technique](https://en.m.wikipedia.org/wiki/Pomodoro_Technique)
