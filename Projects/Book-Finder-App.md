@@ -14,6 +14,10 @@ Create an application that will allow users to search for books by entering a qu
 -   [ ] Implement a Responsive Design
 -   [ ] Add loading animations
 
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](https://trello.com/b/mmXLDSEO/book-finder-app)
+
 ## Useful links and resources
 
 You can use the [Google Books API](https://developers.google.com/books/docs/overview)
