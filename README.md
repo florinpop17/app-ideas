@@ -41,6 +41,10 @@ Each project has the following **features**:
 | [TrueOrFalse](./Projects/True-or-False-App.md)                     |
 | [Wind Chill](./Projects/Windchill-App.md)                          |
 
+## Trello Collection Boards
+
+You can find a collection of all the Trello Boards containing a separate board for each project individually by clicking [here](https://trello.com/appideascollection). Clone the board and use it to track your progress on the project you are working.
+
 ## Contribution
 
 Any contributions are highly appreciated. :pray: You can contribute in two ways:
@@ -60,5 +64,5 @@ Do you have any suggestions on how we could improve this project overall? Let me
 
 ### Main Contributors
 
-- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
-- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
+-   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+-   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
