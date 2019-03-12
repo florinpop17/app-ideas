@@ -62,11 +62,11 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let me know! I'd love to hear your feedback!
 
-### Main Contributors
+### Main Contributors 🙂🙂
 
 -   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
 -   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
 
-### Weekly Coding Challenge
+## Weekly Coding Challenge 🚀
 
 As a bonus, I'm organizing a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
