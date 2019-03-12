@@ -70,9 +70,3 @@ Do you have any suggestions on how we could improve this project overall? Let me
 ## Weekly Coding Challenge 🚀
 
 As a bonus, I'm organizing a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
-
-So basically I've been working on a project which aims to help people get to coding/practicing as soon as possible, avoiding all the "What should I build?" mambo-jumbo... You can read more about this project here: https://github.com/florinpop17/app-ideas
-
-Make sure you give it a star ⭐️ if you like it. (And you better do! 😆)
-
-And, I'd love to hear your feedback!
