@@ -25,8 +25,11 @@ Each project has the following **features**:
 
 | Name                                                               |
 | ------------------------------------------------------------------ |
+| [Bin2Dec](./Projects/Bin2Dec-App.md)                               |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)             |
+| [Color Cycle](./Projects/Color-Cycle-App.md)                       |
+| [Flip Image](./Projects/Flip-image-App.md)                         |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
@@ -35,6 +38,8 @@ Each project has the following **features**:
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
 | [String Art](./Projects/String-Art.md)                             |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               |
+| [TrueOrFalse](./Projects/True-or-False-App.md)                     |
+| [Wind Chill](./Projects/Windchill-App.md)                          |
 
 ## Contribution
 
@@ -53,4 +58,7 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let me know! I'd love to hear your feedback!
 
-You can find me on [Twitter](https://twitter.com/florinpop1705) and on my [website](https://florin-pop.com).
+### Main Contributors
+
+- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
