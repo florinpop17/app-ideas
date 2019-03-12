@@ -13,6 +13,10 @@ Convert Github flavored markdown into HTML code.
 -   [ ] When closing the browser window the markdown formatted text will be stored in `localStorage` and when the User returns, the data will be retrieved and displayed
 -   [ ] User can click a button and the content of the box is saved to the `clipboard`
 
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](https://trello.com/b/LfE51Ff6/markdown-previewer)
+
 ## Useful links and resources
 
 -   [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
