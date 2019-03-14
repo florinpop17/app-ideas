@@ -31,6 +31,7 @@ Each project has the following **features**:
 | [Color Cycle](./Projects/Color-Cycle-App.md)                       |
 | [Flip Image](./Projects/Flip-Image-App.md)                         |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
+| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)       |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
 | [Notes App](./Projects/Notes-App.md)                               |
