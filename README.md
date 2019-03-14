@@ -7,17 +7,17 @@ These applications are:
 
 -   great to improve your coding skills :muscle:;
 -   great to experiment with new technologies 🆕;
--   great to be added in your portofolio to impress your next employer/client :file_folder:;
+-   great to be added in your portfolio to impress your next employer/client :file_folder:;
 -   great to be used as examples in tutorials (articles or videos) :page_with_curl:;
 -   easy to complete and also easily extendable with new features :ok_hand:;
 
-This is indended not only to be a simple list of projects, but a list that
+This is intended not only to be a simple list of projects, but a list that
 describes each project in enough detail so you can develop it from the ground up!
 
 Each project has the following **features**:
 
 1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented; (these stories act more as a guideline than a forced list of _ToDo's_. Fell free to add your own features if you want);
+2. A list of _User Stories_ which should be implemented; (these stories act more as a guideline than a forced list of _To-Do's_. Fell free to add your own features if you want);
 3. A list of bonus features that can improve the base project;
 4. A Trello Board that can be cloned and used to track your progress;
 
