@@ -14,6 +14,15 @@ For example, on a real estate site clicking an address in a list of properties
 for sale displays the details about the property in another part of the 
 page.
 
+This challenge requires that the developer implementing it follow these
+constraints:
+
+- You are responsible for creating your own test data. Use a hardcoded 
+Javascript object to define your test data (see below).
+- Use only native HTML/CSS/Javascript in your first version of this app
+- You may use other packages or libraries when implementing subsequent 
+versions.
+
 ## User Stories
 
 -   [ ] User can see a list of person names arranged vertically in a summary
@@ -36,7 +45,18 @@ list when a new name is clicked.
 
 ## Useful links and resources
 
-[DOM Events](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- [DOM Events](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- Consider defining your test data in a JavaScript object having a format
+such as this:
+```
+const people = [
+  {name: "...", street: "...", city: "...", state: "...", country: "...", telephone: "...", birthday: "..."},
+  .
+  .
+  .
+  {name: "...", street: "...", city: "...", state: "...", country: "...", telephone: "...", birthday: "..."}
+];
+```
 
 ## Example projects
 
