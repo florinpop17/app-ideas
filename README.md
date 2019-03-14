@@ -46,6 +46,10 @@ Each project has the following **features**:
 
 You can find a collection of all the Trello Boards containing a separate board for each project individually by clicking [here](https://trello.com/appideascollection). Clone the board and use it to track your progress on the project you are working.
 
+## Plans for the future
+
+We are planning in the future to add different _Levels_ or _Tiers_ for the projects. This way you will be able to find easier a project which is more suited for your coding skills. You can start with easier projects and advance to the harder ones.
+
 ## Contribution
 
 Any contributions are highly appreciated. :pray: You can contribute in two ways:
