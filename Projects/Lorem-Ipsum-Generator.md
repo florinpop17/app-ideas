@@ -12,6 +12,10 @@ This app should generate passages of lorem ipsum text suitable for use as placeh
 
 -   [ ] User can select the units which will be generated: **words**, **sentences** or **paragraphs**
 
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](https://trello.com/b/T0xA0Glj/lorem-ipsum-generator)
+
 ## Useful links and resources
 
 -   [lorem-ipsum npm package](https://www.npmjs.com/package/lorem-ipsum)
