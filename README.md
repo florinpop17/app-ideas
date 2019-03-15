@@ -30,6 +30,7 @@ Each project has the following **features**:
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                 |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)             |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                       |
+| [Flashcards App](./Projects/FlashCards-App.md)                     |
 | [Flip Image](./Projects/Flip-Image-App.md)                         |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)       |
