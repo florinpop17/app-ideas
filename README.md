@@ -40,6 +40,7 @@ Each project has the following **features**:
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     |
 | [Slider Design](./Projects/Slider-Design.md)                       |
+| [Spell-It App](./Projects/Spellit-App.md)                          |
 | [String Art](./Projects/String-Art.md)                             |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               |
 | [To-Do App](./Projects/To-Do-App.md)                               |
