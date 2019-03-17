@@ -26,11 +26,11 @@ Each project has the following **features**:
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them. 
 
-| Tier | Developer Requirements |
+| Tier | Developer Profile      |
 |:----:|------------------------|
-| 1    | HTML/early JavaScript phase of their learning journey | 
-| 2    | - Comfortable with intermediate HTML, CSS, & JavaScript. <br>- Interested in using a framework/library like React, Vue, Angular, etc. |
-| 3    | - Intermediate or Advanced HTML/CSS/JavaScript<br>- Experience in a framework/library like React, Vue, Angular, etc. <br>- Understand API’s and interest in creating a REST or GraphQL API. <br>- Interest in or experience with databases using either a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL |
+| 1    | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications. | 
+| 2    | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
+| 3    | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services. |
 
 ### Tier-1: Beginner Projects
 

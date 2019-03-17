@@ -1,6 +1,5 @@
 # Kudo's Slackbot
 
-**App:** Kudo's Slackbot - Give recognition to a deserving peer<br>
 **Tier:** 3-Advanced
 
 Have you ever recognized a team mate's contributions or assistance in a Slack

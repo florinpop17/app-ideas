@@ -1,6 +1,5 @@
 # FlipImage
 
-**App:** FlipImage - Change the orientation of images across two axes<br>
 **Tier:** 1-Beginner
 
 It's important for Web Developers to understand the basics of manipulating

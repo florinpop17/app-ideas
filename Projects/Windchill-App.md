@@ -1,6 +1,5 @@
 # Windchill
 
-**App:** Windchill - Calculate the windchill factor from an actual temperature<br>
 **Tier:** 1-Beginner
 
 Windchill combines the actual temperature with the wind speed to calculate

@@ -1,6 +1,5 @@
 # Slider Design
 
-**App:** Slider Design - Display images using a slider control<br>
 **Tier:** 1-Beginner
 
 Display multiple images using a slider / carousel.

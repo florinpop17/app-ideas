@@ -1,6 +1,5 @@
 # TrueOrFalse
 
-**App:** TrueOrFalse - Identify the result of a conditional comparison<br>
 **Tier:** 1-Beginner
 
 Something every developer needs to clearly understand is the result of

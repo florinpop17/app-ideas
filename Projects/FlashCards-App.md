@@ -1,6 +1,5 @@
 # FlashCards
 
-**App:** FlashCards - Review and test your knowledge through Flash Cards<br>
 **Tier:** 2-Intermediate
 
 FlashCards are a time tested technique used by students to review and test 

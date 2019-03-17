@@ -1,6 +1,5 @@
 # Spell-It
 
-**App:** Spell-It - A twist on the classic Speak N Spell game<br>
 **Tier:** 3-Advanced
 
 Knowing how to spell is a fundamental part of being fluent in any language. 

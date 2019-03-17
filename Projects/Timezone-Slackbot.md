@@ -1,6 +1,5 @@
 # Timezone Slackbot - TZ
 
-**App:** Timezone Slackbot - Display Team Timezones<br>
 **Tier:** 2-Intermediate
 
 Team members often need to find out each others timezone as the first step

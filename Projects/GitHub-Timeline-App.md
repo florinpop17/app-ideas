@@ -1,6 +1,5 @@
 # GitHub Timeline
 
-**App:** GitHub Timeline - Generate a timeline of a users GitHub Repos<br>
 **Tier:** 3-Advanced
 
 API's and graphical representation of information are hallmarks of modern

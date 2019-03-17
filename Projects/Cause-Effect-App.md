@@ -1,6 +1,5 @@
 # CauseEffect
 
-**App:** CauseEffect - Click list item to display item details<br>
 **Tier:** 1-Beginner
 
 Patterns are integral to software engineering and represent potentially

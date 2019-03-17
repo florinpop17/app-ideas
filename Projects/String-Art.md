@@ -1,6 +1,5 @@
 # StringArt
 
-**App:** StringArt - An animation of moving, colored strings<br>
 **Tier:** 2-Intermediate
 
 The purpose of String Art is to provide the developer with practice creating a

@@ -1,6 +1,5 @@
 # ColorCycle
 
-**App:** Color Cycle - Cycle a color value through incremental changes<br>
 **Tier:** 1-Beginner
 
 The use of color plays a major role in an applications User Interface and

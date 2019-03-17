@@ -1,6 +1,5 @@
 # Book Finder App
 
-**App:** Book Finder - Search for books by multiple criteria<br>
 **Tier:** 2-Intermediate
 
 Create an application that will allow users to search for books by entering a query (Title, Author, etc). Display the resulting books in a list on the page with all the corresponding data.
