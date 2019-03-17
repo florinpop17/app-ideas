@@ -32,6 +32,7 @@ Each project has the following **features**:
 | [Color Cycle](./Projects/Color-Cycle-App.md)                       |
 | [Flashcards App](./Projects/FlashCards-App.md)                     |
 | [Flip Image](./Projects/Flip-Image-App.md)                         |
+| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)               |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)       |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             |
