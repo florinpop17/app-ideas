@@ -1,5 +1,8 @@
 # TrueOrFalse
 
+**App:** TrueOrFalse - Identify the result of a conditional comparison<br>
+**Tier:** 1-Beginner
+
 Something every developer needs to clearly understand is the result of
 conditional expressions like `x === y`. This is a bit more involved for
 Javascript developers who must also understand the concept of _truthiness_.

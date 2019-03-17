@@ -1,4 +1,7 @@
-# Application Name
+# Slack Archiver
+
+**App:** Slack Archiver - Archive Slack Messages<br>
+**Tier:** 3-Advanced
 
 Slack is a tool many teams rely on for collaboration not only between
 developers, but also between developers and their users. It's especially

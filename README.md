@@ -23,30 +23,51 @@ Each project has the following **features**:
 
 ## Projects
 
-| Name                                                               |
-| ------------------------------------------------------------------ |
-| [Bin2Dec](./Projects/Bin2Dec-App.md)                               |
-| [Book Finder App](./Projects/Book-Finder-App.md)                   |
-| [Cause Effect App](./Projects/Cause-Effect-App.md)                 |
-| [Christmas Lights](./Projects/Christmas-Lights-App.md)             |
-| [Color Cycle](./Projects/Color-Cycle-App.md)                       |
-| [Flashcards App](./Projects/FlashCards-App.md)                     |
-| [Flip Image](./Projects/Flip-Image-App.md)                         |
-| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)               |
-| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     |
-| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)       |
-| [Markdown Previewer](./Projects/Markdown-Previewer.md)             |
-| [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) |
-| [Notes App](./Projects/Notes-App.md)                               |
-| [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     |
-| [Slack Archiver](./Projects/Slack-Archiver.md)                     |
-| [Slider Design](./Projects/Slider-Design.md)                       |
-| [Spell-It App](./Projects/SpellIt-App.md)                          |
-| [String Art](./Projects/String-Art.md)                             |
-| [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               |
-| [To-Do App](./Projects/To-Do-App.md)                               |
-| [TrueOrFalse](./Projects/True-or-False-App.md)                     |
-| [Wind Chill](./Projects/Windchill-App.md)                          |
+Projects are divided into three tiers based on the knowledge and experience
+required to complete them. 
+
+| Tier | Developer Requirements |
+|:----:|------------------------|
+| 1    | HTML/early JavaScript phase of their learning journey | 
+| 2    | - Comfortable with intermediate HTML, CSS, & JavaScript. <br>- Interested in using a framework/library like React, Vue, Angular, etc. |
+| 3    | - Intermediate or Advanced HTML/CSS/JavaScript<br>- Experience in a framework/library like React, Vue, Angular, etc. <br>- Understand API’s and interest in creating a REST or GraphQL API. <br>- Interest in or experience with databases using either a NoSQL DBMS like MongoDB or a SQL DBMS like PostgreSQL |
+
+### Tier-1: Beginner Projects
+
+| Name                                                               | Description | Tier |
+| ------------------------------------------------------------------ |-------------|------|
+| [Bin2Dec](./Projects/Bin2Dec-App.md)                               | Binary-to-Decimal number converter | 1-Beginner |
+| [Christmas Lights](./Projects/Christmas-Lights-App.md)             | Simulate a string of Christmas lights | 1-Beginner |
+| [Cause Effect App](./Projects/Cause-Effect-App.md)                 | Click list item to display item details | 1-Beginner |
+| [Color Cycle](./Projects/Color-Cycle-App.md)                       | Cycle a color value through incremental changes | 1-Beginner |
+| [Flip Image](./Projects/Flip-Image-App.md)                         | Change the orientation of images across two axes | 1-Beginner |
+| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)       | Generate lorem ipsum placeholder text | 1-Beginner |
+| [Notes App](./Projects/Notes-App.md)                               | Create and online note pad | 1-Beginner |
+| [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                     | Task timer to aid personal productivity | 1-Beginner |
+| [Slider Design](./Projects/Slider-Design.md)                       | Display images using a slider control | 1-Beginner |
+| [TrueOrFalse](./Projects/True-or-False-App.md)                     | Identify the result of a conditional comparison | 1-Beginner |
+| [Wind Chill](./Projects/Windchill-App.md)                          | Calculate the windchill factor from an actual temperature | 1-Beginner |
+
+### Tier-2: Intermediate Projects
+
+| Name                                                               | Description | Tier |
+| ------------------------------------------------------------------ |-------------|------|
+| [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria | 2-Intermediate |
+| [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
+| [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown| 2-Intermediate |
+| [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text | 2-Intermediate |
+| [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings | 2-Intermediate |
+| [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones | 2-Intermediate |
+| [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks | 2-Intermediate |
+
+### Tier-3: Advanced Projects
+
+| Name                                                               | Description | Tier |
+| ------------------------------------------------------------------ |-------------|------|
+| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)               | Generate a timeline of a users GitHub Repos | 3-Advanced |
+| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     | Give recognition to a deserving peer| 3-Advanced |
+| [Slack Archiver](./Projects/Slack-Archiver.md)                     | Archive Slack Messages | 3-Advanced |
+| [Spell-It App](./Projects/SpellIt-App.md)                          | A twist on the classic Speak N Spell game | 3-Advanced |
 
 ## Trello Collection Boards
 

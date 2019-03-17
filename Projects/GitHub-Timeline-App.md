@@ -1,5 +1,8 @@
 # GitHub Timeline
 
+**App:** GitHub Timeline - Generate a timeline of a users GitHub Repos<br>
+**Tier:** 3-Advanced
+
 API's and graphical representation of information are hallmarks of modern
 web applications. GitHub Timeline combines the two to create a visual history
 of a users GitHub activity. 
@@ -45,6 +48,10 @@ your repos:
 ```
 curl -u "user-id" https://api.github.com/users/user-id/repos
 ```
+
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](https://trello.com/c/f1sxEryK)
 
 ## Example projects
 

@@ -1,5 +1,8 @@
 # CauseEffect
 
+**App:** CauseEffect - Click list item to display item details<br>
+**Tier:** 1-Beginner
+
 Patterns are integral to software engineering and represent potentially
 reusable components in program logic. However, patterns aren't used only
 for program logic, they are exist in other domains such as DevOps, user
@@ -42,6 +45,10 @@ using a selection effect (color, size, etc.) when it is clicked. This is a
 different effect from the hover effect
 -   [ ] User can see the selection effect removed from a name in the summary
 list when a new name is clicked.
+
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](TBD)
 
 ## Useful links and resources
 

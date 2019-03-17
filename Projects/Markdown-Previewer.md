@@ -1,5 +1,8 @@
 # Markdown Previewer
 
+**App:** Markdown Previewer - Preview text formatted in GitHub flavored markdown<br>
+**Tier:** 2-Intermediate
+
 Convert Github flavored markdown into HTML code.
 
 ## User Stories

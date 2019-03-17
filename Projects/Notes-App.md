@@ -1,5 +1,8 @@
 # Notes App
 
+**App:** Notes App - Create and online note pad<br>
+**Tier:** 1-Beginner
+
 Create and store your notes for later purpose!
 
 ## User Stories
