@@ -75,7 +75,7 @@ You can find a collection of all the Trello Boards containing a separate board f
 
 ## Plans for the future
 
-We are planning in the future to add different _Levels_ or _Tiers_ for the projects. This way you will be able to find easier a project which is more suited for your coding skills. You can start with easier projects and advance to the harder ones.
+We are planning in the future to create a website where you can easily browse through the projects.
 
 ## Contribution
 
