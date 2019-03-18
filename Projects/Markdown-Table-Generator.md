@@ -1,6 +1,8 @@
 # Markdown Table Generator
 
-Create an application that will convert a regular table with data provided by the User (optionally) into a Makdown formated table.
+**Tier:** 2-Intermediate
+
+Create an application that will convert a regular table with data provided by the User (optionally) into a Markdown formated table.
 
 ## User Stories
 

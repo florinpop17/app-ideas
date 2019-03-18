@@ -1,5 +1,7 @@
 # StringArt
 
+**Tier:** 2-Intermediate
+
 The purpose of String Art is to provide the developer with practice creating a
 simple animated graphic, using geometry in the animation algorithm, and
 creating something that's visually pleasant to watch.

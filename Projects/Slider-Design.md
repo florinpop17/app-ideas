@@ -1,5 +1,7 @@
 # Slider Design
 
+**Tier:** 1-Beginner
+
 Display multiple images using a slider / carousel.
 
 ## User Stories

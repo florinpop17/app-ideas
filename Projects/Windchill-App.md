@@ -1,5 +1,7 @@
 # Windchill
 
+**Tier:** 1-Beginner
+
 Windchill combines the actual temperature with the wind speed to calculate
 the windchill factor, or what the perceived temperature is versus the actual
 temperature.

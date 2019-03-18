@@ -1,5 +1,7 @@
 # To-Do App
 
+**Tier:** 2-Intermediate
+
 The clasic To-Do application where a user can write down all the things he wants to accomplish.
 
 ## User Stories

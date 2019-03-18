@@ -1,5 +1,7 @@
 # Christmas Lights
 
+**Tier:** 1-Beginner
+
 The ChristmasLights application relies on your development talents to create
 a mesmerizing light display. Your task is to draw seven colored circles
 in a row and based on a timer change the intensity of each each circle. When

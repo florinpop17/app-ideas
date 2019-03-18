@@ -1,5 +1,7 @@
 # FlashCards
 
+**Tier:** 2-Intermediate
+
 FlashCards are a time tested technique used by students to review and test 
 their knowledge on a particular subject. 
 
@@ -35,6 +37,10 @@ and incorrect answers.
 -   [ ] User can click a 'More Info' button to flip the flash card to see
 additional information. For example, detailed information about the subject
 of the question on the front of the card.
+
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](TBD)
 
 ## Useful links and resources
 

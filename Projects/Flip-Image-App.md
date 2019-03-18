@@ -1,5 +1,7 @@
 # FlipImage
 
+**Tier:** 1-Beginner
+
 It's important for Web Developers to understand the basics of manipulating
 images since rich web applications rely on images to add value to the user
 interface and user experience (UI/UX).

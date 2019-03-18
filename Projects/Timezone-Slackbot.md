@@ -1,5 +1,7 @@
 # Timezone Slackbot - TZ
 
+**Tier:** 2-Intermediate
+
 Team members often need to find out each others timezone as the first step
 in finding times for meetings and pair programming sessions. To help with this
 the Timezone Slack bot accepts as list of Slack user names and displays the
