@@ -31,6 +31,10 @@ in the word input text box
 -   [ ] User can press the 'Enter' key on the keyboard to submit a typed word
 or click the 'Enter' button in the app window
 
+## Trello Board
+
+You can track your progress by cloning this [Trello Board](https://trello.com/b/Jf3yOiaJ/spell-it)
+
 ## Useful links and resources
 
 - [Texas Instruments Speak and Spell](https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy))
