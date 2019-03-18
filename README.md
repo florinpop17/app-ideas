@@ -92,7 +92,7 @@ You can also add your own examples to the projects after you have completed them
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
 
-Do you have any suggestions on how we could improve this project overall? Let me know! I'd love to hear your feedback!
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
 ### Main Contributors 🙂🙂
 
@@ -101,4 +101,4 @@ Do you have any suggestions on how we could improve this project overall? Let me
 
 ## Weekly Coding Challenge 🚀
 
-As a bonus, I'm organizing a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
+As a bonus, there's a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
