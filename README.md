@@ -97,7 +97,7 @@ Do you have any suggestions on how we could improve this project overall? Let me
 ### Main Contributors 🙂🙂
 
 -   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock)
+-   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
 ## Weekly Coding Challenge 🚀
 

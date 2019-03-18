@@ -50,7 +50,7 @@ curl -u "user-id" https://api.github.com/users/user-id/repos
 
 ## Trello Board
 
-You can track your progress by cloning this [Trello Board](https://trello.com/c/f1sxEryK)
+You can track your progress by cloning this [Trello Board](https://trello.com/b/xk07bnhM/github-timeline)
 
 ## Example projects
 
