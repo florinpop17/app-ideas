@@ -56,7 +56,7 @@ required to complete them.
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown| 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text | 2-Intermediate |
-| [Sports Bracket Generator](./Projects/SportsBracket-App.md)        | Generate a sports bracket diagram  | 2-Intermediate |
+| [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram  | 2-Intermediate |
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks | 2-Intermediate |
