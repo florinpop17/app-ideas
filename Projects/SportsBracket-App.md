@@ -1,4 +1,4 @@
-# SportsBracket Generator
+# Sports Bracket Generator
 
 **Tier:** 2-Intermediate
 
