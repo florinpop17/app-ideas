@@ -23,6 +23,10 @@ Answer to the following questions:
 -   [ ] User can ... second bonus feature
 -   etc...
 
+## Project Board
+
+You can track your progress by cloning this [TBD](url-goes-here)
+
 ## Useful links and resources
 
 Add all the useful links and resources corresponding to this project.

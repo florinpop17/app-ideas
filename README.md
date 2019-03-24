@@ -69,6 +69,7 @@ required to complete them.
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     | Give recognition to a deserving peer| 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                     | Archive Slack Messages | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                          | A twist on the classic Speak N Spell game | 3-Advanced |
+| [Survey App](./Projects/Survey-App.md)                             | Define, conduct, and view a survey | 3-Advanced |
 
 ## Trello Collection Boards
 
