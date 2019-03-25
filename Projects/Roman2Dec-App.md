@@ -18,8 +18,6 @@ See the below table with *Symbol - Value*
  	D - 500
  	M - 1000
 
-Please take a look in Wikipedia [for more details about Roman Numbers](https://en.wikipedia.org/wiki/Roman_numerals)
-
 This challenge requires that the developer implementing it follow these
 constraints:
 
