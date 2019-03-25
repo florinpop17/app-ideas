@@ -2,13 +2,11 @@
 
 **Tier:** 1-Beginner
 
-The purpose of this app is to allow the user put in practice both, algorithmic and Web Development knowledge by creating a Roman to Decimal numbers converter app.
-
 The numeric system represented by Roman numerals originated in ancient Rome and remained the
 usual way of writing numbers throughout Europe well into the Late Middle Ages.
 Roman numerals, as used today, employ seven symbols, each with a fixed integer value.
 
-See the below table with _Symbol - Value_
+See the below table the _Symbol - Value_ pairs:
 
 -   I - 1
 -   V - 5
