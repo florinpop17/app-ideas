@@ -1,4 +1,4 @@
-# Roman to Decimal numbers Convertor
+# Roman to Decimal numbers Converter
 
 **Tier:** 1-Beginner
 
