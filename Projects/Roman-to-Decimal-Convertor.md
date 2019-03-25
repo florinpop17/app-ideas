@@ -1,6 +1,6 @@
 # Roman to Decimal numbers Convertor
 
-**Tier:** 1-Intermediate
+**Tier:** 1-Beginner
 
 The purpose of this app is to allow the user put in practice both, algorithmic and Web Development knowledge by creating a Roman to Decimal numbers converter app.
 
