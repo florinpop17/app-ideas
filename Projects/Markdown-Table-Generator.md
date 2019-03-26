@@ -18,10 +18,6 @@ Create an application that will convert a regular table with data provided by th
 -   [ ] User can delete a **Row** or a **Column** entirely
 -   [ ] User can align (to the _left_, _right_ or _center_) a **cell**, a **column**, a **row**, or the entire **table**
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/Nrld5Fmn/markdown-table-generator)
-
 ## Useful links and resources
 
 -   [Markdown Guide](https://www.markdownguide.org/)

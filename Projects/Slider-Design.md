@@ -15,10 +15,6 @@ Display multiple images using a slider / carousel.
 -   [ ] Add text over the slides
 -   [ ] Create a 3D effect
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/3yPOCs1R/slider-design)
-
 ## Useful links and resources
 
 -   [Unsplash](https://unsplash.com/) for free images

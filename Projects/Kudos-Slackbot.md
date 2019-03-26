@@ -32,10 +32,6 @@ efforts and to make it available through a simple Slack command.
 
 -   [ ] User may list the individual having the most kudos, in descending order, user the Slack command: `/kudo top <n>` where `n` is an integer or `*` for all individuals who have received a kudo
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/bYzRZwIw/kudos-slackbot)
-
 ## Useful links and resources
 
 -   [Slack API](https://api.slack.com/)

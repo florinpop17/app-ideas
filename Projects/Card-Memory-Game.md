@@ -21,10 +21,6 @@ When the User clicks on the 2nd card:
 -   [ ] Use can choose between multiple levels of difficulty (Easy, Medium, Hard). Increased difficulty means: decreasing the time available to complete and/or increasing the number of cards
 -   [ ] User can see the game statistics (nr. of times he won / he lost, best time for each level)
 
-## Project Board
-
-You can track your progress by cloning this [TBD](url-goes-here)
-
 ## Useful links and resources
 
 -   [Wikipedia](<https://en.wikipedia.org/wiki/Concentration_(game)>)

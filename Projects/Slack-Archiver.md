@@ -35,10 +35,6 @@ development of this application.
 
 -   [ ] Implememnt an API that allows an application to extract archived messages from the archive database
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/yqsaX7fy/slack-archiver)
-
 ## Useful links and resources
 
 Details of the Slack API can be found [here](https://api.slack.com/).

@@ -27,10 +27,6 @@ Animation libraries are not allowed. Use only Vanilla HTML/CSS/JavaScript.
 -   [ ] User can specify the length of the line and it's velocity
 -   [ ] User can specify the multiple lines within the window, all moving along different trajectories and velocities
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/1pyCZmkb/string-art)
-
 ## Useful links and resources
 
 -   [Using Multistep Animations & Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)

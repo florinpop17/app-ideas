@@ -19,10 +19,6 @@ temperature.
 -   [ ] User will be prompted to enter new data values if `Calculate` is pressed without first changing at least one of the input fields
 -   [ ] User will see an updated wind chill factor whenever new actual temperature or wind speed values are entered, without being required to click the `Calculate` button
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/qyxlrbMU/windchill)
-
 ## Useful links and resources
 
 -   [Wikipedia Wind Chill](https://en.wikipedia.org/wiki/Wind_chill)

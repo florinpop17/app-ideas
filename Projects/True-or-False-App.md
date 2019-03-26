@@ -25,10 +25,6 @@ the `eval()` function to generate the result of the conditional.
 
 -   [ ] User can specify the type of each of the two strings so numbers can be compared to strings, strings to booleans, etc
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/opv2KRXy/true-or-false)
-
 ## Useful links and resources
 
 -   [Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)

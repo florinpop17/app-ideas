@@ -29,10 +29,6 @@ implemented a more pleasing and user-friendly format may be used.
 
 -   [ ] User can see the persons timezone displayed next to their name. For example, 'IST' for India Standard Time
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/HcMP9WSY/timezone-slackbot)
-
 ## Useful links and resources
 
 More information about timezones can be found [here](https://www.timeanddate.com/time/current-number-time-zones.html)

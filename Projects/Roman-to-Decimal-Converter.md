@@ -27,10 +27,6 @@ See the below table the _Symbol - Value_ pairs:
 -   [ ] User could see the conversion to be made automatically as I type
 -   [ ] User should be able to convert from decimal to Roman (vice-versa)
 
-## Trello Board
-
-pending...
-
 ## Useful links and resources
 
 -   [An explanation of Roman Numbers](https://en.wikipedia.org/wiki/Roman_numerals)

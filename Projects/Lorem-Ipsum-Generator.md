@@ -10,10 +10,6 @@ This app should generate passages of lorem ipsum text suitable for use as placeh
 -   [ ] User can type into an input field the number of paragraphs of lorem ipsum to be generated
 -   [ ] Use can see the generated paragraphs of lorem ipsum and is able to copy them
 
-## Bonus features
-
--   [ ] User can select the units which will be generated: **words**, **sentences** or **paragraphs**
-
 ## Trello Board
 
 You can track your progress by cloning this [Trello Board](https://trello.com/b/T0xA0Glj/lorem-ipsum-generator)

@@ -23,10 +23,6 @@ displayed during the Christmas Holidays.
 -   [ ] User can specify the number of rows to be included in the display. From
         one to seven rows can be chosen
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/tSWBdyMC/christmas-lights)
-
 ## Useful links and resources
 
 -   [Sample Image](https://previews.123rf.com/images/whiterabbit/whiterabbit1003/whiterabbit100300020/6582600-seven-color-balls-red-orange-yellow-green-cyan-blue-and-magenta-in-a-row-on-a-white-background.jpg)

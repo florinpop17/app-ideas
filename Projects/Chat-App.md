@@ -22,10 +22,6 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 -   [ ] Users can chat in private
 -   [ ] Users can join `channels` on specific topics
 
-## Project Board
-
-You can track your progress by cloning this [TBD](url-goes-here)
-
 ## Useful links and resources
 
 -   [Socket.io](https://socket.io)

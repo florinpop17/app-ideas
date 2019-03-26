@@ -19,10 +19,6 @@ The clasic To-Do application where a user can write down all the things he wants
 -   [ ] User can see the date when he created the to-do
 -   [ ] When closing the browser window the to-do's will be stored and when the User returns, the data will be retrieved
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/uLMzyrql/to-do-app)
-
 ## Useful links and resources
 
 -   [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)

@@ -32,10 +32,6 @@ an RGB color specification (e.g. `#000000` color code).
 -   [ ] User can change the time interval between color changes
 -   [ ] User can specify the color encoding format used from RGB to another format like HSL
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/ma9stKn2/color-cycle)
-
 ## Useful links and resources
 
 [CSS Color Codes](https://www.quackit.com/css/css_color_codes.cfm)

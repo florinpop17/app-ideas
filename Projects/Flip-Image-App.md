@@ -25,10 +25,6 @@ Image packages and libraries are not allowed.
 -   [ ] User can display the new image by clicking a 'Display' button next to the input field
 -   [ ] User can see an error message if the new images URL is not found
 
-## Trello Board
-
-You can track your progress by cloning this [Trello Board](https://trello.com/b/QCl64Zc1/flip-image)
-
 ## Useful links and resources
 
 -   [How to Flip an Image](https://www.w3schools.com/howto/howto_css_flip_image.asp)
