@@ -6,6 +6,5 @@ This guide will help us ensure that you have a simple and effective way to contr
 -   Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
 -   Make sure you check your spelling and grammar.
 -   Create individual PR for each suggestion.
--   A Trello Board will be created by one of the Team Members after the PR will get merged.
 
 Thank you for spending your time to improve this project! ^\_^
