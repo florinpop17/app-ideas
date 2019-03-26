@@ -21,7 +21,7 @@ Each project has the following **features**:
 1. A clear and descriptive objective;
 2. A list of _User Stories_ which should be implemented; (these stories act more as a guideline than a forced list of _To-Do's_. Fell free to add your own features if you want);
 3. A list of bonus features that can improve the base project;
-4. A Trello Board that can be cloned and used to track your progress;
+4. All the necessary resources and useful links;
 
 ## Projects
 
@@ -76,10 +76,6 @@ required to complete them.
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
-
-## Trello Collection Boards
-
-You can find a collection of all the Trello Boards containing a separate board for each project individually by clicking [here](https://trello.com/appideascollection). Clone the board and use it to track your progress on the project you are working.
 
 ## Plans for the future
 
