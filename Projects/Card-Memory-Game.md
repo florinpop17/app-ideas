@@ -32,4 +32,5 @@ You can track your progress by cloning this [TBD](url-goes-here)
 ## Example projects
 
 -   [Flip - card memory game](https://codepen.io/zerospree/full/bNWbvW)
+-   [Memory Game](https://jdmedlock.github.io/memorygame/)
 -   [SMB3 Memory Card Game](https://codepen.io/hexagoncircle/full/OXBJxV)
