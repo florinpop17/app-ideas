@@ -54,6 +54,7 @@ required to complete them.
 | Name                                                               | Description                                        | Tier           |
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
+| [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
@@ -64,14 +65,14 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
-| Name                                                               | Description | Tier |
-| ------------------------------------------------------------------ |-------------|------|
-| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game | 3-Advanced |
-| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)               | Generate a timeline of a users GitHub Repos | 3-Advanced |
-| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                     | Give recognition to a deserving peer| 3-Advanced |
-| [Slack Archiver](./Projects/Slack-Archiver.md)                     | Archive Slack Messages | 3-Advanced |
-| [Spell-It App](./Projects/SpellIt-App.md)                          | A twist on the classic Speak N Spell game | 3-Advanced |
-| [Survey App](./Projects/Survey-App.md)                             | Define, conduct, and view a survey | 3-Advanced |
+| Name                                                           | Description                                          | Tier       |
+| -------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
+| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
+| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
+| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
+| [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
+| [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
+| [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
 
 ## Trello Collection Boards
 
