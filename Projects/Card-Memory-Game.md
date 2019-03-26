@@ -28,4 +28,5 @@ When the User clicks on the 2nd card:
 ## Example projects
 
 -   [Flip - card memory game](https://codepen.io/zerospree/full/bNWbvW)
+-   [Memory Game](https://jdmedlock.github.io/memorygame/)
 -   [SMB3 Memory Card Game](https://codepen.io/hexagoncircle/full/OXBJxV)
