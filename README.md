@@ -71,6 +71,7 @@ required to complete them.
 
 | Name                                                           | Description                                          | Tier       |
 | -------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
+| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship           | 3-Advanced |
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
 | [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                             | 3-Advanced |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
