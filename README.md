@@ -19,8 +19,8 @@ describes each project in enough detail so you can develop it from the ground up
 Each project has the following **features**:
 
 1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented; (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own features if you want);
-3. A list of bonus features that can improve the base project. These are optional and should be attempted only after you have completed the required user stories;
+2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
+3. A list of bonus features that can improve the base project (hese are optional and should be attempted only after you have completed the required user stories)
 4. All the necessary resources and useful links;
 
 ## Projects
