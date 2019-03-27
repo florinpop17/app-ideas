@@ -36,7 +36,7 @@ required to complete them.
 
 ### Tier-1: Beginner Projects
 
-| Name                                                                   | Description                                               | Tier       |
+| Name                                                                   | Short Description                                         | Tier       |
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | [Bin2Dec](./Projects/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                        | 1-Beginner |
 | [Border Radius Previewer](./Projects/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element   | 1-Beginner |
@@ -55,7 +55,7 @@ required to complete them.
 
 ### Tier-2: Intermediate Projects
 
-| Name                                                               | Description                                        | Tier           |
+| Name                                                               | Short Description                                  | Tier           |
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
@@ -69,7 +69,7 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
-| Name                                                           | Description                                          | Tier       |
+| Name                                                           | Short Description                                    | Tier       |
 | -------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
 | [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship           | 3-Advanced |
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
