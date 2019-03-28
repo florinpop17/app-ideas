@@ -36,6 +36,3 @@ Animation libraries are not allowed. Use only Vanilla HTML/CSS/JavaScript.
 
 This project is very close, but has a small enclosing window and is monchromatic.
 [Daniel Cortes](https://codepen.io/dgca/pen/dpxreO)
-
-This project is similar, but contains multiple lines and is monochromatic
-[Brendan Mcintosh](https://codepen.io/BrendanMcintosh/pen/eBvRpy)
