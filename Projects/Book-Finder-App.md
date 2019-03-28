@@ -19,3 +19,7 @@ Create an application that will allow users to search for books by entering a qu
 ## Useful links and resources
 
 You can use the [Google Books API](https://developers.google.com/books/docs/overview)
+
+## Example projects
+
+[Book Finder](https://book-finder-by-deyl.netlify.com/)
