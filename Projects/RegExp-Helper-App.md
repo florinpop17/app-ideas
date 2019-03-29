@@ -3,8 +3,8 @@
 **Tier:** 2-Intermediate
 
 Regular Expressions should be a valuable part of any developers toolbox. They
-provide a concise way to describe a pattern that can be used by JavaScripts
-RegExp object to test, search, match, replace, or split the contents of a 
+provide a concise way to describe a pattern that can be used to test, search, 
+match, replace, or split the contents of a 
 string. Regular Expressions provide functionality you might otherwise have to
 implement using loops and more lines of code.
 
@@ -19,7 +19,8 @@ you use in your apps.
 -   [ ] User can click a 'Run' button to test
 -   [ ] User can see a warning message if no regular expression was entered.
 -   [ ] User can see a warning message if no string was entered.
--   [ ] User can see a message indicating if `test()` was able to locate the pattern in the string.
+-   [ ] User can see the matching text highlighted indicating if `test()` was able to locate the pattern in the string.
+-   [ ] User can see a message if none of the text was matched.
 
 ## Bonus features
 
