@@ -13,15 +13,14 @@ These applications are:
 -   great to be used as examples in tutorials (articles or videos) :page_with_curl:;
 -   easy to complete and also easily extendable with new features :ok_hand:;
 
-This is intended not only to be a simple list of projects, but a list that
-describes each project in enough detail so you can develop it from the ground up!
+This is not just a simple list of projects, but a collection that describes each project in enough detail so you can develop it from the ground up!
 
 Each project has the following **features**:
 
 1. A clear and descriptive objective;
 2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that can improve the base project (these are optional and should be attempted only after you have completed the required user stories)
-4. All the necessary resources and useful links;
+3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
+4. All the resources and links to help you find what you need to complete the project
 
 ## Projects
 
