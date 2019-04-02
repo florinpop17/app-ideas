@@ -42,6 +42,7 @@ required to complete them.
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                     | 1-Beginner |
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                     | Click list item to display item details                   | 1-Beginner |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
+| [CSV2JSON App](./Projects/CSV2JSON-App.md)                              | CSV to JSON converter                                      | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                              | JSON to CSV converter                                      | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
