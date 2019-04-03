@@ -37,6 +37,7 @@ to generate CSV for the header and data rows.
 -   [ ] User can enter the path the CSV file is to be saved to in a text box
 -   [ ] User can click a 'Save' button to save the CSV file to the local file system
 -   [ ] User can see a warning message if the CSV text box is empty or if the save operation failed.
+-   [ ] User can convert CSV data to JSON. See [CSV2JSON](./CSV2JSON-App.md)
 
 ## Useful links and resources
 
