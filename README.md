@@ -42,9 +42,9 @@ required to complete them.
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                     | 1-Beginner |
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                     | Click list item to display item details                   | 1-Beginner |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
-| [CSV2JSON App](./Projects/CSV2JSON-App.md)                              | CSV to JSON converter                                      | 1-Beginner |
+| [CSV2JSON App](./Projects/CSV2JSON-App.md)                             | CSV to JSON converter                                     | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
-| [JSON2CSV App](./Projects/JSON2CSV-App.md)                              | JSON to CSV converter                                      | 1-Beginner |
+| [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create and online note pad                                | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
@@ -60,11 +60,12 @@ required to complete them.
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
+| [Drawing App](./Projects/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
-| [HighStriker Game](./Projects/HighStriker-Game.md)                     | Highstriker strongman carnival game                      | 2-Intermediate |
+| [HighStriker Game](./Projects/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
-| [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                   | 2-Intermediate |
+| [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
