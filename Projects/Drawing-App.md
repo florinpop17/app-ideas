@@ -19,7 +19,7 @@ Create digital artwork on a canvas on the web to share online and also export as
 
 ## Useful links and resources
 
--   [Drawing Application using p5js](https://www.florin-pop.com/blog/2019/04/drawing-app-built-with-p5js/)
+-   [Learn how to create a Drawing Application using p5js](https://www.florin-pop.com/blog/2019/04/drawing-app-built-with-p5js/)
 
 ## Example projects
 
