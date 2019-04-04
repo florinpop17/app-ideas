@@ -86,7 +86,9 @@ required to complete them.
 
 ## Plans for the future
 
-We are planning in the future to create a website where you can easily browse through the projects.
+We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
+
+We are also planning to create a website where you can easily browse through all of the projects.
 
 ## Contribution
 
