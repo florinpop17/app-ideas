@@ -61,6 +61,7 @@ required to complete them.
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Drawing App](./Projects/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
+| [Emoji Translator App](./Projects/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [HighStriker Game](./Projects/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
