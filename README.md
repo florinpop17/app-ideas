@@ -82,6 +82,7 @@ required to complete them.
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
 | [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                             | 3-Advanced |
 | [🌟Elevator](./Projects/Elevator-App.md)                         | Elevator simulator                                   | 3-Advanced |
+| [🌟Fast Food Simulator](./Projects/FastFood-App.md)                   | Fast Food Restaurant Simulator                     | 3-Advanced     |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
