@@ -15,6 +15,7 @@ Allow users to generate custom memes by adding text over an image.
 
 ## Bonus features
 
+-   [ ] User can select the font-family for the text
 -   [ ] User can share the meme on social media (twitter, reddit, facebook, etc)
 -   [ ] User can drag the text around and place it wherever he wants on top of the image
 -   [ ] User can draw shapes on top of the image (circles, rectangles, or free drawing with the mouse)
