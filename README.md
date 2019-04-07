@@ -53,6 +53,7 @@ required to complete them.
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
 | [Wind Chill](./Projects/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature | 1-Beginner |
+🌟 - New Project
 
 ### Tier-2: Intermediate Projects
 
@@ -60,8 +61,8 @@ required to complete them.
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
-| [Drawing App](./Projects/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
-| [Emoji Translator App](./Projects/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
+| [🌟Drawing App](./Projects/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
+| [🌟Emoji Translator App](./Projects/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [HighStriker Game](./Projects/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
@@ -71,6 +72,7 @@ required to complete them.
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
+🌟 - New Project
 
 ### Tier-3: Advanced Projects
 
@@ -79,12 +81,13 @@ required to complete them.
 | [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship           | 3-Advanced |
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
 | [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                             | 3-Advanced |
-| [Elevator](./Projects/Elevator-App.md)                         | Elevator simulator                                   | 3-Advanced |
+| [🌟Elevator](./Projects/Elevator-App.md)                         | Elevator simulator                                   | 3-Advanced |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
+🌟 - New Project
 
 ## Plans for the future
 
