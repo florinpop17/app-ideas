@@ -21,6 +21,7 @@ input text box was empty or unchanged from the last translation.
 -   [ ] User can see text elements in the entered text translated to their
 equivalent emojis in an output text box. Text elements for which there is no
 emoji will be left unchanged.
+-   [ ] User can click a 'Clear' button to clear the input and output text boxes.
 
 ## Bonus features
 
