@@ -53,6 +53,7 @@ required to complete them.
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
 | [Wind Chill](./Projects/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature | 1-Beginner |
+
 🌟 - New Project
 
 ### Tier-2: Intermediate Projects
@@ -72,6 +73,7 @@ required to complete them.
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
+
 🌟 - New Project
 
 ### Tier-3: Advanced Projects
@@ -88,6 +90,7 @@ required to complete them.
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
+
 🌟 - New Project
 
 ## Plans for the future
