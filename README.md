@@ -86,6 +86,7 @@ required to complete them.
 | [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                       | 3-Advanced |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
+| [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                  | 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
