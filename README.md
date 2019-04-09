@@ -41,6 +41,7 @@ required to complete them.
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | [Bin2Dec](./Projects/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                        | 1-Beginner |
 | [Border Radius Previewer](./Projects/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element   | 1-Beginner |
+| [🌟Calculator](./Projects/Calculator-App.md)                             | Calculator                                                | 1-Beginner |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                     | 1-Beginner |
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                     | Click list item to display item details                   | 1-Beginner |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
