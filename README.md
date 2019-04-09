@@ -74,6 +74,7 @@ required to complete them.
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
+| [🌟Typing Practice](./Projects/Typing-Practice-App.md)                | Typing Practice                                         | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
 
