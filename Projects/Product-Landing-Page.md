@@ -26,8 +26,9 @@ These will cover the functional part of the project.
 
 ## Useful links and resources
 
-N/A
+There are plenty of Product Landing Pages out there. You can use [Dribbble](www.dribbble.com) and [Behance](www.behance.net) for inspiration.
 
 ## Example projects
 
--   [Product Landing Page]
+-   [Netlify](https://www.netlify.com/)
+-   [Product Landing Page - Codepen](https://codepen.io/l4ci/pen/LoGjk)
