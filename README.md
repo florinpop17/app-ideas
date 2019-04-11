@@ -41,7 +41,7 @@ required to complete them.
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | [Bin2Dec](./Projects/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                        | 1-Beginner |
 | [Border Radius Previewer](./Projects/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element   | 1-Beginner |
-| [🌟Calculator](./Projects/Calculator-App.md)                             | Calculator                                                | 1-Beginner |
+| [🌟Calculator](./Projects/Calculator-App.md)                           | Calculator                                                | 1-Beginner |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                     | 1-Beginner |
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                     | Click list item to display item details                   | 1-Beginner |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
@@ -51,6 +51,7 @@ required to complete them.
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create and online note pad                                | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
+| [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                          | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
@@ -75,7 +76,7 @@ required to complete them.
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
-| [🌟Typing Practice](./Projects/Typing-Practice-App.md)                | Typing Practice                                         | 2-Intermediate |
+| [🌟Typing Practice](./Projects/Typing-Practice-App.md)             | Typing Practice                                    | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
 
