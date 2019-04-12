@@ -48,12 +48,13 @@ required to complete them.
 | [CSV2JSON App](./Projects/CSV2JSON-App.md)                             | CSV to JSON converter                                     | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
-| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
+| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                   | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create and online note pad                                | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
 | [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
-| [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                          | 1-Beginner |
+| [🌟Recipe App](./Projects/Recipe-App.md)                               | Recipe                                                    | 1-Beginner |
+| [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                    | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
 | [:star2: Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
@@ -73,6 +74,7 @@ required to complete them.
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [🌟Meme Generator App](./Projects/Meme-Generator-App.md)           | Create custom memes                                | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
+| [🌟Simple Online Store](./Projects/Simple-Online-Store.md)         | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
