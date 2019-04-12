@@ -55,7 +55,7 @@ required to complete them.
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                          | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
-| [Stopwatch App](./Projects/Stopwatch-App.md)                           | Count time spent on activities                            | 1-Beginner |
+| [:star2: Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
 | [Wind Chill](./Projects/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature | 1-Beginner |
 
