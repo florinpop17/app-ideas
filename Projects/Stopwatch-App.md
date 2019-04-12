@@ -22,4 +22,5 @@ A stopwatch helps you track the time you spent on activities.
 
 ## Example projects
 
--   [StopWatch by Billy Brown](https://codepen.io/_Billy_Brown/pen/dbJeh)
+-   [Stopwatch by Hilo](https://codepen.io/hilotacker/pen/ONZWoX)
+-   [Stopwatch by Billy Brown](https://codepen.io/_Billy_Brown/pen/dbJeh)
