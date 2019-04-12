@@ -48,8 +48,8 @@ practice sessions.
 
 ## Useful links and resources
 
-[keydown](https://developer.mozilla.org/en-US/docs/Web/Events/keydown)
-[setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
+- [keydown](https://developer.mozilla.org/en-US/docs/Web/Events/keydown)
+- [setInterval](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 
 ## Example projects
 
