@@ -10,7 +10,7 @@ a mallet it causes a puck to travel up a track attached to the tower.
 When the platform is struck the puck travels vertically up the track. If hit
 hard enough enough the puck will ring the bell, signifying a winner.
 
-The objective of the Highstriker app is to simulate this carnival carnival
+The objective of the Highstriker app is to simulate this carnival
 game. Instead of physical force to move the puck up the track use an algorithm 
 of your own design and a random number generator to determine the puck's
 speed and the distance it travels.
