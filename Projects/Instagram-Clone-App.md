@@ -23,6 +23,7 @@ You should create a MVP (Minimum Viable Product) using a Full stack approach suc
 
 ## Useful links and resources
 
+-   [How to make an Instagram clone](https://www.youtube.com/watch?v=9dRSNQe7PWw)
 -   [Node & Mongo Basic CRUD Operations](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
 -   [Socket.io](https://socket.io)
 -   [MERN Stack](http://mern.io/)
