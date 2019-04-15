@@ -88,6 +88,7 @@ required to complete them.
 | -------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
 | [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship           | 3-Advanced |
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
+| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)           | Calorie Counter Nutrion App                            | 3-Advanced |
 | [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                             | 3-Advanced |
 | [🌟Elevator](./Projects/Elevator-App.md)                       | Elevator simulator                                   | 3-Advanced |
 | [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                       | 3-Advanced |
