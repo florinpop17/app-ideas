@@ -37,4 +37,4 @@ a key is pressed.
 
 ## Example projects
 
-[Keycode](https://www.linkedin.com/feed/update/urn:li:activity:6519081404398075904/)
+[Javascript Keyevent Test Script](https://unixpapa.com/js/testkey.html)
