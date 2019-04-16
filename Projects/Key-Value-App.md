@@ -4,8 +4,7 @@
 
 Have you ever thought about what it means that the computer you are using is
 a digital device? Among other things it means that everything its capable of
-is achieved by translating a digital signal into a sequence of binary digits
-- 0's and 1's. These binary digits form codes used to represent data. 
+is achieved by translating a digital signal into a sequence of binary digits - 0's and 1's. These binary digits form codes used to represent data. 
 
 The keyboard you used to retrieve this project description is a great example
 of this. Pressing a key generates a digital signal that is translated by the
