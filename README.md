@@ -51,6 +51,7 @@ required to complete them.
 | [CSV2JSON App](./Projects/CSV2JSON-App.md)                             | CSV to JSON converter                                     | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
+| [Key Value](./Projects/Key-Value-App.md)                               | Keyboard Event Values                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                   | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create and online note pad                                | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
