@@ -100,6 +100,7 @@ required to complete them.
 | [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                  | 3-Advanced |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
+| [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)       | Create a library of favorite podcasts                     | 3-Advanced |
 | [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                  | 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
