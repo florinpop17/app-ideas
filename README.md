@@ -54,7 +54,7 @@ required to complete them.
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
 | [🌟Key Value](./Projects/Key-Value-App.md)                               | Keyboard Event Values                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                   | 1-Beginner |
-| [Notes App](./Projects/Notes-App.md)                                   | Create and online note pad                                | 1-Beginner |
+| [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
 | [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
@@ -78,6 +78,7 @@ required to complete them.
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [🌟Meme Generator App](./Projects/Meme-Generator-App.md)           | Create custom memes                                | 2-Intermediate |
+| [🌟Podcast Directory](./Projects/Podcast-Directory-App.md)         | Directory of favorite podcasts                     | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
 | [🌟Simple Online Store](./Projects/Simple-Online-Store.md)         | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
