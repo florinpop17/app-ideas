@@ -80,6 +80,8 @@ run()
 .then(console.log)
 .catch(console.error);
 ```
+- When you have completed this project check out the advanced project
+[MyPodcast Library](./Projects/MyPodcast-Library-app.md)
 
 ## Example projects
 
