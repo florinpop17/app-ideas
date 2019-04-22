@@ -49,6 +49,7 @@ required to complete them.
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
 | [🌟Countdown Timer](./Projects/Countdown-Timer-App.md)                   | Event Countdown timer                                     | 1-Beginner |
 | [CSV2JSON App](./Projects/CSV2JSON-App.md)                             | CSV to JSON converter                                     | 1-Beginner |
+| [🌟Dynamic CSS Variables](./Projects/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings               | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
 | [🌟GitHub Status](./Projects/GitHub-Status-App.md)                       | Display Current GitHub Status                       | 1-Beginner |
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
