@@ -9,11 +9,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
--   great to improve your coding skills :muscle:;
--   great to experiment with new technologies 🆕;
--   great to be added in your portfolio to impress your next employer/client :file_folder:;
--   great to be used as examples in tutorials (articles or videos) :page_with_curl:;
--   easy to complete and also easily extendable with new features :ok_hand:;
+- great to improve your coding skills :muscle:;
+- great to experiment with new technologies 🆕;
+- great to be added in your portfolio to impress your next employer/client :file_folder:;
+- great to be used as examples in tutorials (articles or videos) :page_with_curl:;
+- easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so you can develop it from the ground up!
 
@@ -47,25 +47,25 @@ required to complete them.
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                     | 1-Beginner |
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                     | Click list item to display item details                   | 1-Beginner |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
-| [🌟Countdown Timer](./Projects/Countdown-Timer-App.md)                   | Event Countdown timer                                     | 1-Beginner |
+| [🌟Countdown Timer](./Projects/Countdown-Timer-App.md)                 | Event Countdown timer                                     | 1-Beginner |
 | [CSV2JSON App](./Projects/CSV2JSON-App.md)                             | CSV to JSON converter                                     | 1-Beginner |
-| [🌟Dynamic CSS Variables](./Projects/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings               | 1-Beginner |
+| [🌟Dynamic CSS Variables](./Projects/Dynamic-CSSVar-app.md)            | Dynamically change CSS variable settings                  | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
-| [🌟GitHub Status](./Projects/GitHub-Status-App.md)                       | Display Current GitHub Status                       | 1-Beginner |
+| [🌟GitHub Status](./Projects/GitHub-Status-App.md)                     | Display Current GitHub Status                             | 1-Beginner |
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
-| [🌟Key Value](./Projects/Key-Value-App.md)                               | Keyboard Event Values                                     | 1-Beginner |
-| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                   | 1-Beginner |
-| [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                | 1-Beginner |
+| [🌟Key Value](./Projects/Key-Value-App.md)                             | Keyboard Event Values                                     | 1-Beginner |
+| [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
+| [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                 | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
 | [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
 | [🌟Recipe App](./Projects/Recipe-App.md)                               | Recipe                                                    | 1-Beginner |
-| [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                    | 1-Beginner |
+| [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                          | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
 | [:star2: Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
 | [Wind Chill](./Projects/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature | 1-Beginner |
-| [🌟Word Frequency](./Projects/Word-Frequency-App.md)                    | Calculate word frequency in a block of text          | 1-Beginner |
+| [🌟Word Frequency](./Projects/Word-Frequency-App.md)                   | Calculate word frequency in a block of text               | 1-Beginner |
 
 ### Tier-2: Intermediate Projects
 
@@ -91,22 +91,24 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
-| Name                                                           | Short Description                                    | Tier       |
-| -------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
-| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship           | 3-Advanced |
-| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
-| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                          | 3-Advanced |
-| [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                             | 3-Advanced |
-| [🌟Elevator](./Projects/Elevator-App.md)                       | Elevator simulator                                   | 3-Advanced |
-| [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                       | 3-Advanced |
-| [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                  | 3-Advanced |
-| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
-| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
-| [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)       | Create a library of favorite podcasts                     | 3-Advanced |
-| [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                  | 3-Advanced |
-| [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
-| [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
-| [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
+| Name                                                           | Short Description                                                                           | Tier       |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------- |
+| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                                                  | 3-Advanced |
+| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game                                        | 3-Advanced |
+| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                                                                 | 3-Advanced |
+| [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                                                                    | 3-Advanced |
+| [🌟Elevator](./Projects/Elevator-App.md)                       | Elevator simulator                                                                          | 3-Advanced |
+| [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                                                              | 3-Advanced |
+| [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                                                         | 3-Advanced |
+| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos                                                 | 3-Advanced |
+| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                                                        | 3-Advanced |
+| [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)     | Create a library of favorite podcasts                                                       | 3-Advanced |
+| [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                                                         | 3-Advanced |
+| [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                                                                      | 3-Advanced |
+| [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game                                                   | 3-Advanced |
+| [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                                                          | 3-Advanced |
+| [Movie Database App](./to-be-added)                            | Inspired by Imdb, Movie database that let users browse new movies with essential statistics | 3-Advanced |
+| [Slack Clone](./to-be-added)                                   | Collaboration board of team to communicate by chat                                          | 3-Advanced |
 
 ## Plans for the future
 
@@ -133,8 +135,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ### Main Contributors 🙂🙂
 
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
 ## Weekly Coding Challenge 🚀
 
