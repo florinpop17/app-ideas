@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Home</title>
+</head>
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link active" href="/user/list">主页</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/user/addNewUser">新增</a>
+    </li>
+</ul>
+<div class="jumbotron">
+    <h1>十进制计算器</h1>
+    <p>可二进制转换转换为十进制</p>
+</div>
+<body>
+<!--最外层容器-->
+<div id="wrap" class="container">
+    <!--页面头部-->
+    <header>
+
+    </header>
+    <!-- 页面主体部分-->
+    <div id="main_content" th:include="::main_content">
+        <div th:fragment="main_content">
+            <table class="table">
+                <thead class="table-dark">
+                <tr>
+                    <th scope="col">用户id</th>
+                    <th>用户名</th>
+                    <th>性别</th>
+                    <th>年龄</th>
+                    <th>备注</th>
+                    <th>是否可用</th>
+                    <th>操作</th>
+                </tr>
+                </thead>
+                <tbody>
+
+                <tr th:each="userInfo:${content}">
+                    <td th:text="${userInfo.getUserId()}"></td>
+                    <td th:text="${userInfo.getUserName()}"></td>
+                    <td th:text="${userInfo.getGender()}"></td>
+                    <td th:text="${userInfo.getAge()}"></td>
+                    <td th:text="${userInfo.getComment()}"></td>
+                    <td th:text="${userInfo.isAvailable()}"></td>
+                    <td>
+                        <a th:href="@{'/user/update/'+${userInfo.getId()}}">编辑</a>
+                        <a th:href="@{'/user/delete/'+${userInfo.getId()}}" onclick="alert('确定要删除用户吗？')">删除</a>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <div style="position:absolute;left:50%;margin-left:-100px;">
+                <ul class="pagination">
+                    <!-- 上一页 -->
+                    <li class="page-item" data-th-classappend="*{firstPage} ? 'disabled' : ''">
+                        <a th:href="@{'/user/list?pageNum=' + ${currentNumber - 1}}" class="page-link"
+                           data-th-attr="pageIndex=${currentNumber} - 1"
+                           aria-label="Previous">
+                            <span aria-hidden="true">«</span>
+                        </a>
+                    </li>
+
+                    <!-- 迭代生成页码 -->
+                    <li class="page-item" data-th-each="i : ${#numbers.sequence(1, totalPages)}"
+                        data-th-classappend="${(currentNumber + 1) eq i} ? 'active' : ''">
+                        <a class="page-link" data-th-attr="pageIndex=${i} - 1"
+                           th:href="@{'/user/list?pageNum=' + ${i - 1}}">
+                            <span data-th-text="${i}"></span>
+                        </a>
+                    </li>
+
+                    <!-- 下一页 -->
+                    <li class="page-item" data-th-classappend="*{lastPage} ? 'disabled' : ''">
+                        <a th:href="@{'/user/list?pageNum=' + ${currentNumber + 1}}" class="page-link"
+                           data-th-attr="pageIndex=${currentNumber} + 1"
+                           aria-label="Next">
+                            <span aria-hidden="true">»</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css"
+      integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+<script src="/jquery.min.js"></script>
+<script src="/jquery.page.js"></script>
+</body>
+</html>
