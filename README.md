@@ -104,6 +104,7 @@ required to complete them.
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
 | [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)       | Create a library of favorite podcasts                     | 3-Advanced |
 | [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                  | 3-Advanced |
+| [🌟Shuffle Deck](./Projects/Shuffle-Deck-App.md)                 | Evaluate different algorithms for shuffling a card deck |3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
