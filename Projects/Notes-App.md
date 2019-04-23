@@ -26,3 +26,4 @@ Create and store your notes for later purpose!
 
 -   [Markdown Notes built with Angular on Codepen](https://codepen.io/nickmoreton/full/gbyygq)
 -   [Markdown Notes built with React](https://github.com/email2vimalraj/notes-app)
+-   [Markdown Notes built with Angular 7 and bootstrap 4](https://github.com/omdnaik/angular-ui)
