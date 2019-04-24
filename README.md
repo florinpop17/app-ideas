@@ -71,6 +71,7 @@ required to complete them.
 
 | Name                                                               | Short Description                                  | Tier           |
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
+| [🌟Bit Masks](./Projects/Bit-Masks-App.md)                         | Using Bit Masks for Conditions                  | 2-Intermediate |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [🌟Drawing App](./Projects/Drawing-App.md)                         | Create digital artwork on the web                  | 2-Intermediate |
