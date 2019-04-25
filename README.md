@@ -103,6 +103,7 @@ required to complete them.
 | [Fast Food Simulator](./Projects/FastFood-App.md)              | Fast Food Restaurant Simulator                           | 3-Advanced |
 | [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                      | 3-Advanced |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos              | 3-Advanced |
+| [🌟GitTweet](./Projects/GitTweet-App.md)                         | Automatically Tweet your repo  milestones                | 3-Advanced |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                     | 3-Advanced |
 | [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)     | Create a library of favorite podcasts                    | 3-Advanced |
 | [Shell Game](./Projects/Shell-Game.md)                         | Animated shell game                                      | 3-Advanced |
