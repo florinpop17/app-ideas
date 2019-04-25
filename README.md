@@ -71,6 +71,7 @@ required to complete them.
 
 | Name                                                               | Short Description                                  | Tier           |
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
+| [🌟Bit Masks](./Projects/Bit-Masks-App.md)                         | Using Bit Masks for Conditions                  | 2-Intermediate |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [🌟Drawing App](./Projects/Drawing-App.md)                         | Create digital artwork on the web                  | 2-Intermediate |
@@ -91,6 +92,7 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
+
 | Name                                                           | Short Description                                                   | Tier       |
 | -------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
 | [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                          | 3-Advanced |
@@ -109,6 +111,26 @@ required to complete them.
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                                  | 3-Advanced |
 | [Movie Database App](./Projects/Movie-App.md)                  | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
+=======
+| Name                                                           | Short Description                                    | Tier       |
+| -------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
+| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship           | 3-Advanced |
+| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game | 3-Advanced |
+| [🌟Bug Race Game](./Projects/Bug-Race-Game.md)                   | Create a Bug Race game to show off your animation skills | 3-Advanced |
+| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                          | 3-Advanced |
+| [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                             | 3-Advanced |
+| [🌟Elevator](./Projects/Elevator-App.md)                       | Elevator simulator                                   | 3-Advanced |
+| [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                       | 3-Advanced |
+| [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                  | 3-Advanced |
+| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos          | 3-Advanced |
+| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                 | 3-Advanced |
+| [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)       | Create a library of favorite podcasts                     | 3-Advanced |
+| [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                  | 3-Advanced |
+| [🌟Shuffle Deck](./Projects/Shuffle-Deck-App.md)                 | Evaluate different algorithms for shuffling a card deck |3-Advanced |
+| [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                               | 3-Advanced |
+| [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game            | 3-Advanced |
+| [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                   | 3-Advanced |
+
 
 ## Plans for the future
 
