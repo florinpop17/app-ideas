@@ -103,7 +103,7 @@ of all transactions (Hint: checkout how this capability can be implemented via
 
 - [How to Handle Monetary Values in Javascript](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
 - [How to Format Number as Currency](https://flaviocopes.com/how-to-format-number-as-currency-javascript/)
-- [Mintalble (GitHub)](https://github.com/kevinschaich/mintable)
+- [Mintable (GitHub)](https://github.com/kevinschaich/mintable)
 
 ## Example projects
 
