@@ -12,7 +12,7 @@ can search to find a charity that matches their philanthropic interests.
 cause it's important that the presentation of information be clear and consise.
 Just as important is the need for the UI/UX to be polished and engaging to use.
 
-Although this is true of all apps, its even more the case here since each
+   Although this is true of all apps, its even more the case here since each
 user that abandons the site represents the loss of an opportunity to do good
 (see ['What is Web Site Conversion?](##useful-links-and-resources)) below.
 
