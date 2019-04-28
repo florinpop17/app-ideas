@@ -75,14 +75,9 @@ required to complete them.
 | [🌟Bit Masks](./Projects/Bit-Masks-App.md)                         | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
-<<<<<<< HEAD
 | [🌟Charity Finder App](./Projects/Charity-Finder-App.md)             | Find a Global Charity to donate to                | 2-Intermediate |
 | [🌟Drawing App](./Projects/Drawing-App.md)                         | Create digital artwork on the web                  | 2-Intermediate |
 | [🌟Emoji Translator App](./Projects/Emoji-Translator-App.md)       | Translate sentences into Emoji                     | 2-Intermediate |
-=======
-| [Drawing App](./Projects/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
-| [Emoji Translator App](./Projects/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
->>>>>>> fa2c511d7d9966d9b1874baba9812316f2935a7e
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [HighStriker Game](./Projects/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
