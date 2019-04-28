@@ -101,6 +101,7 @@ required to complete them.
 | [🌟Bug Race Game](./Projects/Bug-Race-Game.md)                 | Create a Bug Race game to show off your animation skills | 3-Advanced |
 | [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                              | 3-Advanced |
 | [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                                 | 3-Advanced |
+| [🌟Contribution Tracker](./Projects/Contribution-Tracker-App.md) | Track your charitable contributions             | 3-Advanced |
 | [Elevator](./Projects/Elevator-App.md)                         | Elevator simulator                                       | 3-Advanced |
 | [Fast Food Simulator](./Projects/FastFood-App.md)              | Fast Food Restaurant Simulator                           | 3-Advanced |
 | [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                      | 3-Advanced |
