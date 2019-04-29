@@ -43,7 +43,7 @@ required to complete them.
 | ---------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | [Bin2Dec](./Projects/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                        | 1-Beginner |
 | [Border Radius Previewer](./Projects/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element   | 1-Beginner |
-| [🌟Calculator](./Projects/Calculator-App.md)                           | Calculator                                                | 1-Beginner |
+| [Calculator](./Projects/Calculator-App.md)                             | Calculator                                                | 1-Beginner |
 | [Christmas Lights](./Projects/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                     | 1-Beginner |
 | [Cause Effect App](./Projects/Cause-Effect-App.md)                     | Click list item to display item details                   | 1-Beginner |
 | [Color Cycle](./Projects/Color-Cycle-App.md)                           | Cycle a color value through incremental changes           | 1-Beginner |
@@ -56,10 +56,11 @@ required to complete them.
 | [🌟Key Value](./Projects/Key-Value-App.md)                             | Keyboard Event Values                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                 | 1-Beginner |
+| [🌟Pearson Regression](./Projects/Pearson-Regression-App.md)             | Calculate the correlation coefficent for two sets of data | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
 | [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
-| [🌟Recipe App](./Projects/Recipe-App.md)                               | Recipe                                                    | 1-Beginner |
+| [Recipe App](./Projects/Recipe-App.md)                                 | Recipe                                                    | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                          | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
 | [:star2: Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
@@ -71,16 +72,17 @@ required to complete them.
 
 | Name                                                               | Short Description                                  | Tier           |
 | ------------------------------------------------------------------ | -------------------------------------------------- | -------------- |
-| [🌟Bit Masks](./Projects/Bit-Masks-App.md)                         | Using Bit Masks for Conditions                  | 2-Intermediate |
+| [🌟Bit Masks](./Projects/Bit-Masks-App.md)                         | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
+| [🌟Charity Finder App](./Projects/Charity-Finder-App.md)             | Find a Global Charity to donate to                | 2-Intermediate |
 | [🌟Drawing App](./Projects/Drawing-App.md)                         | Create digital artwork on the web                  | 2-Intermediate |
 | [🌟Emoji Translator App](./Projects/Emoji-Translator-App.md)       | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [HighStriker Game](./Projects/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
-| [🌟Meme Generator App](./Projects/Meme-Generator-App.md)           | Create custom memes                                | 2-Intermediate |
+| [Meme Generator App](./Projects/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
 | [🌟Podcast Directory](./Projects/Podcast-Directory-App.md)         | Directory of favorite podcasts                     | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
 | [🌟Simple Online Store](./Projects/Simple-Online-Store.md)         | Simple Online Store                                | 2-Intermediate |
@@ -88,9 +90,10 @@ required to complete them.
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
-| [🌟Typing Practice](./Projects/Typing-Practice-App.md)             | Typing Practice                                    | 2-Intermediate |
+| [Typing Practice](./Projects/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
+
 
 
 | Name                                                           | Short Description                                                   | Tier       |
@@ -113,6 +116,7 @@ required to complete them.
 | [Movie Database App](./Projects/Movie-App.md)                  | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 
 ## Plans for the future
+
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
 
