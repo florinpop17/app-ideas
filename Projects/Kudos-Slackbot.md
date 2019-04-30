@@ -38,4 +38,4 @@ efforts and to make it available through a simple Slack command.
 
 ## Example project
 
--   https://cubic-quince.glitch.me/
+-  <a href="https://cubic-quince.glitch.me/" rel="nofollow">Kudos Slackbot</a>  
