@@ -52,6 +52,7 @@ required to complete them.
 | [🌟Dynamic CSS Variables](./Projects/Dynamic-CSSVar-app.md)            | Dynamically change CSS variable settings                  | 1-Beginner |
 | [Flip Image](./Projects/Flip-Image-App.md)                             | Change the orientation of images across two axes          | 1-Beginner |
 | [🌟GitHub Status](./Projects/GitHub-Status-App.md)                     | Display Current GitHub Status                             | 1-Beginner |
+| [🌟Hello](./Projects/Hello-App.md)                                     | User native language greeting                             | 1-Beginner |
 | [JSON2CSV App](./Projects/JSON2CSV-App.md)                             | JSON to CSV converter                                     | 1-Beginner |
 | [🌟Key Value](./Projects/Key-Value-App.md)                             | Keyboard Event Values                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
