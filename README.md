@@ -9,11 +9,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
--   great to improve your coding skills :muscle:;
--   great to experiment with new technologies 🆕;
--   great to be added in your portfolio to impress your next employer/client :file_folder:;
--   great to be used as examples in tutorials (articles or videos) :page_with_curl:;
--   easy to complete and also easily extendable with new features :ok_hand:;
+- great to improve your coding skills :muscle:;
+- great to experiment with new technologies 🆕;
+- great to be added in your portfolio to impress your next employer/client :file_folder:;
+- great to be used as examples in tutorials (articles or videos) :page_with_curl:;
+- easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so you can develop it from the ground up!
 
@@ -94,28 +94,29 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
-| Name                                                           | Short Description                                        | Tier       |
-| -------------------------------------------------------------- | -------------------------------------------------------- | ---------- |
-| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship               | 3-Advanced |
-| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game     | 3-Advanced |
-| [🌟Bug Race Game](./Projects/Bug-Race-Game.md)                 | Create a Bug Race game to show off your animation skills | 3-Advanced |
-| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                              | 3-Advanced |
-| [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                                 | 3-Advanced |
-| [🌟Contribution Tracker](./Projects/Contribution-Tracker-App.md) | Track your charitable contributions             | 3-Advanced |
-| [Elevator](./Projects/Elevator-App.md)                         | Elevator simulator                                       | 3-Advanced |
-| [Fast Food Simulator](./Projects/FastFood-App.md)              | Fast Food Restaurant Simulator                           | 3-Advanced |
-| [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                      | 3-Advanced |
-| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos              | 3-Advanced |
-| [🌟GitTweet](./Projects/GitTweet-App.md)                         | Automatically Tweet your repo  milestones                | 3-Advanced |
-| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                     | 3-Advanced |
-| [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)     | Create a library of favorite podcasts                    | 3-Advanced |
-| [Shell Game](./Projects/Shell-Game.md)                         | Animated shell game                                      | 3-Advanced |
-| [🌟Shuffle Deck](./Projects/Shuffle-Deck-App.md)               | Evaluate different algorithms for shuffling a card deck  | 3-Advanced |
-| [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                                   | 3-Advanced |
-| [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game                | 3-Advanced |
-| [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                       | 3-Advanced |
+
+
+| Name                                                           | Short Description                                                   | Tier       |
+| -------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                          | 3-Advanced |
+| [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game                | 3-Advanced |
+| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                                         | 3-Advanced |
+| [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                                            | 3-Advanced |
+| [🌟Elevator](./Projects/Elevator-App.md)                       | Elevator simulator                                                  | 3-Advanced |
+| [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                                      | 3-Advanced |
+| [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                                 | 3-Advanced |
+| [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos                         | 3-Advanced |
+| [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                                | 3-Advanced |
+| [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)     | Create a library of favorite podcasts                               | 3-Advanced |
+| [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                                 | 3-Advanced |
+| [🌟Shuffle Deck](./Projects/Shuffle-Deck-App.md)               | Evaluate different algorithms for shuffling a card deck             | 3-Advanced |
+| [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                                              | 3-Advanced |
+| [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game                           | 3-Advanced |
+| [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                                  | 3-Advanced |
+| [Movie Database App](./Projects/Movie-App.md)                  | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 
 ## Plans for the future
+
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
 
@@ -140,8 +141,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ### Main Contributors 🙂🙂
 
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
 ## Weekly Coding Challenge 🚀
 
