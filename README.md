@@ -9,11 +9,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
-- great to improve your coding skills :muscle:;
-- great to experiment with new technologies 🆕;
-- great to be added in your portfolio to impress your next employer/client :file_folder:;
-- great to be used as examples in tutorials (articles or videos) :page_with_curl:;
-- easy to complete and also easily extendable with new features :ok_hand:;
+-   great to improve your coding skills :muscle:;
+-   great to experiment with new technologies 🆕;
+-   great to be added in your portfolio to impress your next employer/client :file_folder:;
+-   great to be used as examples in tutorials (articles or videos) :page_with_curl:;
+-   easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so you can develop it from the ground up!
 
@@ -57,7 +57,7 @@ required to complete them.
 | [🌟Key Value](./Projects/Key-Value-App.md)                             | Keyboard Event Values                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                 | 1-Beginner |
-| [🌟Pearson Regression](./Projects/Pearson-Regression-App.md)             | Calculate the correlation coefficent for two sets of data | 1-Beginner |
+| [🌟Pearson Regression](./Projects/Pearson-Regression-App.md)           | Calculate the correlation coefficent for two sets of data | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
 | [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
@@ -76,7 +76,7 @@ required to complete them.
 | [🌟Bit Masks](./Projects/Bit-Masks-App.md)                         | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Card Memory Game](./Projects/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
-| [🌟Charity Finder App](./Projects/Charity-Finder-App.md)             | Find a Global Charity to donate to                | 2-Intermediate |
+| [🌟Charity Finder App](./Projects/Charity-Finder-App.md)           | Find a Global Charity to donate to                 | 2-Intermediate |
 | [🌟Drawing App](./Projects/Drawing-App.md)                         | Create digital artwork on the web                  | 2-Intermediate |
 | [🌟Emoji Translator App](./Projects/Emoji-Translator-App.md)       | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
@@ -95,8 +95,6 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
-
-
 | Name                                                           | Short Description                                                   | Tier       |
 | -------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
 | [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                          | 3-Advanced |
@@ -108,16 +106,15 @@ required to complete them.
 | [🌟Instagram Clone](./Projects/Instagram-Clone-App.md)         | A clone of Facebook's Instagram app                                 | 3-Advanced |
 | [GitHub Timeline](./Projects/GitHub-Timeline-App.md)           | Generate a timeline of a users GitHub Repos                         | 3-Advanced |
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                                | 3-Advanced |
+| [🌟Movie App](./Projects/Movie-App.md)                         | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 | [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)     | Create a library of favorite podcasts                               | 3-Advanced |
 | [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                                 | 3-Advanced |
 | [🌟Shuffle Deck](./Projects/Shuffle-Deck-App.md)               | Evaluate different algorithms for shuffling a card deck             | 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                                              | 3-Advanced |
 | [Spell-It App](./Projects/SpellIt-App.md)                      | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/Survey-App.md)                         | Define, conduct, and view a survey                                  | 3-Advanced |
-| [Movie Database App](./Projects/Movie-App.md)                  | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 
 ## Plans for the future
-
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
 
@@ -142,8 +139,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ### Main Contributors 🙂🙂
 
-- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
-- **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
+-   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+-   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
 ## Weekly Coding Challenge 🚀
 
