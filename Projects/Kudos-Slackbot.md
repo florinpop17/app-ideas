@@ -38,5 +38,5 @@ efforts and to make it available through a simple Slack command.
 
 ## Example project
 
--   [Kudos Slackbot Example]<a href="https://cubic-quince.glitch.me/" rel="nofollow">(link)</a>
+-   [Kudos Slackbot Example](https://cubic-quince.glitch.me/)
 -    
