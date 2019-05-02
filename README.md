@@ -64,7 +64,7 @@ required to complete them.
 | [Recipe App](./Projects/Recipe-App.md)                                 | Recipe                                                    | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                          | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
-| [:star2: Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
+| [🌟Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
 | [Wind Chill](./Projects/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature | 1-Beginner |
 | [🌟Word Frequency](./Projects/Word-Frequency-App.md)                   | Calculate word frequency in a block of text               | 1-Beginner |
@@ -85,6 +85,7 @@ required to complete them.
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Meme Generator App](./Projects/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
 | [🌟Podcast Directory](./Projects/Podcast-Directory-App.md)         | Directory of favorite podcasts                     | 2-Intermediate |
+| [🌟QR Code Badge Generator](./Projects/QRCode-Badge-App.md)        | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
 | [🌟Simple Online Store](./Projects/Simple-Online-Store.md)         | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
