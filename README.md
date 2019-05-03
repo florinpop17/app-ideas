@@ -108,6 +108,7 @@ required to complete them.
 | [Kudos Slackbot](./Projects/Kudos-Slackbot.md)                 | Give recognition to a deserving peer                                | 3-Advanced |
 | [🌟Movie App](./Projects/Movie-App.md)                         | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 | [🌟MyPodcast Library](./Projects/MyPodcast-Library-app.md)     | Create a library of favorite podcasts                               | 3-Advanced |
+| [🌟NASA Exoplanet Query](./Projects/NASA-Exoplanet-Query.md)   | Query NASA's Exoplanet Archive                                      | 3-Advanced |
 | [🌟Shell Game](./Projects/Shell-Game.md)                       | Animated shell game                                                 | 3-Advanced |
 | [🌟Shuffle Deck](./Projects/Shuffle-Deck-App.md)               | Evaluate different algorithms for shuffling a card deck             | 3-Advanced |
 | [Slack Archiver](./Projects/Slack-Archiver.md)                 | Archive Slack Messages                                              | 3-Advanced |
