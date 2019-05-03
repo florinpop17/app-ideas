@@ -41,10 +41,10 @@ completed at a constant rate.
 
 ### Application Operation
 -   [ ] User can see an input area that allows the entry of the time interval
-for customer arrival and a time interval for the fulfillment of an 
+for customer arrival and a time interval for the fulfilment of an 
 _order ticket_ by the cook.
 -   [ ] User can see a customized warning message if the customer arrival
-interval or the order fulfillment interval is incorrectly entered.
+interval or the order fulfilment interval is incorrectly entered.
 -   [ ] User can start the simulation by clicking on a Start button.  
 -   [ ] User can see an order line area containing a text box showing the 
 number of customers waiting to place orders.

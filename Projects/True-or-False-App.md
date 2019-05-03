@@ -11,7 +11,7 @@ applied to two values. Users can use this to test their knowledge and
 explore edge cases.
 
 The two values and the conditional operator are entered by the user and the
-result to be displayed will be TRUE or FALSE. The implemenation must not use
+result to be displayed will be TRUE or FALSE. The implementation must not use
 the `eval()` function to generate the result of the conditional.
 
 ## User Stories

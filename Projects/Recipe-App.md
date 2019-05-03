@@ -11,7 +11,7 @@ that will make them easy to follow.
 
 ### Constraints
 
-- For the inital version of this app the recipe data may be encoded as a
+- For the initial version of this app the recipe data may be encoded as a
 JSON file. After implementing the initial version of this app you may
 expand on this to maintain recipes in a file or database.
 

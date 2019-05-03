@@ -6,7 +6,7 @@ As a Web Developer you'll be asked to come up with innovative applications that
 solve real world problems for real people. But something you'll quickly learn
 is that no matter how many wonderful features you pack into an app users won't
 use it if it isn't performant. In other words, there is a direct link between
-how an app performs and whether users percieve it as usable.
+how an app performs and whether users perceive it as usable.
 
 The objective of the Shuffle Card Deck app is to find the fastest technique for
 shuffling a deck of cards you can use in game apps you create. But, more

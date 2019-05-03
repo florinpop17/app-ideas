@@ -34,5 +34,5 @@ Animation libraries are not allowed. Use only Vanilla HTML/CSS/JavaScript.
 
 ## Example projects
 
-This project is very close, but has a small enclosing window and is monchromatic.
+This project is very close, but has a small enclosing window and is monochromatic.
 [Daniel Cortes](https://codepen.io/dgca/pen/dpxreO)

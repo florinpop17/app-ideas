@@ -66,7 +66,7 @@ a database.
 
 ## Useful links and resources
 
-There are plenty of eCommerce Stie Pages out there. You can use [Dribbble](www.dribbble.com) and [Behance](www.behance.net) for inspiration.
+There are plenty of eCommerce Site Pages out there. You can use [Dribbble](www.dribbble.com) and [Behance](www.behance.net) for inspiration.
 
 ## Example projects
 
