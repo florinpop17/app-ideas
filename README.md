@@ -58,7 +58,7 @@ required to complete them.
 | [🌟Key Value](./Projects/Key-Value-App.md)                             | Keyboard Event Values                                     | 1-Beginner |
 | [Lorem Ipsum Generator](./Projects/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                     | 1-Beginner |
 | [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                 | 1-Beginner |
-| [🌟Pearson Regression](./Projects/Pearson-Regression-App.md)           | Calculate the correlation coefficent for two sets of data | 1-Beginner |
+| [🌟Pearson Regression](./Projects/Pearson-Regression-App.md)           | Calculate the correlation coefficient for two sets of data | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                   | 1-Beginner |
 | [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers              | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                | 1-Beginner |
@@ -101,7 +101,7 @@ required to complete them.
 | -------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
 | [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                          | 3-Advanced |
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game                | 3-Advanced |
-| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrion App                                         | 3-Advanced |
+| [🌟Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrition App                                         | 3-Advanced |
 | [Chat App](./Projects/Chat-App.md)                             | Real-time chat interface                                            | 3-Advanced |
 | [🌟Elevator](./Projects/Elevator-App.md)                       | Elevator simulator                                                  | 3-Advanced |
 | [🌟Fast Food Simulator](./Projects/FastFood-App.md)            | Fast Food Restaurant Simulator                                      | 3-Advanced |

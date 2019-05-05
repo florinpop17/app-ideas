@@ -23,7 +23,7 @@ like [AMCharts](https://www.amcharts.com/).
 
 - Developers may choose to have transactions persist across sessions using
 either files or databases. Sensitive data, like transactions, must not be 
-maintainined in local storage. Remember that although you can implement
+maintained in local storage. Remember that although you can implement
 protections it is impossible to totally secure browser applications.
 
 ## User Stories

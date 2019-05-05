@@ -11,7 +11,7 @@ via a Discord chat.
 
 -   [ ] User can display game rules by entering `bb help` into the chat window.
 -   [ ] User can start a game by entering `bb start` into the chat
--   [ ] User can target a cell by enteering `bb shoot r,c` into the chat window, where `r` and `c` are the row and column coordinates of the cell to be targeted.
+-   [ ] User can target a cell by entering `bb shoot r,c` into the chat window, where `r` and `c` are the row and column coordinates of the cell to be targeted.
 -   [ ] User can see the game board showing hits and misses displayed by the bot after each shot is taken
 -   [ ] User can see an congratulations message after the shot that sinks the last remaining ship.
 

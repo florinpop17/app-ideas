@@ -19,7 +19,7 @@ is allowed to continue guessing until the pea is located.
 
 -   [ ] User can see the canvas with three shells and the pea.
 -   [ ] User can click the shell the pea is to be hidden under.
--   [ ] User can see the pea move under the shell thats been clicked.
+-   [ ] User can see the pea move under the shell that's been clicked.
 -   [ ] User can click on a 'Shuffle' button to start an animated shuffling of
 the shells for 5 seconds.
 -   [ ] User can click on the shell she believes the pea is hidden under when

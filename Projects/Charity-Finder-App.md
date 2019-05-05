@@ -9,7 +9,7 @@ can search to find a charity that matches their philanthropic interests.
 
 ### Constraints
 - Since the app is asking the user to choose and contribute to a charitable
-cause it's important that the presentation of information be clear and consise.
+cause it's important that the presentation of information be clear and concise.
 Just as important is the need for the UI/UX to be polished and engaging to use.
 
    Although this is true of all apps, its even more the case here since each

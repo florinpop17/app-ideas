@@ -9,9 +9,9 @@ expertise in biology or pharmacology. A paint manufacturer or a crop science
 business might rely on apps with an intimate knowledge of chemistry. And, a 
 payroll application will certainly incorporate HR and accounting concepts.
 
-Regardless of the industry segement an app is developed for one cross domain
+Regardless of the industry segment an app is developed for one cross domain
 expertise in common with them all is mathematics. As an application developer
-you don't have to be a mathemetician, but it's useful to have an understanding
+you don't have to be a mathematician, but it's useful to have an understanding
 of how to apply mathematical concepts to the problems you are trying to solve.
 
 The objective of this app is to apply the Pearson Correlation Coefficient

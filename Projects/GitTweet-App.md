@@ -6,7 +6,7 @@ In the [GitHub Timeline](./GitHub-Timeline-App.md) app you used GitHub's API to
 create a timeline of your repos. What could be more powerful that using an API
 such as this? Why using two API's, of course.
 
-The goal of GitTweet is to create a GitHub app to tweet when a pull requst
+The goal of GitTweet is to create a GitHub app to tweet when a pull request
 is created for one of your repos. 
 
 ## User Stories
