@@ -169,12 +169,14 @@ operation starts and ends.
 
 -   [ ] User can see buttons enabled and disabled according to the following
 table.
+
     | State               | Load DB  | Query DB | Clear DB |
     |---------------------|----------|----------|----------|
     | Initial App display | enabled  | enabled  | disabled |
     | Load DB clicked     | disabled | enabled  | enabled  |
     | Query DB clicked    | disabled | enabled  | enabled  |
     | Clear DB clicked    | enabled  | enabled  | disabled |
+    
 -   [ ] User can see additional Customer data fields added to those included
 in the code provided. Developer should add date of last order and total sales
 for the year.
