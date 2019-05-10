@@ -89,6 +89,7 @@ required to complete them.
 | [🌟Podcast Directory](./Projects/Podcast-Directory-App.md)         | Directory of favorite podcasts                     | 2-Intermediate |
 | [🌟QR Code Badge Generator](./Projects/QRCode-Badge-App.md)        | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
+| [🌟Sales Reciepts App](./Projects/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediate |
 | [🌟Simple Online Store](./Projects/Simple-Online-Store.md)         | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
