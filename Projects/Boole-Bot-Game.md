@@ -27,11 +27,13 @@ continue moving about the arena until only one remains.
 ### Game Configuration Panel
 -   [ ] User can see a game configuration panel with these subcomponents:
     - Four bot panels with controls to allow the user to input a unique bot 
-    name, select the bots speed using a slider, and a dropdown to specify its
-    starting direction - North, South, East, West
+    name, select its Boolean operation, select the bots speed using a slider, 
+    and a dropdown to specify its starting direction - North, South, East, West
 -   [ ] User can enter a unique name for each bot into an input text box
 -   [ ] User can see an error message if the name entered is the same name
 assigned to another bot.
+-   [ ] User can select a bots Boolean operation from a dropdown - AND, OR, XOR,
+or NOT.
 -   [ ] User can move the speed slider to set a bots speed
 -   [ ] User can select a bots starting direction from the direction dropdown.
 -   [ ] User can see the bot randomly assigned to a tile in the arena once its
