@@ -82,6 +82,7 @@ required to complete them.
 | [🌟Drawing App](./Projects/Drawing-App.md)                         | Create digital artwork on the web                  | 2-Intermediate |
 | [🌟Emoji Translator App](./Projects/Emoji-Translator-App.md)       | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
+| [🌟Flip Art App](./Projects/Flip-Art-App.md)                         | Animate a set of images                            | 2-Intermediate |
 | [HighStriker Game](./Projects/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
