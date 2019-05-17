@@ -68,6 +68,7 @@ required to complete them.
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                     | 1-Beginner |
 | [🌟Stopwatch App](./Projects/Stopwatch-App.md)                   | Count time spent on activities                            | 1-Beginner |
 | [TrueOrFalse](./Projects/True-or-False-App.md)                         | Identify the result of a conditional comparison           | 1-Beginner |
+| [🌟Vigenere Cipher](./Projects/Vigenere-Cipher)                        | Encrypt text using the Vigenere Cypher                    | 1-Beginner |
 | [Wind Chill](./Projects/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature | 1-Beginner |
 | [🌟Word Frequency](./Projects/Word-Frequency-App.md)                   | Calculate word frequency in a block of text               | 1-Beginner |
 
