@@ -3,7 +3,7 @@
 **Tier:** 2-Intermediate
 
 Many developers have found that adding animation to an application is a
-useful technique add impact to the UI, to make it  more appealing to its users,
+useful technique that adds impact to the UI, to make it more appealing to its users,
 and to explain complex subject matter. But, as a developer how do you create 
 these and how do you know what images make effective animations?
 

@@ -38,7 +38,7 @@ and their timezones:
     - Beijing: GMT +8
     - Ho Chi Mihn City: GMT +7
     - Mumbai: GMT +5
--   [ ] User can see a GMT search box that an integer representing a GMT offset
+-   [ ] User can see a GMT search box where an integer representing a GMT offset
 can be entered into and a 'Find Cities' button.
 -   [ ] User can click the 'Find Cities' button to display the names of the
 cities in that GMT offset in an output area.
