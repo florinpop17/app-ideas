@@ -2,7 +2,7 @@
 
 **Tier:** 3-Advanced
 
-Battleship Bot is takes the [Battleship Game Engine](./Battleship-Game-Engine.md)
+Battleship Bot takes the [Battleship Game Engine](./Battleship-Game-Engine.md)
 to the next level. This challenge uses your Battleship Game Engine to create a
 presentation layer using Discord's bot API to allow you to play the game
 via a Discord chat.
