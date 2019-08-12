@@ -11,7 +11,7 @@ app into something more complex and useful.
 The goal of _My Podcast Library_ is to build a more personalized library of
 your favorite podcasts and episodes. In this app you'll use
 [Puppeteer](https://github.com/GoogleChrome/puppeteer) and
-[Podbean](https://www.podbean.com) to create and app the maintain your
+[Podbean](https://www.podbean.com) to create an app to maintain your
 personal library of podcasts.
 
 This project is described in detail by the following user stories, but feel
@@ -21,7 +21,7 @@ free to use your imagination.
 
 ### Favorite Podcast Display
 
--   [ ] User can see a the favorite podcasts in a tabular display area
+-   [ ] User can see their favorite podcasts in a tabular display area
 -   [ ] User can see the message 'No podcasts added yet' in watermark format
 in this area if no podcasts have been added.
 -   [ ] User can see an overview of each favorite podcast that has been added
@@ -42,7 +42,7 @@ podcast to the favorite podcast area.
 -   [ ] User can see a warning message if the url doesn't start with 
 ```https://www.podbean.com/podcast-detail/``` or if navigating to the page
 results in a 404 error.
--   [ ] User see valid URLs for favorite podcasts retained across sessions.
+-   [ ] User can see valid URLs for favorite podcasts retained across sessions.
 -   [ ] User can click the 'Cancel' button to discard any data and dismiss the
 popup.
 
@@ -54,8 +54,8 @@ button to mark it as a favorite.
 -   [ ] User can scroll through the list
 -   [ ] User can click on the episode icon to display that episodes page on
 the Podbean web site.
--   [ ] User can click on an episodes heart icon to mark it as a favorite.
--   [ ] User can click on an episodes heart icon to remove it as a favorite.
+-   [ ] User can click on an episode's heart icon to mark it as a favorite.
+-   [ ] User can click on an episode's heart icon to remove it as a favorite.
 -   [ ] User can see the table sorted with most recent episodes at the top, 
 followed by those previously marked as favorites.
 -   [ ] User can see favorite episodes persist across sessions.
