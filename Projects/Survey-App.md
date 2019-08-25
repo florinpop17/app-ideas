@@ -9,7 +9,7 @@ aggravations to name a few.
 
 The Survey app gives you the opportunity to learn by developing a full-featured
 app that will you can add to your toolbox. It provides the ability to define a
-survey, allow users to respond within a predefined timeframe, and tablulate
+survey, allow users to respond within a predefined timeframe, and tabulate
 and present results.
 
 Users of this app are divided into two distinct roles, each having different
@@ -65,7 +65,7 @@ open for responses will be accessed from the app's web page.
 
 ### Viewing Survey Results
 
--   [ ] Survey Coordinators and Survay Respondents can select the survey to
+-   [ ] Survey Coordinators and Survey Respondents can select the survey to
         display from a list of closed surveys
 -   [ ] Survey Coordinators and Survey Respondents can view survey results as
         in tabular format showing the number of responses for each of the possible

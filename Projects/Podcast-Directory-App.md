@@ -13,7 +13,7 @@ that there are web sites and applications where web scraping is made easier
 by using a tool like Puppeteer that is specifically built for scaping.
 
 It is important to note that while web scraping has its place, the use of
-an API or a data source such as a file or database is always preferrable to 
+an API or a data source such as a file or database is always preferable to 
 scraping information from a page. The reason being that even minor changes to
 page styling can render your web scraper inoperable. For example, the change
 of a CSS class name your scraping logic is dependent on.
@@ -80,6 +80,8 @@ run()
 .then(console.log)
 .catch(console.error);
 ```
+- When you have completed this project check out the advanced project
+[MyPodcast Library](./Projects/MyPodcast-Library-app.md)
 
 ## Example projects
 

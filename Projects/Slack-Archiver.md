@@ -14,12 +14,12 @@ older messages quite often hold a great deal of "institutional knowledge"
 that's lost when the message limit is reached.
 
 The Slack Archiver seeks to remedy this situation by extracting the history
-for specific channels to an database or file. Messges could be extracted up to
+for specific channels to an database or file. Messages could be extracted up to
 the maximum allowed limit of 50 messages per minute for the `channels.history`
-API method. At this rate (tier 4) 86.4K messages could be theorectically
+API method. At this rate (tier 4) 86.4K messages could be theoretically
 retrieved per day.
 
-Implementors are cautioned that further research will be required to
+Implementers are cautioned that further research will be required to
 determine the best extraction method to use prior to attempting any
 development of this application.
 
@@ -33,7 +33,7 @@ development of this application.
 
 ## Bonus features
 
--   [ ] Implememnt an API that allows an application to extract archived messages from the archive database
+-   [ ] Implement an API that allows an application to extract archived messages from the archive database
 
 ## Useful links and resources
 

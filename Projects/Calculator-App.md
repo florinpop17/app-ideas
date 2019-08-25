@@ -26,7 +26,7 @@ button (for clear all).
 digits in the entry pad. Entry of any digits more than 8 will be ignored.
 -   [ ] User can click on an operation button to display the result of that
 operation on:
-    * the result of the preceeding operation and the last number entered OR
+    * the result of the preceding operation and the last number entered OR
     * the last two numbers entered OR
     * the last number entered
 -   [ ] User can click the 'C' button to clear the last number or the last
