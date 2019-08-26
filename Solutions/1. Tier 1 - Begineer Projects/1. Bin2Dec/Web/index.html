@@ -8,13 +8,15 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <form id="form" novalidate>
+  <form id="form" novalidate autocomplete="off">
     <div class="form-field">
-      <input type="text" required>
+      <label for="binary-number">Binary Number</label>
+      <input id="binary-number" name="binary-number" type="text" placeholder="Enter an 8 bit binary number" autofocus required>
       <div class="error-message hidden"></div>
     </div>
-    <button type="submit">Convert to Decimal</button>
   </form>
+
+  <div id="output"></div>
   <script src="dom-is-ready.js"></script>
   <script src="index.js"></script>
 </body>
