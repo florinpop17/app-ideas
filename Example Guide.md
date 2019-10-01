@@ -13,7 +13,7 @@ Answer to the following questions:
 -   [ ] User can ... first user story
 -   [ ] User can ... second user story
 -   [ ] User can ... third user story
--   [ ] User can ... forth user story
+-   [ ] User can ... fourth user story
 -   [ ] User can ... fifth user story
 -   etc...
 
