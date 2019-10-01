@@ -97,6 +97,7 @@ required to complete them.
 | [Simple Online Store](./Projects/Simple-Online-Store.md)           | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
 | [String Art](./Projects/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
+| [This or That Game](./Projects/This-or-That-Game.md)               | This or That Game                                  | 2-Intermediate |
 | [Timezone Slackbot](./Projects/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
 | [Typing Practice](./Projects/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
