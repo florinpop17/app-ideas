@@ -89,6 +89,7 @@ required to complete them.
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Meme Generator App](./Projects/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
+| [Password Generator](./Projects/Password-Generator.md)             | Generate random passwords                          | 2-Intermediate |
 | [Podcast Directory](./Projects/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
