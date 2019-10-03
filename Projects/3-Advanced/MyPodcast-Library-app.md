@@ -2,7 +2,7 @@
 
 **Tier:** 3-Advanced
 
-In the [GitHub Status](./GitHub-Status-App.md) and [Podcast Directory](./Podcast-Directory-App.md) you learned what web scraping is and how you can
+In the [GitHub Status](../1-Beginner/GitHub-Status-App.md) and [Podcast Directory](../2-Intermediate/Podcast-Directory-App.md) you learned what web scraping is and how you can
 use it as an alternative data source when API's and backend databases aren't
 available. The _My Podcast Library_ app merges your newfound knowledge of 
 web scraping with your frontend skills to extend the simple Podcast Directory
