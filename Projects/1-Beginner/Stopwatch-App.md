@@ -24,3 +24,4 @@ A stopwatch helps you track the time you spent on activities.
 
 -   [Stopwatch by Hilo](https://codepen.io/hilotacker/pen/ONZWoX)
 -   [Stopwatch by Billy Brown](https://codepen.io/_Billy_Brown/pen/dbJeh)
+-   [Svelte Stopwatch by Gabriele Corti](https://codepen.io/borntofrappe/pen/KKKPZZg)
