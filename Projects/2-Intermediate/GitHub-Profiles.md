@@ -1,5 +1,6 @@
 # GitHub Profiles
 **Tier:** 2-Intermediate
+
 APIs allow you to use the real world data that drives platforms like GitHub. You can communicate with the remote servers and get data that you can use to build an app.
 
 In this project you create a search app that uses GitHub API to retrieve user information when a valid username is input. It should display avatar, username, followers count, repository count, top 4 repositories based on forks and stars.
