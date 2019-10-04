@@ -2,7 +2,7 @@
 
 **Tier:** 2-Intermediate
 
-In the [GitHub Status](./GitHub-Status-App.md) app you learned how to use the
+In the [GitHub Status](../1-Beginner/GitHub-Status-App.md) app you learned how to use the
 Request package to scrape information from a web page. The Podcast Directory
 continues this process and introduces you to another web scraping package - 
 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
@@ -81,7 +81,7 @@ run()
 .catch(console.error);
 ```
 - When you have completed this project check out the advanced project
-[MyPodcast Library](./Projects/MyPodcast-Library-app.md)
+[MyPodcast Library](../3-Advanced/MyPodcast-Library-app.md)
 
 ## Example projects
 

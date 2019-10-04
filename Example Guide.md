@@ -1,19 +1,19 @@
 # Application Name
 
-**Tier:** Add the corresponding tier (1-Beginner, 2-Intermediate, 3-Advanced)
+**Tier:** Add corresponding tier (1-Beginner, 2-Intermediate, 3-Advanced)
 
-Add a clear and descriptive description of the application and it's main features.
-Answer to the following questions:
+Add a clear description of the application and its main features.
+Answer the following questions:
 
--   "What is the main purpose of this application?"
--   "Is there any resource needed in order to complete the project?" - If the answer is yes, make sure you add it.
+-   "What is the purpose of this application?"
+-   "Are there any resources needed in order to complete the project?" - If yes, be sure to add it.
 
 ## User Stories
 
 -   [ ] User can ... first user story
 -   [ ] User can ... second user story
 -   [ ] User can ... third user story
--   [ ] User can ... forth user story
+-   [ ] User can ... fourth user story
 -   [ ] User can ... fifth user story
 -   etc...
 
@@ -25,8 +25,8 @@ Answer to the following questions:
 
 ## Useful links and resources
 
-Add all the useful links and resources corresponding to this project.
+Add useful links and resources corresponding to this project.
 
 ## Example projects
 
-Add one or more examples of projects that have similar functionalities to this application. This will act as a guide for the developer.
+Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.

@@ -53,7 +53,7 @@ in descending order on the values in the column.
 ## Useful links and resources
 
 - [Big O Notation (Wikipedia)](https://en.wikipedia.org/wiki/Big_O_notation)
-- [CSV2JSON](./CSV2JSON-App.md)
+- [CSV2JSON](../1-Beginner/CSV2JSON-App.md)
 - [Exoplanet (Wikipedia)](https://en.wikipedia.org/wiki/Exoplanet)
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets)
 
