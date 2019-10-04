@@ -19,7 +19,7 @@ For this project, there'd be three required inputs for validation:
 ## Useful links and resources
 
 - [Javascript form validation using regular expressions](http://form.guide/snippets/javascript-form-validation-using-regular-expression.html)
-- [Regular Expression Library](http://regexlib.com/(X(1)A(GijS7qxVy-6Gyc4cweUyFoK4ZvRn2WnlOe8SSKuq9sT7ps-2nbiTmZZMTCn_rFk4-mNoGnYL-DPU8pJhmNNOtkP-syqWE4WO_1aVt4bPa5nTsQPQe6VRAALnm6QW3YIWbYkVS78JFbZN39vmMI1UYiWlHXKwNMB99WjsZOn0qc_8dcN0unp2KMOBw0P__3OH0))/CheatSheet.aspx?AspxAutoDetectCookieSupport=1)
+- [JavaScript Form Validation Using Regular Expressions](https://study.com/academy/lesson/javascript-form-validation-using-regular-expressions-definition-example.html)
 
 ## Example project
 
