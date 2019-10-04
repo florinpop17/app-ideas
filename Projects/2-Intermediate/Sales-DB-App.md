@@ -2,7 +2,7 @@
 
 **Tier:** 2-Intermediate
 
-In the [First DB App](./First-DB-App.md) you were able to learn the basics of
+In the [First DB App](../1-Beginner/First-DB-App.md) you were able to learn the basics of
 how to use the IndexedDB database that's built into the browser. In Sales
 Reciepts you'll take this a step further by creating an app that records
 point of sales receipts, presumably for subsequent balancing against cash in

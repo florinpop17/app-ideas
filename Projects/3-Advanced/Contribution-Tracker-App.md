@@ -2,7 +2,7 @@
 
 **Tier:** 3-Advanced
 
-In the [Charity Finder](./Charity-Finder-App.md) project you created an app to
+In the [Charity Finder](../2-Intermediate/Charity-Finder-App.md) project you created an app to
 help you locate a charity worthy of your contributions. Once a contribution
 has been made the goal of the Contribution Tracker app is to track it so to
 provide users with a record of all contributions for use in monitoring how

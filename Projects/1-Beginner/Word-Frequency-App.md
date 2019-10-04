@@ -30,7 +30,7 @@ bubble chart, column chart, or any other form of graphical representation the
 developer chooses.
 -   [ ] User may choose to enter the URL of a web page whose content is to be
 analyzed instead of manually entering text. (Hint: See the
-[Podcast Directory](./Podcast-Directory-App.md) application for ideas).
+[Podcast Directory](../2-Intermediate/Podcast-Directory-App.md) application for ideas).
 
 ## Useful links and resources
 
