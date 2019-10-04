@@ -85,6 +85,7 @@ required to complete them.
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md)                         | Animate a set of images                            | 2-Intermediate |
+| [Game Suggestion APP](./Projects/2-Intermediate/Game-Suggestion-App.md)           | Create polls to decide what games to play          | 2-Intermediate |
 | [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
