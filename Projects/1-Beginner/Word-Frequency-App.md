@@ -41,3 +41,4 @@ analyzed instead of manually entering text. (Hint: See the
 
 - [Word Frequency Counter](https://codepen.io/maxotar/pen/aLrwJM)
 - [Bubble Chart](https://codepen.io/Quendoline/pen/pjELpM)
+- [Svelte Word Frequency by Gabriele Corti](https://codepen.io/borntofrappe/pen/QWWWqQM)
