@@ -1,12 +1,13 @@
 # My calendar
 
-**Tier:** 1-Beginner
+**Tier:** 3-Advanced
 
 Build a calendar application to organize you daily life. Add functionality to add events and reminder.
 Style your own calendar according to your requirement
 
 - Understanding how calendar application works
 - Only basic understanding of HTML/CSS and JS is required
+- Working on more features help you learning advance concepts of JS
 
 ## User Stories
 
