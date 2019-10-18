@@ -45,6 +45,7 @@ required to complete them.
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |
 | [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |
+| [Chrome Theme Extension](./Projects/1-Beginner/Chrome-Theme-Extension.md)         | Build your own chrome theme extention.                     | 1-Beginner |
 | [Cause Effect App](./Projects/1-Beginner/Cause-Effect-App.md)                     | Click list item to display item details                    | 1-Beginner |
 | [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner |
@@ -87,13 +88,13 @@ required to complete them.
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
 | [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md)                         | Animate a set of images                            | 2-Intermediate |
 | [Game Suggestion App](./Projects/2-Intermediate/Game-Suggestion-App.md)           | Create polls to decide what games to play          | 2-Intermediate |
-| [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md)                   | A GitHub user search App                            | 2-Intermediate |
+| [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md)                   | A GitHub user search App                           | 2-Intermediate |
 | [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Math Editor](./Projects/2-Intermediate/math-editor.md)                           | A math editor for students to use                  | 2-Intermediate |
 | [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
-| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)			| Generate names using names dataset		  		 | 2-Intermediate |
+| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)         | Generate names using names dataset                 | 2-Intermediate |
 | [Password Generator](./Projects/2-Intermediate/Password-Generator.md)             | Generate random passwords                          | 2-Intermediate |
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
