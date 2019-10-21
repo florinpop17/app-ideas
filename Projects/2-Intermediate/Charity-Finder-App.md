@@ -56,7 +56,7 @@ the relationship between projects and organizations.
 
 - [What is Web Site Conversion?](https://www.marketing91.com/what-is-website-conversion/)
 - [Global Giving API](https://www.globalgiving.org/api/)
-- Sample JSON for a project returned through the API:
+- Sample XML for a project returned through the API:
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <projects numberFound="26842">
