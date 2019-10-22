@@ -1,4 +1,4 @@
-# Url Scanner
+# Image Scanner
 
 **Tier:** 2-Intermediate
 
