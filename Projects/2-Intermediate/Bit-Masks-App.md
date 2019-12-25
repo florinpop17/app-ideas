@@ -73,4 +73,4 @@ search criteria.
 
 ## Example projects
 
-[Bitwise Operation](https://codepen.io/Lunoware/pen/XBWEPY)
+[Bitwise Operation](https://codepen.io/Lunoware/pen/VBZgQd)
