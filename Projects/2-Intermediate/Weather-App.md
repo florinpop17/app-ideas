@@ -2,7 +2,7 @@
 
 **Tier:** 2-Intermediate
 
-A weather application to get the temperature, weather type and whether it is day or night of a particular city using `accuweather`. A free weather api.
+A weather application to get the temperature, weather condition and whether it is day or night of a particular city using `accuweather`. A free weather api.
 
 ## User Stories
 
