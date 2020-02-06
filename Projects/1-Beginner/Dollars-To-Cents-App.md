@@ -1,4 +1,4 @@
-# Dollars To Cents 
+# Dollars To Cents
 
 **Tier:** 1-Beginner
 
@@ -26,4 +26,4 @@ The challenge: Try this without using any frameworks.
 
 ## Example projects
 
-N/A
+-   [Dollars to cents converter](https://github.com/LimonJuice322/Dollars-to-cents-converter)
