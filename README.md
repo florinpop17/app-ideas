@@ -24,6 +24,8 @@ Each project has the following **features**:
 3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
 
+Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
+
 ## Projects
 
 Projects are divided into three tiers based on the knowledge and experience
@@ -161,9 +163,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ### Main Contributors 🙂🙂
 
-- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
+- **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
 - **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
 
-## Weekly Coding Challenge 🚀
+## 100Days100Projects 🚀
 
-As a bonus, there's a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
+As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
