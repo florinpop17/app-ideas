@@ -18,7 +18,7 @@ recording of a word the user must then spell using the computer keyboard.
         typed in the word input text box
 -   [ ] User can see a confirmation message when the correct word is typed
 -   [ ] User can see a message requesting the word be typed again when it is
-        spellect incorrectly
+        spelled incorrectly
 -   [ ] User can see a tally of the number of correct spellings, total number
         of words attempted, and a percentage of successful entries.
 
