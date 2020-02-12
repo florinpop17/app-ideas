@@ -28,3 +28,4 @@ The classic To-Do application where a user can write down all the things he want
 -   [Todo App built with React](http://todomvc.com/examples/react/#/)
 -   [To Do List on Codepen](https://codepen.io/yesilfasulye/pen/eJIuF) by [Burak Kaya](https://codepen.io/yesilfasulye/)
 -   [Todo App in Plain JavaScript](https://safdarjamal.github.io/todo-app/)
+-   [Todo App in Golang](https://github.com/schadokar/go-to-do-app)
