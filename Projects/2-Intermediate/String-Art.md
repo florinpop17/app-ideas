@@ -1,3 +1,9 @@
+---
+path: '/string-art'
+title: 'StringArt'
+tier: 'intermediate'
+---
+
 # StringArt
 
 **Tier:** 2-Intermediate

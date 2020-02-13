@@ -1,3 +1,9 @@
+---
+path: '/github-status'
+title: 'Github Status'
+tier: 'beginner'
+---
+
 # GitHub Status
 
 **Tier:** 1-Beginner
@@ -17,18 +23,18 @@ to develop it using your language of choice!
 
 ## User Stories
 
--   [ ] User can see the current status for GitHub Git operations, API Requests,
-Operational Issues, PRs, Dashboard, & Projects, Operational Notifications,
-Operational Gists, and Operational GitHub Pages as a list in the main app
-window.
--   [ ] User can retrieve the most recent status from the GitHub Status web
-site by clicking a 'Get Status' button.
+- [ ] User can see the current status for GitHub Git operations, API Requests,
+      Operational Issues, PRs, Dashboard, & Projects, Operational Notifications,
+      Operational Gists, and Operational GitHub Pages as a list in the main app
+      window.
+- [ ] User can retrieve the most recent status from the GitHub Status web
+      site by clicking a 'Get Status' button.
 
 ## Bonus features
 
--   [ ] User can see any of the GitHub components that are not in 'Operational'
-status highlighted by a different color, background animation, or any other
-technique to make it stand out. Use your imagination!
+- [ ] User can see any of the GitHub components that are not in 'Operational'
+      status highlighted by a different color, background animation, or any other
+      technique to make it stand out. Use your imagination!
 
 ## Useful links and resources
 
@@ -37,14 +43,15 @@ technique to make it stand out. Use your imagination!
 - [Javascript JSON (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 - [Javascript Object Notation](https://json.org/)
 - Hint! You can use the following code to display the JSON for the GitHub Status
-web site page from the command line command `node ghstatus`. You can use this 
-output to determine which JSON element contain the status information you'll 
-need to develop this app.
+  web site page from the command line command `node ghstatus`. You can use this
+  output to determine which JSON element contain the status information you'll
+  need to develop this app.
+
 ```
 ghstatus.js
 
 const request = require('request');
-request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {  
+request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {
     console.log(body);
 });
 ```

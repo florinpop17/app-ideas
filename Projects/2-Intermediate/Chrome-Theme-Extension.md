@@ -1,3 +1,9 @@
+---
+path: '/chrome-theme-extension'
+title: 'Chrome Theme Extension'
+tier: 'intermediate'
+---
+
 # Chrome Theme Extension
 
 **Tier:** 2-Intermediate

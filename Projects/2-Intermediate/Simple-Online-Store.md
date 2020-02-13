@@ -1,3 +1,9 @@
+---
+path: '/simple-online-store'
+title: 'Simple Online Store'
+tier: 'intermediate'
+---
+
 # Simple Online Store
 
 **Tier:** 2-Intermediate

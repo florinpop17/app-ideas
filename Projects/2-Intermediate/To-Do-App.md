@@ -1,3 +1,9 @@
+---
+path: '/to-do-app'
+title: 'To-Do App'
+tier: 'intermediate'
+---
+
 # To-Do App
 
 **Tier:** 2-Intermediate

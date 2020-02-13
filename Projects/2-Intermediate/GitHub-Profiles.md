@@ -1,3 +1,9 @@
+---
+path: '/github-profiles'
+title: 'Github Profiles'
+tier: 'intermediate'
+---
+
 # GitHub Profiles
 **Tier:** 2-Intermediate
 

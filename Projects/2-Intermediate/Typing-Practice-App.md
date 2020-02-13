@@ -1,3 +1,9 @@
+---
+path: '/typing-practice-app'
+title: 'Typing Practice App'
+tier: 'intermediate'
+---
+
 # Typing Practice
 
 **Tier:** 2-Intermediate

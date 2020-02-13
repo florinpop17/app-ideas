@@ -1,3 +1,9 @@
+---
+path: '/my-calendar'
+title: 'My Calendar'
+tier: 'beginner'
+---
+
 # My calendar
 
 **Tier:** 3-Advanced

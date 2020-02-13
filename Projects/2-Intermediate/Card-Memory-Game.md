@@ -1,3 +1,9 @@
+---
+path: '/card-memory-game'
+title: 'Card-Memory-Game'
+tier: 'intermediate'
+---
+
 # Card-Memory-Game
 
 **Tier:** 2-Intermediate

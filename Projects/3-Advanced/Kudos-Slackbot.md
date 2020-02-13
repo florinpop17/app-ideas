@@ -1,3 +1,9 @@
+---
+path: '/kudos-slackbot'
+title: "Kudo's Slackbot"
+tier: 'advanced'
+---
+
 # Kudo's Slackbot
 
 **Tier:** 3-Advanced
@@ -11,32 +17,32 @@ efforts and to make it available through a simple Slack command.
 
 ## User Stories
 
--   [ ] User can create a kudu using the Slack command: `/kudo add <slack-id> <text>` where:
+- [ ] User can create a kudu using the Slack command: `/kudo add <slack-id> <text>` where:
 
-    -   `<slack-id>` defines the individual receiving the recognition
-    -   `<text>` is your kudo for that person
+  - `<slack-id>` defines the individual receiving the recognition
+  - `<text>` is your kudo for that person
 
--   [ ] User can modify a kudu using the Slack command: `/kudo replace <kudo-id> <text>` where:
+- [ ] User can modify a kudu using the Slack command: `/kudo replace <kudo-id> <text>` where:
 
-    -   `<action>` is 'replace' or 'delete'
-    -   `<kudo-id>` is the kudo identifier
-    -   `<text>` is your kudo for that person
+  - `<action>` is 'replace' or 'delete'
+  - `<kudo-id>` is the kudo identifier
+  - `<text>` is your kudo for that person
 
--   [ ] User can delete a kudu using the Slack command: `/kudo delete <kudo-id>`
+- [ ] User can delete a kudu using the Slack command: `/kudo delete <kudo-id>`
 
--   [ ] User may display the most recent _n_ kudos using the Slack command: `/kudo list <n>` where `n` is an integer or `*` for all kudos
+- [ ] User may display the most recent _n_ kudos using the Slack command: `/kudo list <n>` where `n` is an integer or `*` for all kudos
 
--   [ ] User may display all kudos for an individual with the Slack command: `/kudo user <slack-id>`
+- [ ] User may display all kudos for an individual with the Slack command: `/kudo user <slack-id>`
 
 ## Bonus features
 
--   [ ] User may list the individual having the most kudos, in descending order, user the Slack command: `/kudo top <n>` where `n` is an integer or `*` for all individuals who have received a kudo
+- [ ] User may list the individual having the most kudos, in descending order, user the Slack command: `/kudo top <n>` where `n` is an integer or `*` for all individuals who have received a kudo
 
 ## Useful links and resources
 
--   [Slack API](https://api.slack.com/)
+- [Slack API](https://api.slack.com/)
 
 ## Example project
 
--   [Kudos Slackbot Example](https://cubic-quince.glitch.me/)
--    
+- [Kudos Slackbot Example](https://cubic-quince.glitch.me/)
+-

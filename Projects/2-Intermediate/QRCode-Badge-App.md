@@ -1,3 +1,9 @@
+---
+path: '/qr-code-badge-app'
+title: 'QRCode Badge Generator App'
+tier: 'intermediate'
+---
+
 # QRCode Badge Generator
 
 **Tier:** 2-Intermediate

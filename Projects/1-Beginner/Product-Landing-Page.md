@@ -1,3 +1,9 @@
+---
+path: '/product-landing-page'
+title: 'Product Landing Page'
+tier: 'beginner'
+---
+
 # Product Landing Page
 
 **Tier:** 1-Beginner
@@ -14,19 +20,19 @@ skills by expanding it to incorporate the features specified in the
 
 These will cover the visual part of the project.
 
--   [ ] User can see on the page one or more images with the product
--   [ ] User can see a list with all the features of the product
--   [ ] User can see how this product will improve the buyers life. Why should he buy it?
--   [ ] User can see a contact section (a text with the email)
+- [ ] User can see on the page one or more images with the product
+- [ ] User can see a list with all the features of the product
+- [ ] User can see how this product will improve the buyers life. Why should he buy it?
+- [ ] User can see a contact section (a text with the email)
 
 ## Bonus features
 
 These will cover the functional part of the project.
 
--   [ ] User can see a FAQ section
--   [ ] User can contact the staff members via a contact form
--   [ ] User can sign up to receive notifications about the product
--   [ ] User can purchase the product
+- [ ] User can see a FAQ section
+- [ ] User can contact the staff members via a contact form
+- [ ] User can sign up to receive notifications about the product
+- [ ] User can purchase the product
 
 ## Useful links and resources
 
@@ -34,5 +40,5 @@ There are plenty of Product Landing Pages out there. You can use [Dribbble](www.
 
 ## Example projects
 
--   [Netlify](https://www.netlify.com/)
--   [Product Landing Page - Codepen](https://codepen.io/l4ci/pen/LoGjk)
+- [Netlify](https://www.netlify.com/)
+- [Product Landing Page - Codepen](https://codepen.io/l4ci/pen/LoGjk)

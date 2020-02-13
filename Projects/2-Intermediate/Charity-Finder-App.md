@@ -1,3 +1,9 @@
+---
+path: '/charity-finder'
+title: 'Charity Finder'
+tier: 'intermediate'
+---
+
 # Charity Finder
 
 **Tier:** 2-Intermediate

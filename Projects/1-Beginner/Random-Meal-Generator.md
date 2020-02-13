@@ -1,3 +1,9 @@
+---
+path: '/random-meal-generator'
+title: 'Random Meal Generator'
+tier: 'beginner'
+---
+
 # Random Meal Generator
 
 **Tier:** 1-Beginner

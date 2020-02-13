@@ -1,3 +1,9 @@
+---
+path: '/regular-expression-helper-app'
+title: 'Regular Expression Helper App'
+tier: 'intermediate'
+---
+
 # Regular Expression Helper
 
 **Tier:** 2-Intermediate

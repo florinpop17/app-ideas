@@ -1,3 +1,9 @@
+---
+path: '/flip-art-app'
+title: 'Flip Art App'
+tier: 'intermediate'
+---
+
 # Flip Art
 
 **Tier:** 2-Intermediate

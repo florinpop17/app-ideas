@@ -1,3 +1,9 @@
+---
+path: '/markdown-table-generator'
+title: 'Markdown Table Generator'
+tier: 'intermediate'
+---
+
 # Markdown Table Generator
 
 **Tier:** 2-Intermediate

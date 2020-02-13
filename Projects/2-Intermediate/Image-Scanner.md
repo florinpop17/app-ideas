@@ -1,3 +1,9 @@
+---
+path: '/image-scanner'
+title: 'Image Scanner'
+tier: 'intermediate'
+---
+
 # Image Scanner
 
 **Tier:** 2-Intermediate

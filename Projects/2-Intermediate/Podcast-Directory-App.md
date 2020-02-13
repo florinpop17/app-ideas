@@ -1,3 +1,9 @@
+---
+path: '/podcast-directory-app'
+title: 'Podcast Directory App'
+tier: 'intermediate'
+---
+
 # Podcast Directory
 
 **Tier:** 2-Intermediate

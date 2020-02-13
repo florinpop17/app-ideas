@@ -1,3 +1,9 @@
+---
+path: '/slack-archiver'
+title: 'Slack Archiver'
+tier: 'advanced'
+---
+
 # Slack Archiver
 
 **Tier:** 3-Advanced
@@ -25,15 +31,15 @@ development of this application.
 
 ## User Stories
 
--   [ ] Allow the user to specify the channels to be archived. This includes both adding and removing channels from the list
--   [ ] Only the owners of the Slack Team should be allowed to archive messages
--   [ ] For each channel to be archived periodically extract messages starting from the last message retrieved in the last extract and write them to a database
--   [ ] Allow the user to copy and extracted channel to a file
--   [ ] Archiving should be an automatic process. Unlike a Slack 'bot, no manual intervention should be required to start or stop and archive operation
+- [ ] Allow the user to specify the channels to be archived. This includes both adding and removing channels from the list
+- [ ] Only the owners of the Slack Team should be allowed to archive messages
+- [ ] For each channel to be archived periodically extract messages starting from the last message retrieved in the last extract and write them to a database
+- [ ] Allow the user to copy and extracted channel to a file
+- [ ] Archiving should be an automatic process. Unlike a Slack 'bot, no manual intervention should be required to start or stop and archive operation
 
 ## Bonus features
 
--   [ ] Implement an API that allows an application to extract archived messages from the archive database
+- [ ] Implement an API that allows an application to extract archived messages from the archive database
 
 ## Useful links and resources
 

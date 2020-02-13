@@ -1,3 +1,9 @@
+---
+path: '/flash-cards-app'
+title: 'FlashCards App'
+tier: 'intermediate'
+---
+
 # FlashCards
 
 **Tier:** 2-Intermediate

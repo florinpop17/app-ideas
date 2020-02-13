@@ -1,3 +1,9 @@
+---
+path: '/math-formula-editor'
+title: 'Math Formula Editor'
+tier: 'intermediate'
+---
+
 # Math Formula Editor
 
 **Tier:** 2-Intermediate

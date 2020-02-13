@@ -1,3 +1,9 @@
+---
+path: '/password-generator'
+title: 'Password Generator'
+tier: 'intermediate'
+---
+
 # Password Generator
 
 **Tier:** 2-Intermediate

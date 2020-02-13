@@ -1,3 +1,8 @@
+---
+path: '/game-suggestion-app'
+title: 'Game Suggestion App'
+tier: 'intermediate'
+---
 
 # Game suggestion app
 

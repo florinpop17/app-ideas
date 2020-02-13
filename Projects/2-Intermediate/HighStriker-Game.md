@@ -1,3 +1,9 @@
+---
+path: '/high-striker-game'
+title: 'HighStriker Game'
+tier: 'intermediate'
+---
+
 # HighStriker
 
 **Tier:** 2-Intermediate

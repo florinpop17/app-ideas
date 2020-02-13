@@ -1,3 +1,9 @@
+---
+path: '/timezone-slackbot'
+title: 'Timezone Slackbot - TZ'
+tier: 'intermediate'
+---
+
 # Timezone Slackbot - TZ
 
 **Tier:** 2-Intermediate

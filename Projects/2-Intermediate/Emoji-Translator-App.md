@@ -1,3 +1,9 @@
+---
+path: '/emoji-translator-app'
+title: 'Emoji Translator App'
+tier: 'intermediate'
+---
+
 # Emoji Translator
 
 **Tier:** 2-Intermediate

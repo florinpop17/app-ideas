@@ -1,3 +1,9 @@
+---
+path: '/sports-bracket-generator'
+title: 'Sports Bracket Generator'
+tier: 'intermediate'
+---
+
 # Sports Bracket Generator
 
 **Tier:** 2-Intermediate

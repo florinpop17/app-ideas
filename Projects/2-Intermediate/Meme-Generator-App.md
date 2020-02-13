@@ -1,3 +1,9 @@
+---
+path: '/meme-generator-app'
+title: 'Meme Generator App'
+tier: 'intermediate'
+---
+
 # Meme Generator App
 
 **Tier:** 2-Intermediate

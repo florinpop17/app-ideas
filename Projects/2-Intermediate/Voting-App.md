@@ -1,3 +1,9 @@
+---
+path: '/voting-app'
+title: 'Voting App'
+tier: 'intermediate'
+---
+
 # Voting App
 
 **Tier:** 2-Intermediate

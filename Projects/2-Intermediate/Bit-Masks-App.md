@@ -1,3 +1,9 @@
+---
+path: '/bit-masks-app'
+title: 'Bit Masks'
+tier: 'intermediate'
+---
+
 # Bit Masks
 
 **Tier:** 2-Intermediate

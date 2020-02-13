@@ -1,3 +1,9 @@
+---
+path: '/book-finder-app'
+title: 'Book Finder App'
+tier: 'intermediate'
+---
+
 # Book Finder App
 
 **Tier:** 2-Intermediate

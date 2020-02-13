@@ -1,3 +1,9 @@
+---
+path: '/name-generator'
+title: 'Name Generator'
+tier: 'intermediate'
+---
+
 # Name generation using Recurrent Neural Networks
 
 **Tier:** 2-Intermediate

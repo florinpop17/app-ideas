@@ -1,3 +1,9 @@
+---
+path: '/markdown-previewer'
+title: 'Markdown Previewer'
+tier: 'intermediate'
+---
+
 # Markdown Previewer
 
 **Tier:** 2-Intermediate

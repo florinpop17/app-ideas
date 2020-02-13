@@ -1,3 +1,9 @@
+---
+path: '/this-or-that-game'
+title: 'This or That Game'
+tier: 'intermediate'
+---
+
 # This or That Game
 
 **Tier:** 2-Intermediate

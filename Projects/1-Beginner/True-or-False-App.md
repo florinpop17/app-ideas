@@ -1,3 +1,9 @@
+---
+path: '/true-or-false-app'
+title: 'TrueOrFalse App'
+tier: 'beginner'
+---
+
 # TrueOrFalse
 
 **Tier:** 1-Beginner
@@ -16,20 +22,20 @@ the `eval()` function to generate the result of the conditional.
 
 ## User Stories
 
--   [ ] User can enter two strings to be compared
--   [ ] User can enter a valid Javascript conditional operator to be used to compare the two strings
--   [ ] User can see the result of the conditional as TRUE or FALSE
--   [ ] User can see a warning if the input strings or conditional operator that has been entered is not valid
+- [ ] User can enter two strings to be compared
+- [ ] User can enter a valid Javascript conditional operator to be used to compare the two strings
+- [ ] User can see the result of the conditional as TRUE or FALSE
+- [ ] User can see a warning if the input strings or conditional operator that has been entered is not valid
 
 ## Bonus features
 
--   [ ] User can specify the type of each of the two strings so numbers can be compared to strings, strings to booleans, etc
+- [ ] User can specify the type of each of the two strings so numbers can be compared to strings, strings to booleans, etc
 
 ## Useful links and resources
 
--   [Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
--   [Conditional Javascript for Experts](https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c)
--   [Truthy and Falsy: When all is not equal in Javascript](https://www.sitepoint.com/javascript-truthy-falsy/)
+- [Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
+- [Conditional Javascript for Experts](https://hackernoon.com/conditional-javascript-for-experts-d2aa456ef67c)
+- [Truthy and Falsy: When all is not equal in Javascript](https://www.sitepoint.com/javascript-truthy-falsy/)
 
 ## Example projects
 

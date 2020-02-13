@@ -1,3 +1,9 @@
+---
+path: '/cause-effect'
+title: 'CauseEffect'
+tier: 'beginner'
+---
+
 # CauseEffect
 
 **Tier:** 1-Beginner
@@ -19,37 +25,37 @@ page.
 This challenge requires that the developer implementing it follow these
 constraints:
 
--   You are responsible for creating your own test data. Use a hardcoded
-    Javascript object to define your test data (see below).
--   Use only native HTML/CSS/Javascript in your first version of this app
--   You may use other packages or libraries when implementing subsequent
-    versions.
+- You are responsible for creating your own test data. Use a hardcoded
+  Javascript object to define your test data (see below).
+- Use only native HTML/CSS/Javascript in your first version of this app
+- You may use other packages or libraries when implementing subsequent
+  versions.
 
 ## User Stories
 
--   [ ] User can see a list of person names arranged vertically in a summary
-        pane on the page.
--   [ ] User can click on a name in the list to update an adjacent pane on the
-        page with that individuals full name, address, telephone number, and
-        birthday.
--   [ ] User can click on another name in the list to refresh the detail pane
-        with that individuals information.
+- [ ] User can see a list of person names arranged vertically in a summary
+      pane on the page.
+- [ ] User can click on a name in the list to update an adjacent pane on the
+      page with that individuals full name, address, telephone number, and
+      birthday.
+- [ ] User can click on another name in the list to refresh the detail pane
+      with that individuals information.
 
 ## Bonus features
 
--   [ ] User can see the person name in the summary pane highlighted when the
-        cursor is hovered over it.
--   [ ] User can see the person name in the summary pane highlighted
-        using a selection effect (color, size, etc.) when it is clicked. This is a
-        different effect from the hover effect
--   [ ] User can see the selection effect removed from a name in the summary
-        list when a new name is clicked.
+- [ ] User can see the person name in the summary pane highlighted when the
+      cursor is hovered over it.
+- [ ] User can see the person name in the summary pane highlighted
+      using a selection effect (color, size, etc.) when it is clicked. This is a
+      different effect from the hover effect
+- [ ] User can see the selection effect removed from a name in the summary
+      list when a new name is clicked.
 
 ## Useful links and resources
 
--   [DOM Events](https://developer.mozilla.org/en-US/docs/Web/API/Event)
--   Consider defining your test data in a JavaScript object having a format
-    such as this:
+- [DOM Events](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- Consider defining your test data in a JavaScript object having a format
+  such as this:
 
 ```
 const people = [

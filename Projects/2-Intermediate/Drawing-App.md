@@ -1,3 +1,9 @@
+---
+path: '/drawing-app'
+title: 'Drawing App'
+tier: 'intermediate'
+---
+
 # Drawing App
 
 **Tier:** 2-Intermediate

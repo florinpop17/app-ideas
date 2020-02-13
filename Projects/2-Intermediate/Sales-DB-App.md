@@ -1,3 +1,9 @@
+---
+path: '/sales-db-app'
+title: 'Sales DB App'
+tier: 'intermediate'
+---
+
 # Sales Reciepts
 
 **Tier:** 2-Intermediate
