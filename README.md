@@ -92,6 +92,7 @@ required to complete them.
 | [Flip Art App](./Projects/2-Intermediate/Flip-Art-App.md)                         | Animate a set of images                            | 2-Intermediate |
 | [Game Suggestion App](./Projects/2-Intermediate/Game-Suggestion-App.md)           | Create polls to decide what games to play          | 2-Intermediate |
 | [GitHub Profiles](./Projects/2-Intermediate/GitHub-Profiles.md)                   | A GitHub user search App                           | 2-Intermediate |
+| [Gif Maker](./Projects/2-Intermediate/GIF-Maker.md)                   | A GIF maker app to make IFS from Images and Videos              | 2-Intermediate |
 | [HighStriker Game](./Projects/2-Intermediate/HighStriker-Game.md)                 | Highstriker strongman carnival game                | 2-Intermediate |
 | [Image Scanner](./Projects/2-Intermediate/Image-Scaner.md)                        | Image Scanner App                                  | 2-Intermediate |
 | [Markdown Previewer](./Projects/2-Intermediate/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
