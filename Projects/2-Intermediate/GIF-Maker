@@ -1,0 +1,20 @@
+GIF Maker App
+Tier: 2-Intermediate
+
+This app helps user to create GIFs using Multiple Images and Videos. 
+
+User Stories
+ User can either click a photo or upload a photo from the gallery
+ Processing is done on the image.
+ App Will create GIFs
+ User can change the GIFs speed with a seekbar
+ User will able to share or save that GIFs
+ User can also see all the created GIFs in Activity 
+Bonus features
+Provide stickers options to add on GIFs
+
+Useful links and resources
+https://github.com/its-harshil/Gif-maker
+
+Example projects
+Android App for text detection - https://github.com/its-harshil/Gif-maker
