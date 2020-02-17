@@ -29,7 +29,7 @@ can test the query logic you'll be adding. You'll be required to hook up
 buttons on the web page you build to the `clearDB` and `loadDB` functions, and
 to write your own `queryDB` handler to connect to the `Query DB` button. You'll
 also need to add a `queryAllRows` function to the Customer class.
-```
+```js
 class Customer {
   constructor(dbName) {
     this.dbName = dbName;
