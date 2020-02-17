@@ -51,7 +51,7 @@ required to complete them.
 | [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner |
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |
-| [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                  | Convert dollars to cents                                   | 1-Beginner |
+| [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner |
 | [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings                   | 1-Beginner |
 | [First DB App](./Projects/1-Beginner/First-DB-App.md)                             | Your first Database app!                                   | 1-Beginner |
 | [Flip Image](./Projects/1-Beginner/Flip-Image-App.md)                             | Change the orientation of images across two axes           | 1-Beginner |
@@ -76,6 +76,7 @@ required to complete them.
 | [Vigenere Cipher](./Projects/1-Beginner/Vigenere-Cipher.md)                       | Encrypt text using the Vigenere Cypher                     | 1-Beginner |
 | [Wind Chill](./Projects/1-Beginner/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
+| [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 
 ### Tier-2: Intermediate Projects
 
@@ -98,7 +99,7 @@ required to complete them.
 | [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Math Editor](./Projects/2-Intermediate/math-editor.md)                           | A math editor for students to use                  | 2-Intermediate |
 | [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
-| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)			    | Generate names using names dataset		  		       | 2-Intermediate |
+| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)         | Generate names using names dataset                 | 2-Intermediate |
 | [Password Generator](./Projects/2-Intermediate/Password-Generator.md)             | Generate random passwords                          | 2-Intermediate |
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
