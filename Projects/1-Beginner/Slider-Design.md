@@ -21,5 +21,5 @@ Display multiple images using a slider / carousel.
 
 ## Example projects
 
--   [Full Page Slider](https://codepen.io/FlorinPop17/full/zbzbga)
+-   [Full Page Slider](https://codepen.io/FlorinPop17/full/LvOroe)
 -   [WOWSlider](http://wowslider.com/3d-slider-jquery-fresh-cube-demo.html)
