@@ -32,3 +32,4 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 ## Example projects
 
 -   [Chatty2](https://web-chatty.herokuapp.com/)
+-   [Simple TCP Socket based Chat application](https://github.com/dularish/Simple-TCP-Socket-based-Chat-App)
