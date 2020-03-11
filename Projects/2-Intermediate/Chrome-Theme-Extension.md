@@ -2,22 +2,22 @@
 
 **Tier:** 2-Intermediate
 
-Build your own customized chrome theme extention. You can also add night light (also known as blue light filter) feture that will automatically turn on during the night time so that user's eye won't get stressed while coding whole night or binge watching netflix 😛
+Build your own customized chrome theme extension. You can also add night light (also known as blue light filter) feature that will automatically turn on during the night time so that user's eye won't get stressed while coding whole night or binge watching netflix 😛
 
-- How chrome extention work(behind the scenes).
-- Basic understanding of HTML/CSS, JS, JSON is required
+- How chrome extension work(behind the scenes).
+- Basic understanding of HTML/CSS, JS, JSON is required.
 
 ## User Stories
 
-- [ ] User can make a a theme accoring to their own personal color preference
+- [ ] User can make a theme according to their own personal color preference
 - [ ] This will extremely benefit the people suffering from color blindness.
-- [ ] User can install and set it as default theme
+- [ ] User can install and set it as the default theme.
 
 ## Bonus features
 
-- [ ] Deploy extention to chrome store
-- [ ] Add a toggle button to manually control the night sight feature
-- [ ] Create same extention for multiple browser like firefox, etc.
+- [ ] Deploy extension to chrome store
+- [ ] Add a toggle button to control the night sight feature manually
+- [ ] Create same extension for multiple browsers like firefox, etc.
 
 ## Useful links and resources
 
