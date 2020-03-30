@@ -93,4 +93,6 @@ Leaderboard.
 
 ## Example projects
 
-- N/a
+- https://lucas2612.github.io/boole-bots-game/
+- https://github.com/Lucas2612/boole-bots-game
+
