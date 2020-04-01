@@ -55,3 +55,4 @@ number.
 
 - [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
 - [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
+- [Javascript-CALC](https://github.com/x0uter/javascript-calc)
