@@ -29,4 +29,4 @@ To get data from API you can check [fetch API](https://developer.mozilla.org/en-
 
 - [GitHub profiles](https://chaharshivam.github.io/github-profiles/?#) ([repo](https://github.com/chaharshivam/github-profiles))
 
-- [github-profile-search pen](https://codepen.io/guerra08/pen/GRJXVbq) ([repo](https://codepen.io/guerra08/pen/GRJXVbq))
+- [github-profile-search](https://github-profile-search-272901.web.app/) ([repo](https://github.com/guerra08/github-profile-search))
