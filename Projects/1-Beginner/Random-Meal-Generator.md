@@ -21,3 +21,4 @@ Generate a random meal from an API.
 ## Example projects
 
 - [Random Meal Generator by Florin Pop on Codepen](https://codepen.io/FlorinPop17/full/WNeggor)
+- [Random Meal Generator by ShinSpiegel on github](https://github.com/shinspiegel/random-meal-generator)
