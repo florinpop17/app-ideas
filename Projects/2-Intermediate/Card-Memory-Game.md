@@ -30,3 +30,4 @@ When the User clicks on the 2nd card:
 -   [Flip - card memory game](https://codepen.io/zerospree/full/bNWbvW)
 -   [Memory Game](https://jdmedlock.github.io/memorygame/)
 -   [SMB3 Memory Card Game](https://codepen.io/hexagoncircle/full/OXBJxV)
+-   [BHMBS - Memory Game](https://barhouum7.github.io/JS-MemoryGame.github.io/)
