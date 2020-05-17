@@ -23,3 +23,5 @@ A currency converter is used to convert an amount in one currency to its corresp
 - [How to use fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to fetch data
 
 ## Example projects
+- [Currency Converter](https://acodedoer.github.io/currency-converter/)
+- [Currency converter code](https://github.com/acodedoer/currency-converter)
