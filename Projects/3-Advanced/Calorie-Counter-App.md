@@ -43,7 +43,7 @@ data structure other than an array for faster searching.
 
 ## Useful links and resources
 
-[MyPyramid Food Raw Data](https://catalog.data.gov/dataset/mypyramid-food-raw-data-f9ed6)
+[MyPyramid Food Raw Data](https://catalog.data.gov/dataset/mypyramid-food-raw-data)
 
 ## Example projects
 
