@@ -34,7 +34,7 @@ an RGB color specification (e.g. `#000000` color code).
 
 ## Useful links and resources
 
-[CSS Color Codes](https://www.quackit.com/css/css_color_codes.cfm)
+[CSS Color Codes](https://qhmit.com/css/css_color_codes.cfm)
 
 ## Example projects
 
