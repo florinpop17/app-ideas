@@ -23,4 +23,4 @@ You can use the [Google Books API](https://developers.google.com/books/docs/over
 ## Example projects
 
 [Book Finder](https://book-finder-by-deyl.netlify.com/)
-[Search Books](https://search-book.netlify.app/)
+[Search Books](https://booksure.netlify.app/)
