@@ -27,6 +27,6 @@ To get data from API you can check [fetch API](https://developer.mozilla.org/en-
 
 ## Example projects
 
-- [GitHub profiles](https://chaharshivam.github.io/github-profiles/?#) ([repo](https://github.com/chaharshivam/github-profiles))
+- [GitHub profiles](https://github-profiles.netlify.app/) ([repo](https://github.com/GabrielNBDS/GitHub-Profiles))
 
 - [github-profile-search pen](https://codepen.io/guerra08/pen/GRJXVbq) ([repo](https://codepen.io/guerra08/pen/GRJXVbq))
