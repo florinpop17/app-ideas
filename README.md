@@ -21,7 +21,7 @@ Each project has the following **features**:
 
 1. A clear and descriptive objective;
 2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
+3. A list of bonus features that not only improve the base project but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
 
 Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
@@ -155,7 +155,7 @@ Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
 ### Examples
 
-You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
+You can also add your examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
 
 ## Spread the word!
 
@@ -170,7 +170,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ## 100Days100Projects 🚀
 
-As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
+As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas for smaller projects. Enjoy! 😄
 
 ## Stars history
 
