@@ -23,5 +23,5 @@ A weather application to get the temperature, weather condition and whether it i
 ## Example projects
 
 - [Weather App on Codepen](https://codepen.io/tutsplus/pen/gObLaEP) by [George Martsoukos]
-- [Coding A Weather App In Pure JavaScipt](https://www.youtube.com/watch?v=ZPG2wGNj6J4)
+- [Coding A Weather App In Pure JavaScipt](https://www.youtube.com/watch?v=ZPG2wGNj6J4).
 -[A simple Weather with Current Location and Search Feature](https://amartyaayushi2.github.io/weather_search/)[ Link to github](https://github.com/amartyaayushi2/weather_search)
