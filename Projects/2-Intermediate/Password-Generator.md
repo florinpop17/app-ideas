@@ -13,7 +13,7 @@ Generate passwords based on certain characteristics selected by the user.
 
 ## Bonus features
 
-- [ ] Use can see the password strength
+- [ ] User can see the password strength
 
 ## Useful links and resources
 
