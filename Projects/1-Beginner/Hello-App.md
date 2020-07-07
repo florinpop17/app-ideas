@@ -22,10 +22,11 @@ language.
 ### Constraints
 
 -   Developers should use the [IP-API](http://ip-api.com/docs/api:json) service
-    to obtain the users country code.
+    to obtain the users IP.
 -   Developers should use the
     [Fourtonfish](https://www.fourtonfish.com/hellosalut/hello/) service to
-    obtain the greeting in the users native language by passing the country code.
+    obtain the greeting in the users native language by passing the users IP.
+-   Developers must use a HTML entities decoding to decode the hello message.
 
 ## User Stories
 
@@ -47,8 +48,8 @@ language.
 
 ## Bonus features
 
--   [ ] User can see an additional text input field for a country code which
-        will be used to override the country code obtained through geolocation. Hint:
+-   [ ] User can see an additional text input field for a language code which
+        will be used to override the IP obtained through geolocation. Hint:
         this is a great feature for testing your app.
 -   [ ] User can see additional geolocation information after logging on that
         includes at least the local IP address, city, region, country name, zip code,
