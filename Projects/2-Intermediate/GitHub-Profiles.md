@@ -29,4 +29,4 @@ To get data from API you can check [fetch API](https://developer.mozilla.org/en-
 
 - [GitHub profiles](https://github-profiles.netlify.app/) ([repo](https://github.com/GabrielNBDS/GitHub-Profiles))
 
-- [github-profile-search pen](https://codepen.io/guerra08/pen/GRJXVbq) ([repo](https://codepen.io/guerra08/pen/GRJXVbq))
+- [github-profile-search](https://github-profile-search-272901.web.app/) ([repo](https://github.com/guerra08/github-profile-search))
