@@ -26,7 +26,7 @@ Personal accounting, or bookkeeping, is a good habit that can help a person or f
 
 To design a fully-fledged accounting system, one should be familiar with [double-entry bookkeeping](https://en.wikipedia.org/wiki/Double-entry_bookkeeping).
 To handle [fixed assets](https://en.wikipedia.org/wiki/Fixed_asset), one need to know [depreciation](https://en.wikipedia.org/wiki/Depreciation).
-If you with, you can even make your app compliant to some enterprise-level [accounting standards](https://en.wikipedia.org/wiki/Accounting_standard).
+If you wish, you can even make your app compliant to some enterprise-level [accounting standards](https://en.wikipedia.org/wiki/Accounting_standard).
 
 ## Example projects
 
