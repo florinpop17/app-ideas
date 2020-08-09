@@ -15,6 +15,8 @@ The generator allows the user to use the random property for purposes like games
 
 -   [ ] User can add option for negative values
 -   [ ] User can add option for decimal numbers
+-   [ ] User can generate numbers in ascending, descending, or random order
+-   [ ] User can choose to generate numbers with or without repetition 
 
 ## Useful links and resources
 
@@ -26,3 +28,4 @@ Try not to view this until you've developed your own solution:
 
 -   [Example](https://alonjoshua.github.io/random-number-generator/)
 -   [Project](https://github.com/AlonJoshua/random-number-generator/)
+-   [Example with some Bonus features](https://codepen.io/thigoap/pen/pogROMq)
