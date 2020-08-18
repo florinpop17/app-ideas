@@ -1,6 +1,6 @@
 # My calendar
 
-**Tier:** 3-Advanced
+**Tier:** 1-Beginner
 
 Build a calendar application to organize you daily life. Add functionality to add events and reminder.
 Style your own calendar according to your requirement
