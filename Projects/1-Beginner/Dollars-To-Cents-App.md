@@ -27,3 +27,5 @@ The challenge: Try this without using any frameworks.
 ## Example projects
 
 -   [Dollars to cents converter](https://github.com/LimonJuice322/Dollars-to-cents-converter)
+
+-   [Dollars to cents converter](https://github.com/mouraogabriel/dollars-to-cents-calculator)
