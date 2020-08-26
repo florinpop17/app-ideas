@@ -1,4 +1,4 @@
-# My calendar
+# My Calendar
 
 **Tier:** 3-Advanced
 

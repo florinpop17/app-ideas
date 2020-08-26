@@ -124,7 +124,7 @@ required to complete them.
 | [Battleship Bot](./Projects/3-Advanced/Battleship-Bot.md)                     | Create a Discord bot that plays Battleship                          | 3-Advanced |
 | [Battleship Game Engine](./Projects/3-Advanced/Battleship-Game-Engine.md)     | Create a callable engine to play the Battleship game                | 3-Advanced |
 | [Boole Bots Game](./Projects/3-Advanced/Boole-Bot-Game.md)                    | Battling Bots driven by Boolean algebra                             | 3-Advanced |
-| [Calendar](./Projects/1-Beginner/Calendar-App.md)                             | Create your own Calendar                                            | 3-Advanced |
+| [My Calendar](./Projects/3-Advanced/Calendar-App.md)                             | Create your own Calendar                                            | 3-Advanced |
 | [Calorie Counter](./Projects/3-Advanced/Calorie-Counter-App.md)               | Calorie Counter Nutrition App                                       | 3-Advanced |
 | [Chat App](./Projects/3-Advanced/Chat-App.md)                                 | Real-time chat interface                                            | 3-Advanced |
 | [Contribution Tracker App](./Projects/3-Advanced/Contribution-Tracker-App.md) | Track funds donated to charity                                      | 3-Advanced |
