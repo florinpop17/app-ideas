@@ -15,6 +15,6 @@ Create a command-line utility that allows users to send and recieve Emails from 
 - [ ] Pretty messages can be sent. Meaning things like: subject, attached files, and different fonts.
 - [ ] Implement a GUI into the terminal with email functionalities.
 
-##Example Projects
+## Example Projects
 
 [Send Emails](https://github.com/pazz/alot)
