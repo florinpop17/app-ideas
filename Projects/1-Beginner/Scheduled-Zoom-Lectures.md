@@ -16,3 +16,10 @@ Create and store your scheduled Zoom Lectures for directly open scheduled lectur
 -   [ ] user can swipe links directly.
 -   [ ] User can see the date when he added the scheduled zoom lecture in the table
 
+## Useful links and resources
+
+-   N/A
+
+## Example projects
+
+-   N/A
