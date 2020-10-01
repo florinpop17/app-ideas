@@ -10,6 +10,7 @@ If the guessed letter is not in the word a line will be added to the hangman dra
 
 -  [ ] The game will have a predetermined set of words that will be randomised for the player.
 -   [ ] The user can click on a letter to select it.
+- [ ] The user can see how many characters make up the final word.
 -   [ ] Attempted letters are greyed out.
 -   [ ] Amount of guesses are limited.
 -   [ ] Each failed guess results in losing a life.
