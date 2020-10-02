@@ -116,6 +116,7 @@ required to complete them.
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
 | [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
 | [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |
+| [Google Maps Search](./Projects/2-Intermediate/Google-Maps.md)                             | Insert an interactive Google Maps into a website   | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
 
@@ -141,7 +142,6 @@ required to complete them.
 | [Slack Archiver](./Projects/3-Advanced/Slack-Archiver.md)                     | Archive Slack Messages                                              | 3-Advanced |
 | [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Advanced |
-| [Google Maps Search](./Projects/3-Advanced/Google-Maps.md)                    | Insert a Google Maps into a website. Possible functionalities such as Search and Add Marker.                                  | 3-Advanced |
 
 ## Plans for the future
 
