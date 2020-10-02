@@ -25,11 +25,13 @@ The purpose of the app is to find the shortest path from the starting point to t
 A* Algorithm:
 
 https://www.geeksforgeeks.org/a-search-algorithm/
+
 https://en.wikipedia.org/wiki/A*_search_algorithm#:~:text=*%2Dlike%20algorithm.-,Description,shortest%20time%2C%20etc.).
 
 If you are new to graph traversals you might want to check out Dijkstra's algorithm and Breadth First Search First:
 
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
 https://en.wikipedia.org/wiki/Breadth-first_search
 
 ## Example projects
