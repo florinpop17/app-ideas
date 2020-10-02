@@ -1,0 +1,27 @@
+# M-Pesa Clone
+
+**Tier:** 1-Beginner
+
+M-Pesa clone is a program written in Kotlin that simulates the Safaricom Mpesa Services
+
+## User Stories
+
+-   [ ] deposit and withdraw money
+-   [ ] transfer money to other users
+-   [ ] pay bills
+-   [ ] purchase airtime
+-   [ ] save money in a virtual account (Mshwari)
+-   [ ] transfer money between the service and, in some markets like Kenya, a bank account
+
+## Bonus features
+
+-   [ ]  This program uses different basic Kotlin features that are fundamental
+
+## Useful links and resources
+
+-   [Wikipedia Wind Chill](https://en.wikipedia.org/wiki/M-Pesa)
+
+## Example projects
+
+[M-Pesa Clone](https://github.com/JoelKanyi/Mpesa-Clone)
+[stk-clone](https://github.com/mentee-emvest/stk-clone)
