@@ -37,4 +37,5 @@ https://en.wikipedia.org/wiki/Breadth-first_search
 ## Example projects
 
 https://www.redblobgames.com/pathfinding/a-star/introduction.html
+
 https://arongranberg.com/astar/
