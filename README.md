@@ -78,6 +78,7 @@ required to complete them.
 | [Wind Chill](./Projects/1-Beginner/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
 | [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
+| [Waste Management Info.](./Projects/1-Beginner/Waste-Management-Info.md)          | Give the information about how to manage waste at home.    | 1-Beginner |
 
 ### Tier-2: Intermediate Projects
 
