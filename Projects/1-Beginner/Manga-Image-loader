@@ -1,0 +1,25 @@
+# Manga-Image-Loader
+
+**Tier:** 1-Beginner
+
+script for auto loading paginated image in web pages. It will join image in pages together based on the rules.
+the scripts allows you to load all entire chapters from manga or any sites (image based) in a long strip format (all images on one page).
+more lightweight and fast and it tries to do away with the bloat that many other similar scripts have.
+
+## User Stories
+
+-   [ ] user can specify how many images to be loaded in website page
+-   [ ] user can specify the height and width of the loaded image
+-   [ ] user can set settings for next use or make new other for specific web
+-   [ ] user can specify what web pages that do not need to be use the script
+-   [ ] user can run scripts using a shortcut
+
+## Bonus features
+
+-   [ ] user can choose shorting order of image asc and dsc
+-   [ ] user can find image based on number specifically 
+
+## Useful links and resources
+
+-   [Super-preloader](https://github.com/machsix/Super-preloader)
+
