@@ -43,6 +43,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [Alcohol Based Cocktail Suggestion](./Projects/1-Beginner/Alcohol-Based-Cocktail-Suggestion.md)                                   | Suggests a Cocktail based on Alcohol                         | 1-Beginner |
 | [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
 | [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |
 | [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |
