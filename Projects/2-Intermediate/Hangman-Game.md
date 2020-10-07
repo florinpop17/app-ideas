@@ -24,9 +24,11 @@ Basic understanding of loops and string manipulation is required
 ## Useful links and resources
 
 Here's an online version of the classic hangman: https://www.hangmanwords.com/play
+
 You can yourself play the game online on the above given website to understand it better and also could figure out the logic behind the working of the game pretty easily.
 
 ## Example projects
 https://github.com/SatyamYadav-cmd/Hangman
+
 Here is an example project which I made in Python using simple String Manipulation techniques, it runs great on Python IDLE.
 NOTE: Not all the words of the dictionary are included within the code, but you can add you own words too if you wish to.
