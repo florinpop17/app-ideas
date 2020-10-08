@@ -14,6 +14,7 @@ Generate passwords based on certain characteristics selected by the user.
 ## Bonus features
 
 - [ ] User can see the password strength
+- [ ] User can Get persoanlised passwords based on questions like favourite book and dish.
 
 ## Useful links and resources
 
