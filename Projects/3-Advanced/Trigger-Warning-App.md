@@ -27,7 +27,7 @@ In this app you will be able to find lists of movies under a certain trigger war
 ## Useful links and resources
 
 - [Information on triggering subjects in movies](https://thiscouldbetriggering.tumblr.com/)
-- [Information on How to Write Trigger Warnings)](https://www.lookslikefilm.com/2019/01/27/how-to-write-a-trigger-warning/)
+- [Information on How to Write Trigger Warnings](https://www.lookslikefilm.com/2019/01/27/how-to-write-a-trigger-warning/)
 
 
 ## Example projects
