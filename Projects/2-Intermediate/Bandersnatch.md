@@ -14,7 +14,7 @@ You can build a web app, mobile app, desktop app or just a simple program.
 
 ## Bonus features
 
--   [ ] User can choose different decision again after completing a one journey.
+-   [ ] User can choose different decision again after completing a journey.
 
 ## Useful links and resources
 
@@ -25,4 +25,3 @@ You can build a web app, mobile app, desktop app or just a simple program.
 
 - [Destini Challenge](https://github.com/londonappbrewery/destini-challenge-completed)
 - [Bandersnatch](https://github.com/joric/bandersnatch)
-
