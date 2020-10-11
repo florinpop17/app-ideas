@@ -23,6 +23,7 @@ Find your next movie or create your watchlist with this App. It include reviews,
 ## Useful links and resources
 
 -   [MovieDB Api](https://developers.themoviedb.org/3)
+-   [OMDB Api](http://www.omdbapi.com/)
 
 ## Example projects
 
