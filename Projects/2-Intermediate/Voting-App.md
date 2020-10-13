@@ -6,7 +6,7 @@ Allow users to vote give multiple choices
 
 ## User Stories
 
-- [ ] User can see a list of items he can vote on
+- [ ] User can see a list of items they can vote on
 - [ ] These items must have a button that the user can click on to vote
 - [ ] After the user clicked a button, the user should see all the votes
 
