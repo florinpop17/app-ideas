@@ -81,7 +81,7 @@ required to complete them.
 
 ### Tier-2: Intermediate Projects
 
-| Name                                                                              | Short Description                                  | Tier           |
+| Name                                                                              | Short DescriptioNN                                 | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
