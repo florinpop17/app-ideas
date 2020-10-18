@@ -53,6 +53,10 @@ number.
 
 ## Example projects
 
+- [BHMBS - JS-Neumorphic-Calculator](https://barhouum7.github.io/JS-Neumorphic-Calc.github.io/)
+- [Javascript iOS Style Calculator](https://codepen.io/ssmkhrj/full/jOWBQqO)
 - [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
 - [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
 - [Javascript-CALC](https://github.com/x0uter/javascript-calc)
+- [Sample Calculator](https://sevlasnog.github.io/sample-calculator)
+- [Python Calculator](https://github.com/kana800/Side-Projects/tree/master/1-Beginner/calculator)
