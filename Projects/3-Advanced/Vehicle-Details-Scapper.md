@@ -1,4 +1,4 @@
-# Vehicle Details Scarpper
+# Vehicle Details Scrapper
 
 **Tier:** 3-Advanced
 
