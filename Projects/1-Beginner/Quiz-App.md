@@ -25,6 +25,7 @@ As a developer you can create a quiz application for testing coding skills of ot
 ## Useful links and resources
 
 -   [Open Trivia Database](https://opentdb.com/api_config.php)
+-   [Wiki Quiz API](https://wiki-quiz.herokuapp.com/)
 
 ## Example projects
 
