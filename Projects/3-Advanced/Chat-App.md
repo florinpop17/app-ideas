@@ -21,6 +21,8 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 -   [ ] User can select and send an emoji
 -   [ ] Users can chat in private
 -   [ ] Users can join `channels` on specific topics
+-   [ ] Users can chat via Command Line Interface instead of clicking in UI
+-   [ ] Users can create group chat
 
 ## Useful links and resources
 
