@@ -21,6 +21,8 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 -   [ ] User can select and send an emoji
 -   [ ] Users can chat in private
 -   [ ] Users can join `channels` on specific topics
+-   [ ] Users can get notification box when have new message
+-   [ ] Users can mute message of someone or a group chat
 
 ## Useful links and resources
 
