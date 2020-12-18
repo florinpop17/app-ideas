@@ -30,7 +30,8 @@ displayed during the Christmas Holidays.
 
 ## Example projects
 
-[PureCSSChristmasLights](https://codepen.io/tobyj/pen/QjvEex)
-[Christmas Lights](https://codepen.io/irfanezani_/pen/mdeLpKo)
+-   [PureCSSChristmasLights](https://codepen.io/tobyj/pen/QjvEex)
+-   [Christmas Lights](https://codepen.io/irfanezani_/pen/mdeLpKo)
+-   [Christmas Lights for beginners](https://codesandbox.io/s/vigorous-paper-crjuw?file=/main.js)
 
 
