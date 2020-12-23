@@ -68,3 +68,5 @@ account name so it doesn't have to be manually entered.
 ## Example projects
 
 [QRCode Generator](https://kazuhikoarase.github.io/qrcode-generator/js/demo/)
+[Qr-Code Generator](https://qrcodegene.netlify.app/)
+
