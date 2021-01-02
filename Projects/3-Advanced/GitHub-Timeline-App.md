@@ -16,16 +16,16 @@ Only public GitHub repos should be displayed.
 
 ## User Stories
 
--   [ ] User can enter a GitHub user name
--   [ ] User can click a 'Generate' button to create and display the named
-        users repo timeline
--   [ ] User can see a warning message if the GitHub user name is not a valid
-        GitHub user name.
+- [ ] User can enter a GitHub user name
+- [ ] User can click a 'Generate' button to create and display the named
+      users repo timeline
+- [ ] User can see a warning message if the GitHub user name is not a valid
+      GitHub user name.
 
 ## Bonus features
 
--   [ ] User can see a summary of the number of repos tallied by the year they
-        were created
+- [ ] User can see a summary of the number of repos tallied by the year they
+      were created
 
 ## Useful links and resources
 
@@ -34,13 +34,13 @@ to use an NPM package to access the GitHub API.
 
 Documentation for the GitHub API can be found at:
 
--   [GitHub REST API V3](https://developer.github.com/v3/)
--   [GitHub GraphQL API V4](https://developer.github.com/v4/)
+- [GitHub REST API V3](https://developer.github.com/v3/)
+- [GitHub GraphQL API V4](https://developer.github.com/v4/)
 
 Sample code showing how to use the GitHub API's are:
 
--   [GitHub REST API client for JavaScript ](https://github.com/octokit/rest.js/)
--   [GitHub GraphQL API client for browsers and Node](https://github.com/octokit/graphql.js)
+- [GitHub REST API client for JavaScript ](https://github.com/octokit/rest.js/)
+- [GitHub GraphQL API client for browsers and Node](https://github.com/octokit/graphql.js)
 
 You can use this CURL command to see the JSON returned by the V3 REST API for
 your repos:
@@ -51,5 +51,6 @@ curl -u "user-id" https://api.github.com/users/user-id/repos
 
 ## Example projects
 
--   [CSS Timeline](https://codepen.io/NilsWe/pen/FemfK)
--   [Building a Vertical Timeline With CSS and a Touch of JavaScript](https://codepen.io/tutsplus/pen/QNeJgR)
+- [CSS Timeline](https://codepen.io/NilsWe/pen/FemfK)
+- [Building a Vertical Timeline With CSS and a Touch of JavaScript](https://codepen.io/tutsplus/pen/QNeJgR)
+- [GitHub Timeline](https://petrirh1.github.io/github-timeline/)
