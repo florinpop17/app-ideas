@@ -150,4 +150,4 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ## Weekly Coding Challenge 🚀
 
-As a bonus, there's a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
+As a bonus, there's a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate 😄
