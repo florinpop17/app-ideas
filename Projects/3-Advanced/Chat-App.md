@@ -21,6 +21,8 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 -   [ ] User can select and send an emoji
 -   [ ] Users can chat in private
 -   [ ] Users can join `channels` on specific topics
+-   [ ] When a user types in the message box, show "User is typing..." message to everyone on the channel
+-   [ ] Show when a user is online or offline
 
 ## Useful links and resources
 
@@ -33,3 +35,4 @@ As a MVP(Minimum Viable Product) you can focus on building the Chat interface. R
 
 -   [Chatty2](https://web-chatty.herokuapp.com/)
 -   [Simple TCP Socket based Chat application](https://github.com/dularish/Simple-TCP-Socket-based-Chat-App)
+-   [Chat App MERN stack](https://github.com/sarvagya2545/chat-app-react)
