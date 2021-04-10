@@ -39,4 +39,3 @@ efforts and to make it available through a simple Slack command.
 ## Example project
 
 -   [Kudos Slackbot Example](https://cubic-quince.glitch.me/)
--    
