@@ -61,9 +61,10 @@ required to complete them.
 | [Notes App](./Projects/Notes-App.md)                                   | Create an online note pad                                  | 1-Beginner |
 | [Pearson Regression](./Projects/Pearson-Regression-App.md)             | Calculate the correlation coefficient for two sets of data | 1-Beginner |
 | [Pomodoro Clock](./Projects/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                    | 1-Beginner |
-| [:star2: Product Landing Page](./Projects/Product-Landing-Page.md)     | Showcase product details for possible buyers               | 1-Beginner |
+| [Product Landing Page](./Projects/Product-Landing-Page.md)             | Showcase product details for possible buyers               | 1-Beginner |
 | [Quiz App](./Projects/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1-Beginner |
 | [Recipe App](./Projects/Recipe-App.md)                                 | Recipe                                                     | 1-Beginner |
+| [Random Meal Generator](./Projects/Random-Meal-Generator.md)           | Generate random meals                                      | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                           | 1-Beginner |
 | [Slider Design](./Projects/Slider-Design.md)                           | Display images using a slider control                      | 1-Beginner |
 | [Stopwatch App](./Projects/Stopwatch-App.md)                           | Count time spent on activities                             | 1-Beginner |
@@ -88,6 +89,7 @@ required to complete them.
 | [Markdown Previewer](./Projects/Markdown-Previewer.md)             | Preview text formatted in GitHub flavored markdown | 2-Intermediate |
 | [Markdown Table Generator](./Projects/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Meme Generator App](./Projects/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
+| [Password Generator](./Projects/Password-Generator.md)             | Generate random passwords                          | 2-Intermediate |
 | [Podcast Directory](./Projects/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
