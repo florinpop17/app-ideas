@@ -18,7 +18,7 @@ You can save records in a database or in a text files.
 ## Bonus features
 
 -   [ ] User can see the stats of shortened URL (like number of visits and so on)
-- [ ] User can provide a prefered code name to URL (You must check the code is exists or not)
+-   [ ] User can provide a prefered code name to URL (You must check the code is exists or not)
 
 
 ## Useful links and resources
@@ -29,4 +29,3 @@ You can save records in a database or in a text files.
 
 - [bitly.com](https://bitly.com/)
 - [bl.ink](https://bl.ink/)
-
