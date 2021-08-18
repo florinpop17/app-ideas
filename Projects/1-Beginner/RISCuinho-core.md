@@ -10,8 +10,7 @@ RISCuinho was synthesized using HDL Verilog and simulated with iVerilog, so for 
 * iVerilog Installed
 * GTKWave Installed
 
-The project is constantly expanding, and I'm working to add new extensions and tools.
-the supporting ones as a graphical interface for analyzing the simulation/synthesis.
+The project is constantly expanding, and I'm working to add new extensions and tools to supporting ones as a graphical interface for analyzing the simulation/synthesis.
 
 ## User Stories
 
