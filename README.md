@@ -78,6 +78,7 @@ required to complete them.
 | [Wind Chill](./Projects/1-Beginner/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
 | [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
+| [RISCuinho - Core](./Projects/1-Beginner/RISCuinho-core.md)                       | A Core RISC-v synthesized in Verilog, a scratch in the microcontroller universe. | 1-Beginner | 
 
 ### Tier-2: Intermediate Projects
 
@@ -116,6 +117,7 @@ required to complete them.
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
 | [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
 | [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |
+| [SIMULinho](./Projects/2-Intermediate/SIMULinho.md)                               | An interface to analyze and control simulation and synthesis with HDL Verilog for RISC-V microcontrollers like RISCuinho | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
 
