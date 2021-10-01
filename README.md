@@ -88,7 +88,7 @@ required to complete them.
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
-| [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
+| [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extension.             | 2-Intermediate |
 | [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                  | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
@@ -107,7 +107,7 @@ required to complete them.
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
-| [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediate |
+| [Sales Receipts App](./Projects/2-Intermediate/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediate |
 | [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)           | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
 | [String Art](./Projects/2-Intermediate/String-Art.md)                             | An animation of moving, colored strings            | 2-Intermediate |
