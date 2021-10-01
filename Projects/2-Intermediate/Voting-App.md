@@ -2,7 +2,7 @@
 
 **Tier:** 2-Intermediate
 
-Allow users to vote give multiple choices
+Allow users to vote from multiple choices
 
 ## User Stories
 
@@ -18,6 +18,7 @@ Allow users to vote give multiple choices
 ## Useful links and resources
 
 - [Firebase](https://firebase.google.com) for a realtime database
+- [Store Data In Firebase](https://www.youtube.com/watch?v=-UOkri_WNWQ&ab_channel=AlrightDevelopment) for saving the result
 
 ## Example projects
 
