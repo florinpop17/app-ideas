@@ -20,8 +20,8 @@ You can use a library to read the images. A few suggestions are Pillow, MiniMagi
 
 ## Useful links and resources
 
-Robert Heaton's guided project on the topic ![ASCII Art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
+Robert Heaton's guided project on the topic [ASCII Art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
 
 ## Example Projects
 
-![ASCII Art Generate](https://gist.github.com/robert/b0b14b1fd4a5feb2b45ab3ce049f5707)
+[ASCII Art Generate](https://gist.github.com/robert/b0b14b1fd4a5feb2b45ab3ce049f5707)
