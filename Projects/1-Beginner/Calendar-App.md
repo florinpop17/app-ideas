@@ -21,6 +21,8 @@ Style your own calendar according to your requirement
 - [ ] User can set reminder for a event
 - [ ] Change theme (light/dark) (play with css), play with css 😄
 - [ ] Store data locally so that events does not get deleted when server is restarted
+- [ ] Create, manage and remove TODO lists for each day.
+- [ ] Schedule Tasks for some specific date.
 
 ## Useful links and resources
 
