@@ -6,15 +6,15 @@ This application is a customized weekly academic Time-Table Generator and Manage
 
 ## User Stories
 
-- [ ] User can create a **.csv** file which contains details about their weekly schedule of lectures, tutorials and lab section classes (This file could be used to render data on the frontend)
-- [ ] Users can select courses from a dropdown to add to their time-table
+- [ ] User can create a **.csv** file which contains details about their weekly schedule of lectures, tutorials and lab section classes (This file can be used to render data on the frontend)
+- [ ] Users can select courses from a dropdown to add to their weekly time-table
 - [ ] Users can remove the added courses to manage their schedule
 
 
 ## Bonus features
 
-- [ ] Users can searcb in the input box to find by Course Code, Instructor, Course Name etc.
-- [ ] Users can add custom Reserve time for breaks like lunch, snacks etc
+- [ ] Users can search in the input field to find courses by code, Instructor name etc.
+- [ ] Users can add custom Reserve time for breaks like lunch, snacks etc.
 
 ## Useful links and resources
 
