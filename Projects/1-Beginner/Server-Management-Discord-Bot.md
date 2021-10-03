@@ -11,9 +11,9 @@ This is a Discord bot that handles some of the basic management of a Discord ser
 ## User Stories
 
 - [ ] User can create a channel in the server
-- [ ] User can ... see all channels in the server
-- [ ] User can ... create a new role in the server
-- [ ] User can ... see all current roles in the server
+- [ ] User can see all channels in the server
+- [ ] User can create a new role in the server
+- [ ] User can see all current roles in the server
 
 ## Bonus features
 
@@ -29,4 +29,5 @@ This is a Discord bot that handles some of the basic management of a Discord ser
 
 ## Example projects
 
-Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.
+- [Create a Discord Bot With Node.js](https://www.youtube.com/watch?v=BmKXBVdEV0g)
+- [https://www.youtube.com/watch?v=7rU_KyudGBY](Code a Discord Bot with JavaScript - Host for Free in the Cloud)
