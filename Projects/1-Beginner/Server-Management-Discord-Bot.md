@@ -30,4 +30,4 @@ This is a Discord bot that handles some of the basic management of a Discord ser
 ## Example projects
 
 - [Create a Discord Bot With Node.js](https://www.youtube.com/watch?v=BmKXBVdEV0g)
-- [https://www.youtube.com/watch?v=7rU_KyudGBY](Code a Discord Bot with JavaScript - Host for Free in the Cloud)
+- [Code a Discord Bot with JavaScript - Host for Free in the Cloud](https://www.youtube.com/watch?v=7rU_KyudGBY)
