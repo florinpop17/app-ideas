@@ -18,7 +18,7 @@ This is a Discord bot that handles some of the basic management of a Discord ser
 ## Bonus features
 
 - [ ] Limit use of these commands to certain roles
-- [ ] Integrate an API
+- [ ] Integrate an API (A bit more intermediate, but why not give it a try?)
 - [ ] Use a database for a command
 
 ## Useful links and resources
