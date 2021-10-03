@@ -23,9 +23,9 @@ This is a Discord bot that handles some of the basic management of a Discord ser
 
 ## Useful links and resources
 
-[Discord.js Documentation](https://discord.js.org/#/docs/main/stable/general/welcome)
-[More Documentation](https://discordjs.guide/#before-you-begin)
-[Discord Developer Portal](https://discord.com/developers/applications)
+- [Discord.js Documentation](https://discord.js.org/#/docs/main/stable/general/welcome)
+- [More Documentation](https://discordjs.guide/#before-you-begin)
+- [Discord Developer Portal](https://discord.com/developers/applications)
 
 ## Example projects
 
