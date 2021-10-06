@@ -18,6 +18,7 @@ The classic To-Do application where a user can write down all the things they wa
 -   [ ] User can see a list with all the active to-do's
 -   [ ] User can see the date when he created the to-do
 -   [ ] When closing the browser window the to-do's will be stored and when the User returns, the data will be retrieved
+-   [ ] Recurring todos: User can configure a to-do item to uncheck itself after a given time internal
 
 ## Useful links and resources
 
@@ -29,3 +30,4 @@ The classic To-Do application where a user can write down all the things they wa
 -   [To Do List on Codepen](https://codepen.io/yesilfasulye/pen/eJIuF) by [Burak Kaya](https://codepen.io/yesilfasulye/)
 -   [Todo App in Plain JavaScript](https://safdarjamal.github.io/todo-app/)
 -   [Todo App in Golang](https://github.com/schadokar/go-to-do-app)
+-   [Gym Todo App with React and TypeScript](https://github.com/andreidobrinski/gym-todo)
