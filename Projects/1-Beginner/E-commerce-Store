@@ -1,0 +1,31 @@
+# E-commerce Store
+
+**Tier:** 1-Beginner
+
+A great first project is to create an e-commerce store. Through this execrise you will learn how to design an e-commerce store and create some of the most important features of every e-commerce store.
+
+## User Stories
+
+-   [ ] Users can view a homepage, products page, product page, and checkout page
+-   [ ] User can view an about section or page
+-   [ ] User can view a contact section or page
+-   [ ] Users can click on a product and read more details about the product
+-   [ ] Users can add a product to their cart
+-   [ ] Users can see a cart count in the header
+-   [ ] Users can see a message that notifies them that a prodcut was added to their cart
+-   [ ] Users can go to the checkout page and can increase, decrease, or delete products from cart
+-   [ ] Users can go to the checkout page and see the total for their cart
+-   [ ] Users can checkout and see a message that notifies them that their purchase was successful or failed
+
+## Bonus features
+
+-   [ ] User can make an actual pruchase on the site
+-   [ ] User can create a user account
+-   [ ] User can filter through products
+
+## Useful links and resources
+
+- Look to your favorite e-commerce store for inspiration on design and functionality.
+- Font Awesome
+- Pexels
+- Pixabay
