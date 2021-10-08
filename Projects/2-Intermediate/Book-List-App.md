@@ -18,7 +18,7 @@ It is rare to see projects built with object-oriented programming pattern in Jav
 
 ## Useful links and resources
 
-- [Skeleto CSS CDN](https://cdnjs.com/libraries/skeleton/)
+- [Skeleton CSS CDN](https://cdnjs.com/libraries/skeleton/)
 
 ## Example projects
 
