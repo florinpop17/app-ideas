@@ -15,6 +15,7 @@ This simple yet useful app will check the price of a product on Amazon, check if
 
 - [BeautifulSoup to fetch the price](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [SMTPLib to send the email](https://docs.python.org/3/library/smtplib.html)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=Bg9r_yLk7VY)
 
 ## Example projects
 
