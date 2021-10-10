@@ -1,3 +1,5 @@
+# Theme Switcher
+
 **Tier:** 1-Beginner
 
 Something really popular in websites and applications these days is the possibility
