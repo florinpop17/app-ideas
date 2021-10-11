@@ -3,6 +3,7 @@
 **Tier: 2-Intermediate** Add corresponding tier (1-Beginner, 2-Intermediate, 3-Advanced)
 
    A beautiful, simle looking , piano keyboard to play sounds and make kids happy :)
+   
    ![sample_image](https://play-lh.googleusercontent.com/jDEsZdljWPe7aYVG8HrrI6jhU62ijEftACuCPa6I0PbjMSBZSm7qDz42CtFOCiVGqTM=w412-h220-rw)
  
 -   we just Need the key sounds to add to the backgrund as audio as a prerquisite 
