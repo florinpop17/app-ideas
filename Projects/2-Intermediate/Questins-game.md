@@ -20,7 +20,7 @@ Create an application that will ask the player questions. The player's reward fo
 
 ## Useful links and resources
 
-an example to inspire development  [WIKIPEDIA](https://en.wikipedia.org/wiki/500_Questions)
+an example to inspire development [WIKIPEDIA](https://en.wikipedia.org/wiki/500_Questions)
 
 ## Example projects
 
