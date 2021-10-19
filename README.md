@@ -177,3 +177,8 @@ As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop
 ## Stars history
 
 [![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
+
+## Our Awesome Contributors
+<a href="https://github.com/florinpop17/app-ideas/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=florinpop17/app-ideas&max=100" />
+</a>
