@@ -30,11 +30,11 @@ OpenObjToken | CloseObjToken | IdentifierKeyToken | StringToken | NumberToken | 
 ### Sintatic Analysis
 Sintatic Analysis consist of checking if all the tokens are in the correct place (open object "{" appears first than close object token "}", for example).
 The json rules are described in this free context grammar:
-A -> [C] | {K} | {} | []
+``A -> [C] | {K} | {} | []
 C -> TEC | T
 K -> "key":TEK | "key":T
 E -> ,
-T -> "str" | 0-9 | 0.0-9.9 | A | true | false | null
+T -> "str" | 0-9 | 0.0-9.9 | A | true | false | null``
 
 -   [ ] Create sintatic analysis rules and process the tokens list we get in the previous step.
 -   [ ] Create a parse tree following the rules of the free context grammar using the tokens you got previously.
@@ -44,8 +44,8 @@ Semantic analysis is about guaranteeing the actions and meaning of our programs,
 for example checking if a variable exists before using it or if the value is numeric before multiplying its value.
 In json we dont have these concepts that can generate errors but we have something we have to check in semantic analysis:
 We have to check if a key is declared more than once in the same scope:
-{ key: "123", key: 123 } --we should print a warning that the key is declared twice 
-{ key: "123", scope: { key: 123 } } --we should not print a warning because the keys are not in the same scopes.
+``{ key: "123", key: 123 } --we should print a warning that the key is declared twice 
+{ key: "123", scope: { key: 123 } } --we should not print a warning because the keys are not in the same scopes.``
 
 -   [ ] Process the parse tree and create semantic analysis to warn if a key is duplicated in the same scope
 -   [ ] Create the intermediary representation if necessary or just use the previous parse tree if not.
@@ -54,7 +54,7 @@ We have to check if a key is declared more than once in the same scope:
 The phase of the backend of the compiler generally we compile our programs to binary, 
 but with our json parser we are going to compile then to a .js file with the same name of the .json file
 src/{JSON FILE NAME}.js
-module.exports = {our processed json exporting as object}
+``module.exports = {our processed json exporting as object}``
 
 -   [ ] Read the parse tree or the IR and convert the lines into js code
 -   [ ] Save the file with the same name of the .json file.
