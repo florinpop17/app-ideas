@@ -19,6 +19,7 @@ Find your next movie or create your watchlist with this App. It include reviews,
 -   [ ] User can create an account
 -   [ ] User can create their own watch list
 -   [ ] User can review movies
+-   [ ] Server keeps track of recently watched movies and connects them to IP addresses, to give recommendations of whats HOT
 
 ## Useful links and resources
 
