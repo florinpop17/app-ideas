@@ -61,8 +61,8 @@ required to complete them.
 | [JS Input Validation](./Projects/1-Beginner/Javascript-Validation-With-Regex.md)  | Script to validate inputs entered by a user using RegEx    | 1-Beginner |
 | [JSON2CSV App](./Projects/1-Beginner/JSON2CSV-App.md)                             | JSON to CSV converter                                      | 1-Beginner |
 | [Key Value](./Projects/1-Beginner/Key-Value-App.md)                               | Keyboard Event Values                                      | 1-Beginner |
-| [Lorem Ipsum Generator](./Projects/1-Beginner/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                      | 1-Beginner |
-| [Notes App](./Projects/1-Beginner/Notes-App.md)                                   | Create an online note pad                                  | 1-Beginner |
+| [Lorem Ipsum Generator](./Projects/1-Beginner/Lorem-Ipsum-Generator.md)           | Generate Lorem Ipsum placeholder text                      | 1-Beginner |
+| [Notes App](./Projects/1-Beginner/Notes-App.md)                                   | Create an online notepad                                   | 1-Beginner |
 | [Pearson Regression](./Projects/1-Beginner/Pearson-Regression-App.md)             | Calculate the correlation coefficient for two sets of data | 1-Beginner |
 | [Pomodoro Clock](./Projects/1-Beginner/Pomodoro-Clock.md)                         | Task timer to aid personal productivity                    | 1-Beginner |
 | [Product Landing Page](./Projects/1-Beginner/Product-Landing-Page.md)             | Showcase product details for possible buyers               | 1-Beginner |
@@ -85,11 +85,11 @@ required to complete them.
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
-| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
+| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                     | Create a basic calculator cli.                     | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
-| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                  | 2-Intermediate |
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
