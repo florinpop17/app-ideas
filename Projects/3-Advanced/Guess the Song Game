@@ -1,4 +1,5 @@
 # Guess The Song Game
+
 **Tier:** 3-Advanced
 
 A game in which user can listen to some portion of music/song and have to guess the name or author of song.
@@ -12,7 +13,7 @@ A game in which user can listen to some portion of music/song and have to guess 
 - [ ] Adding multiplayer feature where user can simultaneously play with friends.
 
 ## Useful links and resources
-- Youtube Playlist API - NPM package to get youtube playlist details.
+- [Youtube Playlist API] (https://www.npmjs.com/package/youtube-playlist) - NPM package to get youtube playlist details.
 
 ## Example projects
-- Guess the song project with socket IO
+- [Guess the song project with socket IO] https://github.com/ramanic/GuessTheSong
