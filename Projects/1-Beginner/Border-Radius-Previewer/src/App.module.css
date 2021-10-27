@@ -1,0 +1,29 @@
+.main {
+  width: 100vw;
+  max-width: 100%;
+  height: 100vh;
+  background: linear-gradient(253deg, #542466, #955d98);
+  background-size: 400% 400%;
+  -webkit-animation: GradientAnimation 6s ease infinite;
+  -moz-animation: GradientAnimation 6s ease infinite;
+  animation: GradientAnimation 6s ease infinite;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+@-webkit-keyframes GradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes GradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes GradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
