@@ -25,7 +25,6 @@ export default function Home() {
             >
                 <path
                     fill="#FFDB14"
-                    fill-opacity="1"
                     d="M0,256L60,240C120,224,240,192,360,154.7C480,117,600,75,720,53.3C840,32,960,32,1080,42.7C1200,53,1320,75,1380,85.3L1440,96L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"
                 ></path>
             </svg>
@@ -116,48 +115,48 @@ export default function Home() {
                     </Table.Head>
                     <Table.Body>
                         <Table.Row height="fit-content" padding="0.5rem">
-                            <Table.Cell
+                            <Table.TextCell
                                 flexBasis="2rem"
                                 flexShrink={0}
                                 flexGrow={0}
                             >
                                 1
-                            </Table.Cell>
-                            <Table.Cell>
+                            </Table.TextCell>
+                            <Table.TextCell>
                                 Developers in the early stages of their learning
                                 journey. Those who are typically focused on
                                 creating user-facing applications.
-                            </Table.Cell>
+                            </Table.TextCell>
                         </Table.Row>
                         <Table.Row height="fit-content" padding="0.5rem">
-                            <Table.Cell
+                            <Table.TextCell
                                 flexBasis="2rem"
                                 flexShrink={0}
                                 flexGrow={0}
                             >
                                 2
-                            </Table.Cell>
-                            <Table.Cell>
+                            </Table.TextCell>
+                            <Table.TextCell>
                                 Developers at an intermediate stage of learning
                                 and experience. They are comfortable in UI/UX,
                                 using development tools, and building apps that
                                 use API services.
-                            </Table.Cell>
+                            </Table.TextCell>
                         </Table.Row>
                         <Table.Row height="fit-content" padding="0.5rem">
-                            <Table.Cell
+                            <Table.TextCell
                                 flexBasis="2rem"
                                 flexShrink={0}
                                 flexGrow={0}
                             >
                                 3
-                            </Table.Cell>
-                            <Table.Cell>
+                            </Table.TextCell>
+                            <Table.TextCell>
                                 Developers who have all of the above, and are
                                 learning more advanced techniques like
                                 implementing backend applications and database
                                 services.
-                            </Table.Cell>
+                            </Table.TextCell>
                         </Table.Row>
                     </Table.Body>
                 </Table>

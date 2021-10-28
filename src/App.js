@@ -2,11 +2,21 @@ import './App.css';
 import { Tablist, Tab, Pane, Link } from 'evergreen-ui';
 import React from 'react';
 import Home from './Home';
+import Projects from './Projects';
 
 export default function App() {
-    const [selectedIndex, setSelectedIndex] = React.useState(0);
     const tabs = ['Home', 'Tier 1', 'Tier 2', 'Tier 3'];
-    const pages = [<Home></Home>];
+    var loadTab = tabs.indexOf(
+        decodeURIComponent(window.location.hash.substring(1))
+    );
+    loadTab = loadTab === -1 ? 0 : loadTab;
+    const [selectedIndex, setSelectedIndex] = React.useState(loadTab || 0);
+    const pages = [
+        <Home></Home>,
+        <Projects tier="1-Beginner"></Projects>,
+        <Projects tier="2-Intermediate"></Projects>,
+        <Projects tier="3-Advanced"></Projects>,
+    ];
     return (
         <>
             <Pane backgroundColor={selectedIndex === 0 ? '#FFDB14' : '#FAFBFF'}>
@@ -20,8 +30,12 @@ export default function App() {
                     {tabs.map((tab, index) => (
                         <Tab
                             key={tab}
-                            id={tab}
-                            onSelect={() => setSelectedIndex(index)}
+                            // id={tab}
+                            onSelect={() => {
+                                window.location.hash =
+                                    '#' + encodeURIComponent(tab);
+                                setSelectedIndex(index);
+                            }}
                             isSelected={index === selectedIndex}
                             aria-controls={`panel-${tab}`}
                         >
@@ -50,22 +64,21 @@ export default function App() {
                 >
                     <path
                         fill="#5863f8"
-                        fill-opacity="1"
                         d="M0,128L60,122.7C120,117,240,107,360,117.3C480,128,600,160,720,181.3C840,203,960,213,1080,192C1200,171,1320,117,1380,90.7L1440,64L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"
                     ></path>
                 </svg>
             </Pane>
             <Pane background="tint1" flex="1" paddingBottom="2rem">
-                {pages.map((page, index) => (
+                {tabs.map((tab, index) => (
                     <Pane
-                        key={page}
-                        id={`panel-${page}`}
+                        key={tab}
+                        id={`panel-${tab}`}
                         role="tabpanel"
-                        aria-labelledby={page}
+                        aria-labelledby={tab}
                         aria-hidden={index !== selectedIndex}
                         display={index === selectedIndex ? 'block' : 'none'}
                     >
-                        {page}
+                        {pages[index]}
                     </Pane>
                 ))}
             </Pane>
