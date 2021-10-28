@@ -9,9 +9,9 @@
         "csv-string": "^4.0.1",
         "evergreen-ui": "^6.5.1",
         "gh-pages": "^3.2.3",
+        "marked": "^3.0.8",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
-        "react-markdown": "^7.1.0",
         "react-scripts": "4.0.3",
         "web-vitals": "^1.1.2"
     },

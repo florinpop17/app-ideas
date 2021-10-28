@@ -6,15 +6,21 @@ import {
     OrderedList,
     Link,
     Table,
-    Image,
     Heading,
 } from 'evergreen-ui';
 import coverimage from './app-ideas.png';
+import coverimagemin from './app-ideas-min.png';
 
 export default function Home() {
     return (
         <>
-            <Image width="100%" src={coverimage} alt="" />
+            <img
+                width="100%"
+                srcSet={`${coverimagemin} 1000w, ${coverimage} 2000w`}
+                src={coverimage}
+                alt="coverimage"
+                style={{ aspectRatio: '7/4' }}
+            />
             <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1440 320"
@@ -115,48 +121,48 @@ export default function Home() {
                     </Table.Head>
                     <Table.Body>
                         <Table.Row height="fit-content" padding="0.5rem">
-                            <Table.TextCell
+                            <Table.Cell
                                 flexBasis="2rem"
                                 flexShrink={0}
                                 flexGrow={0}
                             >
                                 1
-                            </Table.TextCell>
-                            <Table.TextCell>
+                            </Table.Cell>
+                            <Table.Cell>
                                 Developers in the early stages of their learning
                                 journey. Those who are typically focused on
                                 creating user-facing applications.
-                            </Table.TextCell>
+                            </Table.Cell>
                         </Table.Row>
                         <Table.Row height="fit-content" padding="0.5rem">
-                            <Table.TextCell
+                            <Table.Cell
                                 flexBasis="2rem"
                                 flexShrink={0}
                                 flexGrow={0}
                             >
                                 2
-                            </Table.TextCell>
-                            <Table.TextCell>
+                            </Table.Cell>
+                            <Table.Cell>
                                 Developers at an intermediate stage of learning
                                 and experience. They are comfortable in UI/UX,
                                 using development tools, and building apps that
                                 use API services.
-                            </Table.TextCell>
+                            </Table.Cell>
                         </Table.Row>
                         <Table.Row height="fit-content" padding="0.5rem">
-                            <Table.TextCell
+                            <Table.Cell
                                 flexBasis="2rem"
                                 flexShrink={0}
                                 flexGrow={0}
                             >
                                 3
-                            </Table.TextCell>
-                            <Table.TextCell>
+                            </Table.Cell>
+                            <Table.Cell>
                                 Developers who have all of the above, and are
                                 learning more advanced techniques like
                                 implementing backend applications and database
                                 services.
-                            </Table.TextCell>
+                            </Table.Cell>
                         </Table.Row>
                     </Table.Body>
                 </Table>

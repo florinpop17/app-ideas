@@ -1,28 +1,54 @@
-import { Pane, SideSheet, Spinner, Table } from 'evergreen-ui';
+import { Pane, SideSheet, Spinner, Table, Position } from 'evergreen-ui';
 import { parse } from 'csv-string';
 import ProjectsCSV from './Projects.csv';
 import { useState } from 'react';
-import ReactMarkdown from 'react-markdown';
+import marked from 'marked';
+
+var data = [];
+fetch(ProjectsCSV).then(async (res) => {
+    data = parse(await res.text());
+});
+
+const unescapeHTML = (str) =>
+    str.replace(
+        /&amp;|&lt;|&gt;|&#39;|&#44;|&quot;/g,
+        (tag) =>
+            ({
+                '&amp;': '&',
+                '&lt;': '<',
+                '&gt;': '>',
+                '&#39;': "'",
+                '&#44;': ',',
+                '&quot;': '"',
+            }[tag] || tag)
+    );
 
 export default function Projects({ tier }) {
-    const [data, setData] = useState([]);
     const [isShown, setIsShown] = useState(false);
     const [content, setContent] = useState(undefined);
-    fetch(ProjectsCSV).then(async (res) => {
-        setData(parse(await res.text()));
-    });
     return (
         <Pane>
             <SideSheet
                 isShown={isShown}
+                position={
+                    window.innerWidth < 640 ? Position.BOTTOM : Position.RIGHT
+                }
                 onCloseComplete={() => {
                     setIsShown(false);
                     setContent(undefined);
                 }}
+                preventBodyScrolling
             >
-                {content || <Spinner margin="auto" marginTop="1rem" />}
+                <Pane
+                    backgroundColor="#fafbff"
+                    maxHeight={window.innerWidth < 640 ? '75vh' : undefined}
+                    paddingX="1rem"
+                    paddingBottom="1rem"
+                >
+                    {content || <Spinner margin="auto" marginTop="1rem" />}
+                </Pane>
             </SideSheet>
-            <Table width="fit-content" margin="auto">
+            <Table width="fit-content" maxWidth="100%" margin="auto">
                 <Table.Head>
                     {data[0]?.map((cell, i) => {
                         if (i === 1) {
@@ -56,9 +82,13 @@ export default function Projects({ tier }) {
                                         `./Projects/${row[3].trim()}/${row[1].trim()}.md`
                                     ).then(async (res) => {
                                         setContent(
-                                            <ReactMarkdown>
-                                                {await res.text()}
-                                            </ReactMarkdown>
+                                            <div
+                                                dangerouslySetInnerHTML={{
+                                                    __html: marked(
+                                                        await res.text()
+                                                    ),
+                                                }}
+                                            ></div>
                                         );
                                     });
                                 }}
@@ -68,9 +98,9 @@ export default function Projects({ tier }) {
                                         return '';
                                     }
                                     return (
-                                        <Table.TextCell key={j}>
-                                            {cell}
-                                        </Table.TextCell>
+                                        <Table.Cell key={j}>
+                                            {unescapeHTML(cell)}
+                                        </Table.Cell>
                                     );
                                 })}
                             </Table.Row>

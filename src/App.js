@@ -1,3 +1,6 @@
+// colorscheme: https://coolors.co/1c1616-ffdb14-38408a-5863f8-626cf8-e9f3f5
+// evergreen-ui docs: https://evergreen.segment.com/
+
 import './App.css';
 import { Tablist, Tab, Pane, Link } from 'evergreen-ui';
 import React from 'react';
@@ -5,12 +8,8 @@ import Home from './Home';
 import Projects from './Projects';
 
 export default function App() {
+    const [selectedIndex, setSelectedIndex] = React.useState(0);
     const tabs = ['Home', 'Tier 1', 'Tier 2', 'Tier 3'];
-    var loadTab = tabs.indexOf(
-        decodeURIComponent(window.location.hash.substring(1))
-    );
-    loadTab = loadTab === -1 ? 0 : loadTab;
-    const [selectedIndex, setSelectedIndex] = React.useState(loadTab || 0);
     const pages = [
         <Home></Home>,
         <Projects tier="1-Beginner"></Projects>,
@@ -29,11 +28,9 @@ export default function App() {
                 >
                     {tabs.map((tab, index) => (
                         <Tab
+                            color="#111"
                             key={tab}
-                            // id={tab}
                             onSelect={() => {
-                                window.location.hash =
-                                    '#' + encodeURIComponent(tab);
                                 setSelectedIndex(index);
                             }}
                             isSelected={index === selectedIndex}
