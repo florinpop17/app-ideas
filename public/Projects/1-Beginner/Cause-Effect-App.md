@@ -51,7 +51,7 @@ constraints:
 -   Consider defining your test data in a JavaScript object having a format
     such as this:
 
-```
+```javascript
 const people = [
   {name: "...", street: "...", city: "...", state: "...", country: "...", telephone: "...", birthday: "..."},
   .

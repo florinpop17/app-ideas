@@ -3,6 +3,7 @@ import { parse } from 'csv-string';
 import ProjectsCSV from './Projects.csv';
 import { useState } from 'react';
 import marked from 'marked';
+import Prism from 'prismjs';
 
 var data = [];
 fetch(ProjectsCSV).then(async (res) => {
@@ -23,7 +24,7 @@ const unescapeHTML = (str) =>
             }[tag] || tag)
     );
 
-const task_list = (str) => {
+const postmarked = (str) => {
     var a = document.createElement('div');
     a.innerHTML = str;
     var b = new XPathEvaluator();
@@ -37,6 +38,7 @@ const task_list = (str) => {
     for (var e of ds) {
         e.classList.add('task-list-item');
     }
+    Prism.highlightAllUnder(a);
     return a.innerHTML;
 };
 
@@ -101,7 +103,7 @@ export default function Projects({ tier }) {
                                         setContent(
                                             <div
                                                 dangerouslySetInnerHTML={{
-                                                    __html: task_list(
+                                                    __html: postmarked(
                                                         marked(await res.text())
                                                     ),
                                                 }}

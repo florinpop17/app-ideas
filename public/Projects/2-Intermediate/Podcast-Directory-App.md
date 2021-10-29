@@ -51,7 +51,7 @@ episodes for that podcast in the episode table.
 - [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/querySelectorAll)
 - Hint! You can use the following code to help you get started with this
 project. You can execute this using the  command line command `node puptest`.
-```
+```javascript
 // puptest.js
 const puppeteer = require('puppeteer');
 

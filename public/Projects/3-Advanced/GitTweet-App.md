@@ -63,7 +63,7 @@ to be reselected each time.
   You can use this CURL command to see the JSON returned by the V3 REST API for
   your repos:
 
-  ```
+  ```shell
   curl -u "user-id" https://api.github.com/users/user-id/repos
   ```
 

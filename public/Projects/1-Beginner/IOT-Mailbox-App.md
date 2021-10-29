@@ -18,7 +18,7 @@ process, and to signal the app web page with the state of the mailbox door
 (open or closed) at preset intervals. Keep in mind that the interval you specify
 shouldn't exceed the time it normally takes to open or close the door or you
 might miss a delivery!
-```
+```javascript
 /**
  * Monitor the light levels inside an IOT enabled snail mailbox to detect
  * when the mailbox door has been opened and closed.

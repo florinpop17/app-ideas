@@ -10,6 +10,7 @@
         "evergreen-ui": "^6.5.1",
         "gh-pages": "^3.2.3",
         "marked": "^3.0.8",
+        "prismjs": "^1.25.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-scripts": "4.0.3",

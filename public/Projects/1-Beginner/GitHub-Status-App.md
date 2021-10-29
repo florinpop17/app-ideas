@@ -40,8 +40,9 @@ technique to make it stand out. Use your imagination!
 web site page from the command line command `node ghstatus`. You can use this 
 output to determine which JSON element contain the status information you'll 
 need to develop this app.
-```
-ghstatus.js
+
+```javascript
+// ghstatus.js
 
 const request = require('request');
 request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {  
