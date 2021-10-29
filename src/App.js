@@ -2,7 +2,7 @@
 // evergreen-ui docs: https://evergreen.segment.com/
 
 import './App.css';
-import { Tablist, Tab, Pane, Link } from 'evergreen-ui';
+import { Tablist, Tab, Pane, Link, AddIcon } from 'evergreen-ui';
 import React from 'react';
 import Home from './Home';
 import Projects from './Projects';
@@ -39,7 +39,22 @@ export default function App() {
                             {tab}
                         </Tab>
                     ))}
-                    <Link href="https://github.com/florinpop17/app-ideas/">
+                    <Link
+                        marginY="auto"
+                        marginRight="0.5rem"
+                        style={{ color: '#000000' }}
+                        title="New Idea Guidelines"
+                        href="https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md"
+                    >
+                        <AddIcon
+                            style={{ width: '1.3rem', height: '1.3rem' }}
+                        />
+                    </Link>
+                    <Link
+                        marginLeft="0.5rem"
+                        title="GitHub"
+                        href="https://github.com/florinpop17/app-ideas/"
+                    >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="1.75rem"

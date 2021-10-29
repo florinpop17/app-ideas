@@ -4,3 +4,7 @@ body,
     height: 100%;
     background-color: #fafbff;
 }
+
+.task-list-item {
+    list-style-type: none;
+}

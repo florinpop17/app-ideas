@@ -23,6 +23,23 @@ const unescapeHTML = (str) =>
             }[tag] || tag)
     );
 
+const task_list = (str) => {
+    var a = document.createElement('div');
+    a.innerHTML = str;
+    var b = new XPathEvaluator();
+    var c = b.evaluate('.//input[@type="checkbox"]/parent::li', a);
+    var d = c.iterateNext();
+    var ds = [];
+    while (d) {
+        ds.push(d);
+        d = c.iterateNext();
+    }
+    for (var e of ds) {
+        e.classList.add('task-list-item');
+    }
+    return a.innerHTML;
+};
+
 export default function Projects({ tier }) {
     const [isShown, setIsShown] = useState(false);
     const [content, setContent] = useState(undefined);
@@ -79,13 +96,13 @@ export default function Projects({ tier }) {
                                     setContent(undefined);
                                     setIsShown(true);
                                     fetch(
-                                        `./Projects/${row[3].trim()}/${row[1].trim()}.md`
+                                        `/app-ideas/Projects/${row[3].trim()}/${row[1].trim()}.md`
                                     ).then(async (res) => {
                                         setContent(
                                             <div
                                                 dangerouslySetInnerHTML={{
-                                                    __html: marked(
-                                                        await res.text()
+                                                    __html: task_list(
+                                                        marked(await res.text())
                                                     ),
                                                 }}
                                             ></div>
