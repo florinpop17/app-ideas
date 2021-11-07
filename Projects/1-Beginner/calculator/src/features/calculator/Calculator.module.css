@@ -1,0 +1,67 @@
+.section {
+  display: grid;
+  grid: 0.25fr 1fr / 1fr;
+  padding:25px;
+  background: var(--secondaryLight);
+}
+
+.inputContainer {
+  display: grid;
+  place-items:center;
+  width:100%;
+}
+
+.inputContainer > input {
+  width:80%;
+  height:50%;
+  border-radius:5px;
+  border:0;
+  padding:5px;
+  box-shadow:2px 2px 2px rgba(0, 0, 0, 0.15);
+}
+
+.buttonsContainer {
+  display: grid;
+  grid: repeat(5, 1fr) / repeat(4, 1fr);
+  gap:5px;
+  border: 0.5px solid var(--secondaryDark);
+  padding:25px;
+  background:rgb(219, 219, 219);
+}
+
+.buttonsContainer button {
+  border:0;
+  border-radius:1.5px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.15);
+  cursor:pointer;
+  transition: filter 1s ease, background 1s ease;
+}
+
+.buttonsContainer button:hover {
+  filter: brightness(125%);
+}
+
+.clearContainer {
+  display: grid;
+  grid: 1fr / 1fr 1fr;
+  gap:1.5px;
+}
+
+.clear {
+  background: orangered;
+  color:white;
+}
+
+.clear:hover {
+  background: rgb(255, 90, 31);
+}
+
+.operator {
+  background: orange;
+}
+
+.result {
+  grid-column: span 2;
+  background: rgb(39, 218, 23);
+  color:white
+}
