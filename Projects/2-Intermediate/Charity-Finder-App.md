@@ -147,4 +147,5 @@ the relationship between projects and organizations.
 
 ## Example projects
 
+[Charity Finder App](https://charity-finder-sor.netlify.app/)
 [Playing with card layout](https://codepen.io/bradjdouglas/pen/xOZJRz)
