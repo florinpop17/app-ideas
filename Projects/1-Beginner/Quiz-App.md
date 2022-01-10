@@ -31,4 +31,4 @@ As a developer you can create a quiz application for testing coding skills of ot
 -   [Quiz app built with React](http://tranquil-beyond-43849.herokuapp.com/) (wait for it to load as it is hosted on Heroku)
 -   [Quiz app interface](https://codepen.io/FlorinPop17/full/qqYNgW)
 -   [Quiz Progressive Web App built with React](https://github.com/SafdarJamal/quiz-app)
--   [Quiz App Build with Html and Javascript](https://github.com/johnbabu021/quiz-app)
+-   [Quiz App Build with Html and Javascript](https://github.com/johnbabu021/quiz-app)  (plain javascript)
