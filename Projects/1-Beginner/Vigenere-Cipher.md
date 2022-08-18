@@ -14,7 +14,7 @@ access is compromised. These include AES, Blowfish, and TripleDES to name a
 few. 
 
 However, these algorithms can be quite complex to implement so the objective
-of this app is to implement a classical encryption algorithm, the Vigenere
+of this app is to implement a classical [encryption algorithm](https://www.scaler.com/topics/des-algorithm/), the Vigenere
 Cipher to learn the basics of how ciphers work.
 
 ### Requirements & Constraints
