@@ -23,6 +23,7 @@ Create an application that will convert a regular table with data provided by th
 -   [Markdown Guide](https://www.markdownguide.org/)
 -   [Marked - A markdown parser](https://github.com/markedjs/marked)
 -   [How to Copy to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
+-   [HTML Tags](https://www.scaler.com/topics/html/html-tags-list/)
 
 ## Example project
 
