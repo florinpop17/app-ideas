@@ -18,6 +18,7 @@ The border-radius property can have multiple values changed. Preview how the sha
 
 -   [CSS3 Borders](https://www.w3schools.com/css/css3_borders.asp)
 -   [Copy to Clipboard](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
+-   [CSS Borders](https://www.scaler.com/topics/css/css-border/)
 
 ## Example projects
 
