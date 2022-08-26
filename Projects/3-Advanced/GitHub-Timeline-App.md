@@ -53,3 +53,4 @@ curl -u "user-id" https://api.github.com/users/user-id/repos
 
 -   [CSS Timeline](https://codepen.io/NilsWe/pen/FemfK)
 -   [Building a Vertical Timeline With CSS and a Touch of JavaScript](https://codepen.io/tutsplus/pen/QNeJgR)
+-   [Example from Semanteo](https://semanteo.is-a.dev/Github-Timeline/?username=Semanteo&radio=desc) [(repo)](https://github.com/Semanteo/Github-Timeline)
