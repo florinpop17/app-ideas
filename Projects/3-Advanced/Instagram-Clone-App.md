@@ -26,8 +26,8 @@ You should create a MVP (Minimum Viable Product) using a Full stack approach suc
 -   [How to make an Instagram clone](https://www.youtube.com/watch?v=9dRSNQe7PWw)
 -   [Node & Mongo Basic CRUD Operations](https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb)
 -   [Socket.io](https://socket.io)
--   [MERN Stack](http://mern.io/)
--   [MEAN Stack](http://mean.io/)
+-   [MERN Stack](https://www.geeksforgeeks.org/mern-stack/)
+-   [MEAN Stack](https://www.geeksforgeeks.org/introduction-to-mean-stack/)
 -   [User Authentication with Node](https://medium.com/silibrain/using-passport-bcrypt-for-full-stack-app-user-authentication-fe30a013604e)
 -   [Express File Uploads with Multer](https://scotch.io/tutorials/express-file-uploads-with-multer)
 
