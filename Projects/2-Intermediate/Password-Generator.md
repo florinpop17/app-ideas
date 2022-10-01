@@ -14,7 +14,7 @@ Generate passwords based on certain characteristics selected by the user.
 ## Bonus features
 
 - [ ] User can see the password strength
-
+- [ ] Advance Feature - Enrypting and Decrypting given password
 ## Useful links and resources
 
 - [Password strength checked - zxcvbn](https://github.com/dropbox/zxcvbn)
