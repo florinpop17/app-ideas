@@ -2,7 +2,7 @@
 
 **Tier:** 2-Intermediate
 
-Build your own customized chrome theme extension. You can also add night light (also known as blue light filter) feature that will automatically turn on during the night time so that user's eye won't get stressed while coding whole night or binge watching netflix 😛
+Build your own customized chrome theme extension. You can also add a night light (also known as blue light filter) feature that will automatically turn on during the night time so that user's eyes won't become strained while coding all night, or binge watching netflix 😛
 
 - How chrome extension work(behind the scenes).
 - Basic understanding of HTML/CSS, JS, JSON is required.
