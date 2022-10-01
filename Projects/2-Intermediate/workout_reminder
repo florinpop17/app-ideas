@@ -1,0 +1,35 @@
+# Application Name
+
+**Tier:** 2-Intermediate
+
+This is a app that will remind you of your workout. Ideally it will include what to do. 
+You will learn to work with timing, databases and sending messages building this project.
+
+How you remind and how it should look like is up to your creativity. Be it a fancy Website or just some small text in a message! :D
+
+## User Stories
+
+-   [ ] User can set new workouts
+-   [ ] User can find tutorials on how to do them
+-   [ ] User can change the time he gets them recommended
+-   [ ] User can set schedules (like every day, 3 times a week, etc)
+-   [ ] User can set break weeks
+-   [ ] User can review his streak
+
+## Bonus features
+
+-   [ ] User can win prices, e.g. badges
+-   [ ] User can share his plan and schedule with others
+-   [ ] A nice GUI for all of that
+
+## Useful links and resources
+- [Prima.io](https://www.prisma.io/) a ORM for Javascript and Typescript making Databases really easy
+- [Cron jobs](https://en.wikipedia.org/wiki/Cron) are an easy way to manage timing and work in almost any language
+- [Pen Pot](https://penpot.app/) is a great Website to plan your UI/UX if you want to build e.g. an Website
+- [You Code](https://you.com/code) is a privacy oriented search engine. You Code is optimized to help you with programming-related searches.
+
+## Example projects
+
+[A project written in Elixir that gives you random exercises](https://github.com/vKxni/mscler)
+[A date and time picker GUI](https://github.com/SimplicityApks/ReminderDatePicker)
+[A reminder for Tweets](https://github.com/shalvah/RemindMeOfThisTweet)
