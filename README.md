@@ -146,7 +146,7 @@ required to complete them.
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
 
-We are also planning to create a website where you can easily browse through all of the projects.
+We are also planning to create a website where you can easily browse through all of the projects.Please do support us😊.
 
 ## Contribution
 
