@@ -21,6 +21,7 @@ Style your own calendar according to your requirement
 - [ ] User can set reminder for a event
 - [ ] Change theme (light/dark) (play with css), play with css 😄
 - [ ] Store data locally so that events does not get deleted when server is restarted
+- [ ] Include templetes for calenders used by different cultures in around the world(eg:The chinese and Jewish calculator) 
 
 ## Useful links and resources
 
