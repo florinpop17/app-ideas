@@ -88,6 +88,7 @@ required to complete them.
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
+| [Chatroom App](./Projects/2-Intermediate/Chatroom.md)                             | Real-time chat app using serverless platform.      | 2-Intermediate |
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
 | [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                  | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
