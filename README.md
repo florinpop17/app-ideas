@@ -51,6 +51,7 @@ required to complete them.
 | [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner |
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |
+| [DICE SIMULATOR App](./Projects/1-Beginner/Dice-Simulator.md)                     | DICE SIMULATOR                                             |1-Beginner | 
 | [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner |
 | [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings                   | 1-Beginner |
 | [First DB App](./Projects/1-Beginner/First-DB-App.md)                             | Your first Database app!                                   | 1-Beginner |
