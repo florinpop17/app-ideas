@@ -5,7 +5,8 @@
 My Potted Plants is an application that is meant for anyone aspiring to grow 
 potted plants or anyone who has potted plants. Anyone can scroll through the 
 application and see the various potted plants that are grown, how to grow and 
-maintain them and even upload various plants that they grow. 
+maintain them and even upload various plants that they grow. It's more like social media
+but for potted plants with more information provided after clicking on the pictures.
 
 
 ## User Stories
@@ -23,11 +24,11 @@ maintain them and even upload various plants that they grow.
 
 ## Useful links and resources
 
-- [Battleship Game Engine](./Battleship-Game-Engine.md)
-- [How to Create a Discord Bot Under 15 Minutes](https://medium.freecodecamp.org/how-to-create-a-discord-bot-under-15-minutes-fb2fd0083844)
-- [Using Embeds in Messages](https://anidiots.guide/first-bot/using-embeds-in-messages)
-- [Discord Developer Portal](https://discordapp.com/developers/docs/intro)
+- [7 apps to keep your plants alive and well](https://mashable.com/article/best-apps-for-taking-care-of-plants)
+- [How to Create a Database Mobile App with SQLite and Visual Studio](https://www.google.com/amp/s/www.itexico.com/blog/how-to-create-a-database-mobile-app-with-sqlite-and-xamarin-studio%3fhs_amp=true)
+- [Let’s Develop an Android App to Upload Files and Images](https://medium.com/javarevisited/lets-develop-an-android-app-to-upload-files-and-images-on-cloud-f9670d812060)
+
 
 ## Example projects
 
-- [Gamebot(Battleship)](https://repl.it/talk/challenge/GameBot-Battleship/8813)
+- [Vera](https://bloomscape.com/vera/)
