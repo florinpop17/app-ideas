@@ -37,9 +37,9 @@ constraints:
 
 Try not to view this until you've developed your own solution:
 
--   [Binary to decimal conversion program for beginners](https://www.youtube.com/watch?v=YMIALQE26KQ)
+-   [Binary to decimal conversion program for beginners](https://youtu.be/VLflTjd3lWA)
 -   [Binary to Decimal converter using React](https://github.com/email2vimalraj/Bin2Dec)
--   [Binary to Decimal converter with plain html, js and css](https://grfreire.github.io/Bin2Dec/)
+-   [Binary to Decimal converter with plain html, js and css](https://github.com/itsmraga-hub/Base-Number-Converter)
 -   [Binary to Decimal converter using Flutter & Dart](https://github.com/israelss/AppIdeasCollection/tree/master/Tier1/Bin2Dec)
     -   [Live preview built with Flutter for Web](https://bin2dec.web.app/#/)
 -   [Binary to Decimal converter using React](https://github.com/geoffctn/Bin2Dec)
