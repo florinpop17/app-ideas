@@ -38,10 +38,13 @@ And will need to install yargs: npm install --save yargs
 
 ## Useful links and resources
 
-https://docs.npmjs.com/cli/v6/commands/npm-install
-https://www.npmjs.com/package/inquirer
-https://yargs.js.org/
+- [NPM Install](https://docs.npmjs.com/cli/v6/commands/npm-install)
+- [NPM Inquirer](https://www.npmjs.com/package/inquirer)
+- [Yargs JS Dev Page](https://yargs.js.org/)
 
 
 ## Example projects
-https://github.com/DCodeAus/YargsProject
+- [YARGS Project](https://github.com/DCodeAus/YargsProject/)
+
+
+- [BHMBS - JS-Neumorphic-Calculator](https://barhouum7.github.io/JS-Neumorphic-Calc.github.io/)
