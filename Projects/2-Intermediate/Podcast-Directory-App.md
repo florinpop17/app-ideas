@@ -7,7 +7,7 @@ Request package to scrape information from a web page. The Podcast Directory
 continues this process and introduces you to another web scraping package - 
 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 
-Although Request is a useful  package it isn't built specifically for web
+Although Request is a useful package it isn't built specifically for web
 scraping like Puppeteer. As you gain experience with web scraping you'll find
 that there are web sites and applications where web scraping is made easier
 by using a tool like Puppeteer that is specifically built for scaping.
