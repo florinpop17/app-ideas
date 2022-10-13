@@ -26,10 +26,12 @@ Each project has the following **features**:
 
 Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
 
+## Table of Contents :clipboard:
+
 * [Projects](#Projects)
-	* [Tier-1: Beginner Projects](#Tier-1:BeginnerProjects)
-	* [Tier-2: Intermediate Projects](#Tier-2:IntermediateProjects)
-	* [Tier-3: Advanced Projects](#Tier-3:AdvancedProjects)
+	* [Tier-1: Beginner Projects](#Tier1BeginnerProjects)
+	* [Tier-2: Intermediate Projects](#Tier-2-IntermediateProjects)
+	* [Tier-3: Advanced Projects](#Tier-3-AdvancedProjects)
 * [Plans for the future](#Plansforthefuture)
 * [Contribution](#Contribution)
 	* [Examples](#Examples)
@@ -43,15 +45,15 @@ Here you can [watch a video about this repository](https://www.youtube.com/watch
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
 
-| Tier | Developer Profile                                                                                                                                                |
-| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
+| Tier  | Developer Profile                                                                                                                                                |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
+|   2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
+|   3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
 
 🌟 - New Project
 
-###  1.1. <a name='Tier-1:BeginnerProjects'></a>Tier-1: Beginner Projects
+###  1.1. <a name='Tier1BeginnerProjects'></a>Tier-1: Beginner Projects
 
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
@@ -91,17 +93,17 @@ required to complete them.
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
 | [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 
-###  1.2. <a name='Tier-2:IntermediateProjects'></a>Tier-2: Intermediate Projects
+###  1.2. <a name='Tier-2-IntermediateProjects'></a>Tier-2: Intermediate Projects
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
-| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
+| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                     | Create a basic calculator cli.                     | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
-| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                  | 2-Intermediate |
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                   | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
@@ -129,7 +131,7 @@ required to complete them.
 | [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
 | [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |
 
-###  1.3. <a name='Tier-3:AdvancedProjects'></a>Tier-3: Advanced Projects
+###  1.3. <a name='Tier-3-AdvancedProjects'></a>Tier-3: Advanced Projects
 
 | Name                                                                          | Short Description                                                   | Tier       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
