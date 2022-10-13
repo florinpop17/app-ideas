@@ -26,17 +26,17 @@ Each project has the following **features**:
 
 Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
 
-* 1. [Projects](#Projects)
-	* 1.1. [Tier-1: Beginner Projects](#Tier-1:BeginnerProjects)
-	* 1.2. [Tier-2: Intermediate Projects](#Tier-2:IntermediateProjects)
-	* 1.3. [Tier-3: Advanced Projects](#Tier-3:AdvancedProjects)
-* 2. [Plans for the future](#Plansforthefuture)
-* 3. [Contribution](#Contribution)
-	* 3.1. [Examples](#Examples)
-* 4. [Spread the word!](#Spreadtheword)
-	* 4.1. [Main Contributors 🙂🙂](#MainContributors)
-* 5. [100Days100Projects 🚀](#Days100Projects)
-* 6. [Stars history](#Starshistory)
+* [Projects](#Projects)
+	* [Tier-1: Beginner Projects](#Tier-1:BeginnerProjects)
+	* [Tier-2: Intermediate Projects](#Tier-2:IntermediateProjects)
+	* [Tier-3: Advanced Projects](#Tier-3:AdvancedProjects)
+* [Plans for the future](#Plansforthefuture)
+* [Contribution](#Contribution)
+	* [Examples](#Examples)
+* [Spread the word!](#Spreadtheword)
+	* [Main Contributors 🙂🙂](#MainContributors)
+* [100Days100Projects 🚀](#Days100Projects)
+* [Stars history](#Starshistory)
 
 ##  1. <a name='Projects'></a>Projects
 
