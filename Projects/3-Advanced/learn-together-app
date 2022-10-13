@@ -1,0 +1,29 @@
+# Exlearn
+
+**Tier:** 3-Advanced
+
+Exlearn is basically an app where devlopers come and learn together through the same resource/course integrated into the platform. This will allow higher productivity as it becomes monotonous to learn alone. 
+Exlearn will be a platform to connect learners and allow collaboration .
+Answer the following questions:
+
+-   "What is the purpose of this application?"
+the purpose is to expediate learning and make it easier and more productive for everyone involved
+
+-   "Are there any resources needed in order to complete the project?" - If yes, be sure to add it.
+Udemy/ YouTube API etc. for the platform that provides these courses and basic video-playback facility and the ability to join together
+## User Stories
+
+-   [ ] User can enter the tech stack they're learning
+-   [ ] User can enter the resource they're learning form
+-   [ ] User can find people learning the same resource/the same course
+-   [ ] User can learn together with them in a competitive enveironment and interact with them
+
+## Bonus features
+
+-   [ ] User can win prizes based on who finishes the course first
+-   [ ] User can collaborate with others on their ongoing projects
+-   etc...
+
+## Example projects
+
+Basically discord minus the useless features + udemy's infrastructure in a more interactive and easier to use manner to allow real-time connectivity of developers all across the globe
