@@ -17,13 +17,13 @@ Video Downloader App utility tool that downloads the video from a given URL from
 
 ## Useful links and resources
 
-Python Guide - https://www.section.io/engineering-education/youtube-video-downloader-using-python/
-WebScraping Guide - https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/
-Regex Guide - https://www.geeksforgeeks.org/write-regular-expressions/
+- Python Guide - https://www.section.io/engineering-education/youtube-video-downloader-using-python/
+- WebScraping Guide - https://www.geeksforgeeks.org/what-is-web-scraping-and-how-to-use-it/
+- Regex Guide - https://www.geeksforgeeks.org/write-regular-expressions/
 
 
 ## Example projects
 
-Github Project 1 - https://github.com/Tyrrrz/YoutubeDownloader
-Github Project 2 - https://github.com/DoctorLai/VideoDownloadHelper
-Github Project 3 - https://github.com/shubham1710/Youtube-downloader
+- Github Project 1 - https://github.com/Tyrrrz/YoutubeDownloader
+- Github Project 2 - https://github.com/DoctorLai/VideoDownloadHelper
+- Github Project 3 - https://github.com/shubham1710/Youtube-downloader
