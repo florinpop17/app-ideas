@@ -2,7 +2,7 @@
 
 **Tier:** 3-Advanced
 
-Video Downloader App utility tool that downloads the video from a given URL from Platforms like Youtube and Social Media and if for valid platforms, download the video in different formats. This project uses concepts like Web Scraping, REGEX and can be built as Web app or a Mobile App.
+Video Downloader App is a utility tool that downloads the video from a given URL from Platforms like Youtube and Social Media and for valid platforms, downloads the video in different formats. This project uses concepts like Web Scraping, REGEX and can be built as Web app or a Mobile App.
 
 ## User Stories
 
