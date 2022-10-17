@@ -1,5 +1,10 @@
 ## Contribution Guide
 
+![Contribution Guide Image](./contribution_guide_img.png)
+
+Hello fellow contributor! Thanks for being interested in contributing to this project! \
+Please before you make any new contributions make sure that your contribution follows this guide.
+
 This guide will help us ensure that you have a simple and effective way to contribute to this project.
 
 -   If you want to propose a new App Idea, please use the [Example Guide](./Example%20Guide.md) as a base template.
