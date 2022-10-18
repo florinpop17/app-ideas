@@ -1,0 +1,186 @@
+<!-- api.openweathermap.org/data/2.5/weather?q=Nilphamari&appid=a5465519d4019d2c4500a735997c7daa -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css"
+      integrity="sha512-BnbUDfEUfV0Slx6TunuB042k9tuKe3xrD6q4mg5Ed72LTgzDIcLPxg6yI2gcMFRyomt+yJJxE+zJwNmxki6/RA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- i tried to connect with the css file but couldn't that is why i used inline css -->
+    <!-- <link rel="stylesheet" href="home.css" /> -->
+    <style>
+    
+      * {
+        padding: 0;
+        margin: 0;
+        color: white;
+         /*background-color: #1b3bf5; */
+
+         /*background: aqua; */
+      }
+      .container {
+        height: 300vh;
+        width: 100vw;
+        background-color: skyblue;
+        padding-top: 12%;
+        position: fixed;
+        
+      }
+    
+      .box {
+        padding: 1%;
+        width: 30%;
+    
+        margin: auto;
+        background: blueviolet;
+        border-radius: 10px;
+
+      }
+    
+      #weathercon {
+        text-align: center;
+        background-color: #82ade4;
+        size: 50px;
+      }
+      #weathercon.fas fa-sun icon{
+        font-size: 6rem;
+        animation: fas-anime 3s linear  infinite alternate;
+      }
+      @keyframes fas-anime{
+        from{
+          transform: scale(0.8);
+      }
+      to{
+        transform: scale(1.2);
+      }
+    }
+
+      .info {
+        text-align: center;
+        background-color: hsl(214, 87%, 69%);
+      }
+      .temp {
+        background-color: #07197c;
+        padding: 5%;
+        border-radius: 5px;
+        margin: 10px auto 10px;
+      }
+      .icon_status {
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      h1,
+      p {
+        margin: 5px auto 5px;
+        text-align: center;
+      }
+      .icon{
+        font-size: 50px;
+      }
+      .fa-street-view{
+        animation: rotates 3s linear infinite alternate;
+        size-adjust: 100px;
+      }
+      @keyframes rotates{
+        from{
+          transform: translateX(-0.5rem);
+        }
+        to{
+          transform: translateX(0.5rem);
+        }
+      }
+    </style>
+    <title>Current Weather</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 style="color: black; ">WELCOME TO JHANSI WEATHER WEBSITE</h1>
+      <div class="box">
+        <div class="wave -one"></div>
+        <div class="wave -two"></div>
+        <div class="wave -three"></div>
+        <div id="icon_status1"class="icon_status">
+         
+        </div>
+        <div id="weathercon">
+          <i class="fas fa-sun icon" style="color: #f5ed50"></i>
+         
+        
+        </div>
+
+        <div class="info">
+          <h2 class="location"></h2>
+          <i class="fas fa-street-view" style="color: #fff;">  {%location%} ,{% country %}</i>
+          <p id="date">21 july, 2021</p>
+          <h1 class="temp">{%tempval%}&deg;C</h1>
+          <h3 class="temp_min_max">Min: {%tempmin%} | Max: {%tempmax%}</h3>
+        </div>
+      </div>
+      <p style="color: blueviolet;">Made With Core Node.js and made by-ADITI JAIN</p>
+    </div>
+    <script>
+      const curDate=document.getElementById("date");
+      let weathercon=document.getElementById("weathercon");
+      const tempStatus="Clouds";
+      const getCurrentDay = () => {
+        let currentTime = new Date();
+        const day = new Array(7);
+        day[0] = "Sunday";
+        day[1] = "Monday";
+        day[2] = "Tuesday";
+        day[3] = "Wednesday";
+        day[4] = "Thursday";
+        day[5] = "Friday";
+        day[6] = "Saturday";
+        let days= day[currentTime.getDay()];
+        return days;
+      };
+      
+     
+      const getCurrentTime = () =>{
+        var months = [
+          "jan",
+          "Feb",
+          "Mar",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December",
+
+        ];
+        var now =new Date();
+        var month = months[now.getMonth()];
+        var date = now.getDate();
+
+        let hours=now.getHours();
+        let mins = now.getMinutes();
+
+        let period="AM";
+        if(hours>11){
+          period="PM";
+          if(hours>12) hours-=12;
+        }
+        if(mins<10){
+          mins="0"+mins;
+        }
+        return `${month} ${date}  | ${hours}: ${mins}${period}`;
+      };
+       curDate.innerHTML= getCurrentDay()+ " | "+ getCurrentTime();
+    </script>
+
+  
+  </body>
+</html>
