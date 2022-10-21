@@ -115,6 +115,7 @@ required to complete them.
 | [Timezone Slackbot](./Projects/2-Intermediate/Timezone-Slackbot.md)               | Display Team Timezones                             | 2-Intermediate |
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
 | [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
+| [Video Player](./Projects/2-Intermediate/Video-Player.md)                             | Video Player App    
 | [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
