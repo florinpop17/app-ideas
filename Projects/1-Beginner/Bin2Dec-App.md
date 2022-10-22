@@ -37,6 +37,8 @@ constraints:
 
 Try not to view this until you've developed your own solution:
 
+-   [Binary to Decimal converter with html, css and js](https://github.com/edniltonmatos/desafios-beginner/tree/main/Bin2Dec)
+    -   [demo](https://ednilton-matos-bin2dec.vercel.app/)
 -   [Binary to decimal conversion program for beginners](https://www.youtube.com/watch?v=YMIALQE26KQ)
 -   [Binary to Decimal converter using React](https://github.com/email2vimalraj/Bin2Dec)
 -   [Binary to Decimal converter with plain html, js and css](https://grfreire.github.io/Bin2Dec/)
@@ -45,3 +47,4 @@ Try not to view this until you've developed your own solution:
 -   [Binary to Decimal converter using React](https://github.com/geoffctn/Bin2Dec)
 -   [Matrix-like Binary to Decimal converter using Angular](https://github.com/ZangiefWins/MatrixBin2Dec)
     -   [Live preview on heroku](https://matrix-bin2dec.herokuapp.com/)
+
