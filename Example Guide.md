@@ -31,7 +31,7 @@ Add useful links and resources corresponding to this project.
 
 Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.
 
-##LINKS FOR APPS
-<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/1-Beginner">Beginners</a>
-<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/2-Intermediate">Intermediate</a>
-<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/3-Advanced">Advanced_</a>
+##LINKS FOR APPS</br>
+<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/1-Beginner">Beginners</a></br>
+<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/2-Intermediate">Intermediate</a></br>
+<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/3-Advanced">Advanced_</a></br>
