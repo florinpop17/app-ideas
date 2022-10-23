@@ -34,4 +34,4 @@ Add one or more examples of projects that have similar functionality to this app
 ##LINKS FOR APPS
 <a href="https://github.com/omsai11/app-ideas/tree/master/Projects/1-Beginner">Beginners</a>
 <a href="https://github.com/omsai11/app-ideas/tree/master/Projects/2-Intermediate">Intermediate</a>
-<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/3-Advanced">Advanced</a>
+<a href="https://github.com/omsai11/app-ideas/tree/master/Projects/3-Advanced">Advanced_</a>
