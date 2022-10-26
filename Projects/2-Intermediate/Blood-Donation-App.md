@@ -21,10 +21,8 @@ have the ability to donate blood to specific individuals who request blood.
 
 ## Useful links and resources
 
-- [NA]()
-- [NA]()
-
+- [National Blood Services](https://www.blood.gov.au/)
 
 ## Example projects
 
-- [National Blood Services](https://www.blood.gov.au/)
+- [NA]()
