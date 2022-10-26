@@ -45,6 +45,7 @@ currently displayed.
 allows floating point numbers up to 3 places to be entered and operations to
 be carried out to the maximum number of decimal places entered for any one
 number.
+-   [ ] User can click a '💡' button to change the color of the calulator from dark mode to light mode and vice-versa. This might require you to keep two CSS file to change the color on javascript event command.
 
 ## Useful links and resources
 
@@ -59,4 +60,5 @@ number.
 - [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
 - [Javascript-CALC](https://github.com/x0uter/javascript-calc)
 - [Sample Calculator](https://sevlasnog.github.io/sample-calculator)
+- [Sample Web Calculator](https://basic-cal.netlify.app)
 - [Python Calculator](https://github.com/kana800/Side-Projects/tree/master/1-Beginner/calculator)
