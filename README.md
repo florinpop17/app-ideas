@@ -116,6 +116,7 @@ required to complete them.
 | [To-Do App](./Projects/2-Intermediate/To-Do-App.md)                               | Manage personal to-do tasks                        | 2-Intermediate |
 | [Typing Practice](./Projects/2-Intermediate/Typing-Practice-App.md)               | Typing Practice                                    | 2-Intermediate |
 | [Voting App](./Projects/2-Intermediate/Voting-App.md)                             | Voting App                                         | 2-Intermediate |
+| [Youtube Video Uploader](./Projects//2-Intermediate/YT-Video-Uploader.md)            | Upload Videos on YouTube                           | 2-Intermediate |
 
 ### Tier-3: Advanced Projects
 
