@@ -1,0 +1,20 @@
+# Dice Roller App
+
+**Tier:** 1-Beginner
+
+The Dice Roller application is a simple-to-build application that sees the simulation of rolling a dice. Your task is to click on a button, which rolls the dice and generates a value from 1 to 6. It then displays the image of the dice on-screen, corresponding to the output generated from the roll. The image is updated everytime the button is clicked (dice is rolled).
+
+This simulates the effect of a rolling a dice via the application during the absence of a physical dice.
+
+## User Stories
+
+-   [ ] User can press a button to roll the dice
+-   [ ] User can expect random values from 1 to 6 being generated  
+
+## Useful links and resources
+
+-   [Step by Step guide to developing the Dice Roller App](https://developer.android.com/courses/android-basics-kotlin/unit-1)
+
+## Example projects
+
+[Dice Roller App by Google Developers](https://github.com/google-developer-training/android-basics-kotlin-dice-roller-with-images-app-solution)
