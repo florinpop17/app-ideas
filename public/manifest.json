@@ -18,7 +18,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/app-ideas/",
+    "start_url": "/",
     "display": "standalone",
     "theme_color": "#ffdb14",
     "background_color": "#1c1616"
