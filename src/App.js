@@ -44,7 +44,7 @@ export default function App() {
                         marginRight="0.5rem"
                         style={{ color: '#000000' }}
                         title="New Idea Guidelines"
-                        href="https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md"
+                        href="https://github.com/josephabbey/app-ideas/blob/master/CONTRIBUTING.md"
                     >
                         <AddIcon
                             style={{ width: '1.3rem', height: '1.3rem' }}
@@ -53,7 +53,7 @@ export default function App() {
                     <Link
                         marginLeft="0.5rem"
                         title="GitHub"
-                        href="https://github.com/florinpop17/app-ideas/"
+                        href="https://github.com/josephabbey/app-ideas/"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
