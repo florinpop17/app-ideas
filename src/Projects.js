@@ -98,7 +98,7 @@ export default function Projects({ tier }) {
                                     setContent(undefined);
                                     setIsShown(true);
                                     fetch(
-                                        `/app-ideas/Projects/${row[3].trim()}/${row[1].trim()}.md`
+                                        `/Projects/${row[3].trim()}/${row[1].trim()}.md`
                                     ).then(async (res) => {
                                         setContent(
                                             <div
