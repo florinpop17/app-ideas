@@ -1,49 +1,51 @@
-name: Deploy
+name: NodeJS with React
 
 on:
   push:
-    branches: ["master"]
-
-  workflow_dispatch:
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+    branches: [ "master" ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Use Node.js 16.x
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16.x
-      - name: Build
-        run: |
-          npm install
-          npm run build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./build
-          retention-days: 1
+    - uses: actions/checkout@v3
+
+    - name: Use Node.js 16.x
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+
+    - name: Build
+      run: |
+        npm install
+        npm run build
+    - name: Upload pages artifact
+      uses: actions/upload-pages-artifact@v0
+      with:
+        path: ./build
+        retention-days: 1
 
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    name: Deploy to GitHub Pages
     needs: build
+    runs-on: ubuntu-latest
+
     outputs:
       page_url: ${{ steps.deployment.outputs.page_url }}
+
     permissions:
       pages: write
       id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Setup Pages
         uses: actions/configure-pages@v2
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
