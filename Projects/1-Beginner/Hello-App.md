@@ -24,7 +24,7 @@ language.
 -   Developers should use the [IP-API](http://ip-api.com/docs/api:json) service
     to obtain the users IP.
 -   Developers should use the
-    [Fourtonfish](https://www.fourtonfish.com/hellosalut/hello/) service to
+    [HelloSalut](https://stefanbohacek.com/project/hellosalut-api/) service to
     obtain the greeting in the users native language by passing the users IP.
 -   Developers must use a HTML entities decoding to decode the hello message.
 
@@ -59,9 +59,9 @@ language.
 
 -   [Form Follows Function (Wikipedia)](https://en.wikipedia.org/wiki/Form_follows_function)
 -   [Personalization (Wikipedia)](https://en.wikipedia.org/wiki/Personalization)
--   [Fourtonfish](https://www.fourtonfish.com/hellosalut/hello/)
+-   [HelloSalut](https://stefanbohacek.com/project/hellosalut-api/)
 -   [IP-API](http://ip-api.com/docs/api:json)
 
 ## Example projects
 
-[Fourtonfish Hello World](https://fourtonfish.com/hellosalut/helloworld/)
+[Fourtonfish Hello World](https://hellosalut.stefanbohacek.dev/helloworld/)
