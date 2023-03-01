@@ -1,1 +1,4 @@
 .DS_Store
+**/target
+.idea
+**/.idea
