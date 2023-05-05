@@ -1,6 +1,6 @@
 ### **Practice Daily on iCodeThis.com** 👇
 
-[![iCodeThis](https://www.icodethis.com/thumbnail.png)](https://iCodeThis.com/?ref=app-ideas)
+[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
 
 # :ledger: App Ideas Collection
 
