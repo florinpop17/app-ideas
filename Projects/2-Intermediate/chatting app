@@ -1,0 +1,7 @@
+Project Idea
+This app can send messages to other users. For simplicity we can use firebase for database ans concentrate on security and architecture of the app.
+We can practice MVVM, Dagger-hilt/Koin, Room DB, Video players and a bit of UI elements with animation.
+It might seem an easy project but while you make it, it will be a great learning and a good learning arc will be there if you grow it more cause you can extend it to a great extent.
+
+Usage:
+The app sends messages to friends as well as photos. It gives the user online/offline and last seen features. And, for chat pagination is used such that it only show 10 messages at a time. The user can change the display profile picture and can change status.
