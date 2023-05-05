@@ -136,6 +136,7 @@ required to complete them.
 | [Movie App](./Projects/3-Advanced/Movie-App.md)                               | Browse, Find Ratings, Check Actors and Find you next movie to watch | 3-Advanced |
 | [MyPodcast Library](./Projects/3-Advanced/MyPodcast-Library-app.md)           | Create a library of favorite podcasts                               | 3-Advanced |
 | [NASA Exoplanet Query](./Projects/3-Advanced/NASA-Exoplanet-Query.md)         | Query NASA's Exoplanet Archive                                      | 3-Advanced |
+| [Personal Accounting App](./Projects/3-Advanced/Personal-Accounting-App.md)   | Log your spending, summarize your expenses, manage your budgets     | 3-Advanced |
 | [Shell Game](./Projects/3-Advanced/Shell-Game.md)                             | Animated shell game                                                 | 3-Advanced |
 | [Shuffle Deck](./Projects/3-Advanced/Shuffle-Deck-App.md)                     | Evaluate different algorithms for shuffling a card deck             | 3-Advanced |
 | [Slack Archiver](./Projects/3-Advanced/Slack-Archiver.md)                     | Archive Slack Messages                                              | 3-Advanced |
