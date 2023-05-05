@@ -2,9 +2,7 @@
 
 [![iCodeThis](https://www.icodethis.com/thumbnail.png)](https://iCodeThis.com/?ref=app-ideas)
 
-## :ledger: App Ideas Collection
-
-## Intro
+# :ledger: App Ideas Collection
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
