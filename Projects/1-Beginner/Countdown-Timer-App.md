@@ -13,7 +13,7 @@ event.
 
 ### Constraints
 
-- Use only builtin language functions for your calculations rather than relying
+- Use only built in language functions for your calculations rather than relying
 on a library or package like [MomentJS](https://momentjs.com/). This assumes,
 of course, that the language of your choice has adequate date and time
 manipulation functions built in.
