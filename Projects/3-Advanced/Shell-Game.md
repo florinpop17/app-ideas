@@ -5,7 +5,7 @@
 A Shell game is a classic gambling game that dates back to ancient Greece.
 Playing it requires three shells, a pea, hand dexterity by the operator, and 
 keen observation skills on the part of the player. It's also a classic con
-game since its easy for the operator to swindle the player. Thank goodness
+game since it's easy for the operator to swindle the player. Thank goodness
 the latter isn't our intent with this app.
 
 This Shell game is intended to provide a graphical interface to the classical
