@@ -10,11 +10,15 @@ Create and store your notes for later purpose!
 -   [ ] User can edit a note
 -   [ ] User can delete a note
 -   [ ] When closing the browser window the notes will be stored and when the User returns, the data will be retrieved
+-   [ ] User can mark the note as done after completing it
 
 ## Bonus features
 
 -   [ ] User can create and edit a note in Markdown format. On save it will convert Markdown to HTML
 -   [ ] User can see the date when he created the note
+-   [ ] User can set reminder for some particular notes as per requirement
+-   [ ] User can mark some of the notes as important and a separate section for important notes can be created
+-   [ ] User can access the notes using filters like datewise and monthwise
 
 ## Useful links and resources
 
