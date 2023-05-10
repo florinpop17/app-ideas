@@ -53,3 +53,4 @@ curl -u "user-id" https://api.github.com/users/user-id/repos
 
 -   [CSS Timeline](https://codepen.io/NilsWe/pen/FemfK)
 -   [Building a Vertical Timeline With CSS and a Touch of JavaScript](https://codepen.io/tutsplus/pen/QNeJgR)
+-   [Gihub Timeline in Svelte](https://github.com/rajasegar/github-timeline-svelte)
