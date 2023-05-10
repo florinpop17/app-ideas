@@ -118,5 +118,4 @@ left open.
 - [window.setInterval (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 
 ## Example projects
-
-N/a
+- [IOT Mailbox Simulator](https://harmoniouslightbluesoftware.iammyself.repl.co/)
