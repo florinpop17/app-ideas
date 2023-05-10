@@ -25,3 +25,4 @@ Convert Github flavored markdown into HTML code.
 ## Example projects
 
 -   [Markdown Live Preview](https://markdownlivepreview.com/)
+-   [Markdown Previewer](https://thiagorocha503.github.io/markdown-previewer)
