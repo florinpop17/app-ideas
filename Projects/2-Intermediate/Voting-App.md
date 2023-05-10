@@ -2,13 +2,13 @@
 
 **Tier:** 2-Intermediate
 
-Allow users to vote give multiple choices
+Allow user to vote by giving them multiple choices
 
 ## User Stories
 
-- [ ] User can see a list of items he can vote on
+- [ ] User can see a list of items for which he can vote for
 - [ ] These items must have a button that the user can click on to vote
-- [ ] After the user clicked a button, the user should see all the votes
+- [ ] After the user clicked a button, the user can see all the votes
 
 ## Bonus features
 
