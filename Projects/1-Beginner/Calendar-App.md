@@ -32,3 +32,4 @@ Style your own calendar according to your requirement
 
 - [Simple calendar](https://medium.com/@nitinpatel_20236/challenge-of-building-a-calendar-with-pure-javascript-a86f1303267d)
 - [eCalendar](https://github.com/muzhaqi16/eCalendar)
+- [zCalendar](https://github.com/ziadevcom/zCalendar)
