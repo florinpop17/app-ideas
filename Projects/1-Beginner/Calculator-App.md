@@ -60,3 +60,4 @@ number.
 - [Javascript-CALC](https://github.com/x0uter/javascript-calc)
 - [Sample Calculator](https://sevlasnog.github.io/sample-calculator)
 - [Python Calculator](https://github.com/kana800/Side-Projects/tree/master/1-Beginner/calculator)
+- [KivyMD Calculator](https://github.com/SKVKPandey/KivyMD_Standard_Calculator)
