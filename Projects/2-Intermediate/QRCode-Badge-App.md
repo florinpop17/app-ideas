@@ -68,3 +68,4 @@ account name so it doesn't have to be manually entered.
 ## Example projects
 
 [QRCode Generator](https://kazuhikoarase.github.io/qrcode-generator/js/demo/)
+[qr-code-generator-blazor](https://github.com/guerra08/qr-code-generator-blazor)
