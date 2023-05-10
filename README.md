@@ -57,6 +57,7 @@ required to complete them.
 | [Flip Image](./Projects/1-Beginner/Flip-Image-App.md)                             | Change the orientation of images across two axes           | 1-Beginner |
 | [GitHub Status](./Projects/1-Beginner/GitHub-Status-App.md)                       | Display Current GitHub Status                              | 1-Beginner |
 | [Hello](./Projects/1-Beginner/Hello-App.md)                                       | User native language greeting                              | 1-Beginner |
+| [Internet Speedtest](./Projects/1-Beginner/Internet-Speedtest.md) | Command line interface for testing internet bandwidth                           | 1-Beginner |
 | [IOT Mailbox Simulator](./Projects/1-Beginner/IOT-Mailbox-App.md)                 | Use callbacks to check your snail mail                     | 1-Beginner |
 | [JS Input Validation](./Projects/1-Beginner/Javascript-Validation-With-Regex.md)  | Script to validate inputs entered by a user using RegEx    | 1-Beginner |
 | [JSON2CSV App](./Projects/1-Beginner/JSON2CSV-App.md)                             | JSON to CSV converter                                      | 1-Beginner |
