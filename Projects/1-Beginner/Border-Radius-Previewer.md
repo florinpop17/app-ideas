@@ -24,3 +24,4 @@ The border-radius property can have multiple values changed. Preview how the sha
 -   [9elements Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 -   [Border Radius](https://border-radius.com/)
 -   [CSS Gradient Border](https://codepen.io/thebabydino/pen/zbqPVd)
+-   [Border Radius Previewer](https://codesandbox.io/s/compassionate-tdd-9rcqy?file=/style.css)
