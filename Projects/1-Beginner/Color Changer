@@ -1,0 +1,25 @@
+Color Changer using Javascript
+
+Tier: 1-Beginner
+
+Color Changers are the Functionality that helps us to change the Color of Background as per our needs.
+
+The styling is up to you so use your imagination and get creative! You might also find it worth your time to experiment with the color changer app on your mobile device to better understand basic functionality and get the live experience
+
+Constraints
+You may not use the builtin functions. Make use of your User Defined functions instead.
+
+User Stories
+1) User can change the colors of background either by using Buttons or RadioButtons, etc
+2) The Resultant output will be changed to the selected background color.
+ 
+Bonus features
+ User can also apply more stylings and also try to change various things as per the creativity :)
+ 
+Useful links and resources
+https://jsbeginners.com/change-background-color-project/
+
+Example projects can be found here
+Github Project :- https://github.com/romeojeremiah/project_change_color_background
+Hosted Project :- https://romeojeremiah.github.io/project_change_color_background/
+GeeksForGeeks :- https://www.geeksforgeeks.org/how-to-change-the-background-color-after-clicking-the-button-in-javascript/
