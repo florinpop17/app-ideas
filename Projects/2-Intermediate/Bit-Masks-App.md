@@ -36,7 +36,7 @@ and their timezones:
     - Los Angeles: GMT -7
     - Tokyo: GMT +9
     - Beijing: GMT +8
-    - Ho Chi Mihn City: GMT +7
+    - Ho Chi Minh City: GMT +7
     - Mumbai: GMT +5
 -   [ ] User can see a GMT search box where an integer representing a GMT offset
 can be entered into and a 'Find Cities' button.
