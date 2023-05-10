@@ -140,7 +140,8 @@ required to complete them.
 | [Shuffle Deck](./Projects/3-Advanced/Shuffle-Deck-App.md)                     | Evaluate different algorithms for shuffling a card deck             | 3-Advanced |
 | [Slack Archiver](./Projects/3-Advanced/Slack-Archiver.md)                     | Archive Slack Messages                                              | 3-Advanced |
 | [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Advanced |
-| [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Advanced |
+| [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey
+| [Linktree Clone](./Projects/3-Advanced/Linktree-Clone.md)                     | Multiple URLs in one.                                  | 3-Advanced |
 
 ## Plans for the future
 
