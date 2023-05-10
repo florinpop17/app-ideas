@@ -45,6 +45,7 @@ currently displayed.
 allows floating point numbers up to 3 places to be entered and operations to
 be carried out to the maximum number of decimal places entered for any one
 number.
+-   [ ] User can input the expression as string like (a + b)/c + d
 
 ## Useful links and resources
 
