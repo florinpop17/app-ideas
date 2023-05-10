@@ -22,3 +22,4 @@ You can track your progress by cloning this [Trello Board](https://trello.com/b/
 ## Example projects
 
 -   [Lipsum.com](https://www.lipsum.com/)
+-   [Lorem Ipsum Generator](https://khakiwirelessnaturallanguage.iammyself.repl.co)
