@@ -1,32 +1,25 @@
-# Application Name
+# Boilerplate Generator App CLI in Python
 
-**Tier:** Add corresponding tier (1-Beginner, 2-Intermediate, 3-Advanced)
+**Tier:** 1-Beginner
 
-Add a clear description of the application and its main features.
-Answer the following questions:
-
--   "What is the purpose of this application?"
--   "Are there any resources needed in order to complete the project?" - If yes, be sure to add it.
+Generates boilerplates for different languages
 
 ## User Stories
 
--   [ ] User can ... first user story
--   [ ] User can ... second user story
--   [ ] User can ... third user story
--   [ ] User can ... fourth user story
--   [ ] User can ... fifth user story
--   etc...
+-   [ ] User can add boilerplates of different languages.
+-   [ ] User can access boilerplates already made by other users.
 
-## Bonus features
+## Bonus Features
 
--   [ ] User can ... first bonus feature
--   [ ] User can ... second bonus feature
--   etc...
+-   [ ] Organising the boilerplates in a subdirectory using the os module in python
+-   [ ] 
 
 ## Useful links and resources
 
-Add useful links and resources corresponding to this project.
+https://docs.python-guide.org/scenarios/cli/
+https://click.palletsprojects.com/en/7.x/
+https://www.youtube.com/watch?v=ywiFraNBTv4
 
 ## Example projects
+https://github.com/SOUMEE2000/CLI
 
-Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.
