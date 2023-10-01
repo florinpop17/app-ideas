@@ -23,9 +23,9 @@ Just upload a PDF of your choice and the chat application will answer any questi
 
 ## Useful links and resources
 
--   [Youtube Video by Alexandro AO](https://www.youtube.com/watch?v=wUAUdEw5oxM&t=851s&ab_channel=AlejandroAO-Software%26Ai)
--   [Youtube Video by Prompt Engineering](https://www.youtube.com/watch?v=RIWbalZ7sTo&ab_channel=PromptEngineering)
--   [Github Repository for Source Code](https://github.com/ajinkode/PDFWizard)
+-   [YouTube Video by Alexandro AO](https://www.youtube.com/watch?v=wUAUdEw5oxM&t=851s&ab_channel=AlejandroAO-Software%26Ai)
+-   [YouTube Video by Prompt Engineering](https://www.youtube.com/watch?v=RIWbalZ7sTo&ab_channel=PromptEngineering)
+-   [GitHub Repository for Source Code](https://github.com/ajinkode/PDFWizard)
 
 ## Example projects
 
