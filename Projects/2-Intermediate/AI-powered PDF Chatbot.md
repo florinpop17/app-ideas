@@ -31,4 +31,4 @@ Just upload a PDF of your choice and the chat application will answer any questi
 
 -   [Demo of Chat Application](https://pdfwizard.streamlit.app/)
 -   [Demo Video for the Chat Application](https://github.com/ajinkode/PDFWizard/assets/127986789/c5bc701d-a778-4ced-9b07-66e829a8885b)
--   [ChatPDF](https://www.chatpdf.com/)
+-   [ChatPDF Website](https://www.chatpdf.com/)
