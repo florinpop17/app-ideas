@@ -6,12 +6,13 @@ Description:
 The Portfolio Website is a basic web application designed to showcase your projects, experiences, and contact information. It serves as a personal portfolio or online resume, allowing you to present your work and skills to potential employers or clients. This project is suitable for beginners in web development and can be used to practice HTML, CSS, and basic web design.
 
 
--   "What is the purpose of this application?"
-    The purpose of this application is to create a digital space where you can display your projects and experiences to make a positive impression on visitors, including potential employers or collaborators. It provides a platform to demonstrate your skills and capabilities in a visually appealing manner.
+## What is the purpose of this application?
+
+The purpose of this application is to create a digital space where you can display your projects and experiences to make a positive impression on visitors, including potential employers or collaborators. It provides a platform to demonstrate your skills and capabilities in a visually appealing manner.
 
     
--   "Are there any resources needed in order to complete the project?" 
-    To complete this project, you will need the following resources:
+## Are there any resources needed in order to complete the project?
+-   To complete this project, you will need the following resources:
 
 -   A code editor (e.g., Visual Studio Code, Sublime Text).
 -   Basic knowledge of HTML for creating web page structure.
