@@ -37,8 +37,8 @@ The purpose of this application is to create a digital space where you can displ
 
 ## Useful links and resources
 
-Add useful links and resources corresponding to this project.
+- [HTML and CSS Tutorial for Beginners](https://www.w3schools.com/html/)
 
 ## Example projects
 
-Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.
+- [Portfolio-website](https://codepen.io/Janvi-Choudhary/pen/qBLMWzG)
