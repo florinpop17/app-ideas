@@ -1,6 +1,6 @@
-# Application Name
+# Portfolio-Plus
 
-**Tier:**  1-Beginner
+**Tier:1-Beginner**  
 
 Description:
 The Portfolio Website is a basic web application designed to showcase your projects, experiences, and contact information. It serves as a personal portfolio or online resume, allowing you to present your work and skills to potential employers or clients. This project is suitable for beginners in web development and can be used to practice HTML, CSS, and basic web design.
