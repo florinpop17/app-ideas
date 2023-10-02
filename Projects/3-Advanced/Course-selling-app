@@ -1,0 +1,26 @@
+# Course-selling-app
+ Fullstack app
+
+**Tier:** 3-Advanced
+
+Nowadays, Course-selling apps have become essential for teachers, allowing them to create, manage, and sell their courses online.
+
+## User Stories
+
+- [ ] Admin can create read write and delete courses. 
+- [ ] Users can signup signin buy courses.
+- [ ] Admin : On signin Admin should see AddCourses , Courses and logout button on Appbar.
+- [ ] Users : On signin Users should see courses and buy or button to buy courses.
+
+## Bonus features
+
+- [ ] Integrate payment gateway
+
+## Useful links and resources
+
+- [Expressjs](https://expressjs.com/en/starter/hello-world.html)
+- [github repo](https://github.com/Himanshu-holmes/course-selling-app)
+- [mongoose](https://mongoosejs.com/docs/connections.html)
+- [nodejs](https://nodejs.org/en/docs/guides/getting-started-guide)
+
+
