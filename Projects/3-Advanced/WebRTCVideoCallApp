@@ -1,0 +1,36 @@
+# WebRTC Video Call App
+
+**Tier:** 3-Advanced
+
+Add a clear description of the application and its main features.
+Answer the following questions:
+
+This app is a video and audio call app on which people can talk to each other via Video and Audio call and can also present their screens, 
+this app has alot of learnings about the different protocols like WebRTC, Signaling server, ICE Server
+
+This app can be developed using WebRTC which is a peer to peer real time communication protocol, a signaling server which helps to share 
+details of users between each other and helps creating a connection, ICE Server which acts as a operation server and allows connection of
+2 Peers directly without the Firewall blocking them.
+
+
+## User Stories
+
+-   User can create new account or login to old
+-   User can add new friends to talk to over calls.
+-   User can connect over video/audio call with their friends
+-   User can add multiple friends at a time
+-   User can hide/show, unmute/mute themselves and switch camera
+
+## Bonus features
+
+-   User can present/broadcast their screen as well.
+
+## Useful links and resources
+
+- Use Firebase Realtime database as Signaling server
+- Use ICE server for P2P connection
+- Use WebRTC for Video and Audio call sharing.
+
+## Example projects
+
+Here's an example project: https://github.com/bhaskarblur/WebTalk
