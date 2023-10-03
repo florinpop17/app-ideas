@@ -1,0 +1,34 @@
+# simon game
+
+**Tier:** 1-Beginner
+
+Description of the Simon game :
+
+The Simon game website serves as a digital platform for this classic memory game. It offers users a chance to test and enhance their memory, concentration, and pattern recognition skills. Whether for fun or as a cognitive exercise, the Simon game remains a timeless favorite, underpinned by the universal language of mathematics, subtly embedded in its patterns and sequences.
+
+The game's rules are straightforward, yet they challenge the player's memory and ability to focus. It begins with a single randomly selected color/sound in the sequence, and the player must replicate it by pressing the corresponding button. If successful, the sequence extends, and the player must reiterate the entire sequence accurately. As the game progresses, it introduces longer and more complex sequences.
+
+
+
+## User Stories
+
+-   [ ]  user can see four color button red,yellow,green,blue
+-   [ ]  Each button have unique sound which plays when user click on the particular button
+-   [ ]   the button press is random manner  
+-   [ ] than the user need to press button in same manner as the button where press before 
+-   [ ] if the user fails the to press buttons in same manner than the ysers fails that level
+-   [ ]  and user can restart the level and  start from level 0
+
+## Bonus features
+
+-   [ ]  you can add high score feature in it 
+
+## Useful links and resources
+
+-   https://youtu.be/n_ec3eowFLQ?si=ArSHYwZdmddqv9oh
+-  https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+## Example projects
+-   https://github.com/sonar288/simongame
+-  https://sonar288.github.io/simongame/
