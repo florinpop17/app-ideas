@@ -58,5 +58,5 @@ number.
 - [Javascript Calculator](https://codepen.io/giana/pen/GJMBEv)
 - [React Calculator](https://codepen.io/mjijackson/pen/xOzyGX)
 - [Javascript-CALC](https://github.com/x0uter/javascript-calc)
-- [Sample Calculator](https://sevlasnog.github.io/sample-calculator)
-- [Python Calculator](https://github.com/kana800/Side-Projects/tree/master/1-Beginner/calculator)
+- [Sample Calculator](https://www.makeuseof.com/build-a-simple-calculator-using-html-css-javascript/)
+- [Python Calculator](https://www.geeksforgeeks.org/make-simple-calculator-using-python/)
