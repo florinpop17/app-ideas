@@ -1,0 +1,36 @@
+# App Name: Content Analyzer
+
+## Tier: 2-Intermediate
+
+Content Analyzer is an app that allows users to analyze the content of articles, blog posts, or documents to gain insights and statistics about the text. The app will provide valuable information about the writing style, word frequency, and more.
+
+## User Stories
+
+- [ ] User can input text directly into the app or provide a URL to an online article or webpage.
+- [ ] User can choose from various analysis options, including:
+  - Word Frequency: See a tabular display of unique words along with their frequency in descending order.
+  - Writing Style Analysis: Get information on the writing style, including readability, complexity, and sentiment analysis.
+  - Keyword Extraction: Automatically identify and display the most significant keywords in the text.
+- [ ] User can see an error message if the input is empty or if the URL is invalid.
+- [ ] User can view the analysis results in an organized and visually appealing format.
+- [ ] User can save or export the analysis results for future reference.
+
+## Bonus Features
+
+- [ ] User can view a graphical representation of word frequency using various chart types like bar charts, pie charts, or word clouds.
+- [ ] User can customize the analysis settings, such as selecting specific parts of speech to analyze (e.g., nouns, verbs).
+- [ ] User can compare the analysis of multiple texts side by side to identify trends and differences.
+- [ ] User can enable real-time analysis as they type or as the webpage content changes.
+- [ ] User can see recommendations for improving the text based on the analysis results (e.g., suggestions for simplifying complex sentences).
+
+## Useful Links and Resources
+
+- [Natural Language Processing (NLP) Introduction](https://en.wikipedia.org/wiki/Natural_language_processing)
+- [Readability Formulas (Wikipedia)](https://en.wikipedia.org/wiki/Readability#Readability_formulas)
+- [Keyword Extraction Techniques](https://en.wikipedia.org/wiki/Keyword_extraction)
+
+## Example Projects
+
+- [Text Analysis Tool](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Text Analysis Dashboard](https://demos.creative-tim.com/black-dashboard/index.html)
+- [Online Text Analysis Tools](https://wordcounter.net/)
