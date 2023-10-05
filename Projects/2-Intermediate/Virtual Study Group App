@@ -1,0 +1,67 @@
+# Virtual Study Group App
+
+**Tier:** 1-Beginner
+
+In this beginner-friendly app development project, you'll create a Virtual Study Group app that connects students studying similar subjects. 
+This app will facilitate collaboration on projects, sharing of notes, and organization of study sessions. 
+It's an excellent way to dive into app development while solving a practical problem for students.
+
+
+### Constraints
+
+- You are encouraged to build this app from scratch without using pre-built study group platforms or frameworks.
+
+## User Stories
+
+-   [ ] User can create an account and set up their profile with details such as name, school/college, major, and areas of interest.
+-   [ ] User can join or create study groups based on subjects or topics they are studying. Each study group should have a name, description, and list of members.
+-   [ ] User can communicate with other group members through a chat or messaging system within the study group. They can share text messages, documents, and images.
+-   [ ] User can schedule study sessions, group meetings, and events related to their subjects using a calendar feature.
+-   [ ] User can upload and share study materials, including notes, flashcards, and reference documents, within their study groups. Implement a file repository for easy access.
+-   [ ] User can track their study hours and progress within each subject, possibly with gamification elements to encourage consistent studying.
+-   [ ] User can search for and discover relevant study groups using tags and keywords.
+-   [ ] User can receive notifications for upcoming study sessions, group messages, and events, with the ability to customize notification preferences.
+-   [ ] User can rate study groups and leave reviews, fostering a community-driven approach to quality.
+
+## Bonus features
+
+-   [ ] Implement privacy and data security measures to protect user information.
+-   [ ] Consider adding a feature for users to see 'ERR' displayed if any operation would exceed an 8-digit maximum, although this may not be directly applicable to a study group app.
+
+
+## Useful links and resources
+
+- [studytogether](https://www.studytogether.com/)
+
+1. Mobile App Development:
+
+React Native: If you choose to develop for both Android and iOS platforms simultaneously, 
+React Native is a popular framework that allows you to write mobile apps using JavaScript and React. 
+It has a large and active community.
+
+- [Official React Native Documentation:](https://reactnative.dev/docs/getting-started)
+- [React Native Expo:](https://expo.dev/)
+- [Official Flutter Documentation:](https://flutter.dev/docs)
+- [Flutter Packages for Firebase Integration:](https://pub.dev/packages/firebase)
+- [Android Developer Documentation:](https://developer.android.com/docs)
+
+2. User Interface (UI) Design:
+
+- UI/UX Design Principles: Learn the basics of user interface and user experience design to create an intuitive and visually appealing app.
+
+  - [UI/UX Design Basics:](https://www.smashingmagazine.com/basics-designing)
+  - [Material Design Guidelines (for Android):](https://material.io/design)
+  - [Human Interface Guidelines (for iOS):](https://developer.apple.com/design/human-interface-guidelines)
+
+3. Backend Development:
+
+- Firebase: Firebase provides a comprehensive suite of backend services, including authentication, real-time database, cloud functions, and storage, which can be integrated into your app.
+  - [Firebase Documentation:](https://firebase.google.com/docs)
+  - [Node.js Documentation:](https://nodejs.org/docs)
+  - [Express.js Documentation:]( https://expressjs.com/en/4x/api.html)
+
+## Example projects
+
+- [studytogether](https://www.studytogether.com/)
+
+
