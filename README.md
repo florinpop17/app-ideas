@@ -79,6 +79,8 @@ required to complete them.
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
 | [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 | [ScreenSaver App](./Projects/1-Beginner/Screensaver-App.md)                       | Make a Custom Screensaver to get on your screen.           | 1-Beginner |
+| [Daily Goal Tracker](./Projects/1-Beginner/Dailytracker-App.md)                   | help people set and track their daily goals                | 1-Beginner |
+
 
 ### Tier-2: Intermediate Projects
 
