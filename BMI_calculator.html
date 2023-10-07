@@ -1,0 +1,73 @@
+//This file contains code for a Body Mass Index calculator
+//this has been created using HTML,CSS and JS.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>body mass index</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<style>
+    .container{
+     position: relative;
+     max-width: 330px;
+     width: 100%;
+    
+    }
+    .card{
+        margin-top: 70px;
+    }
+    body{
+        background: rgb(41, 44, 44);
+    }
+    .btn{
+        background: rgb(26, 74, 92);
+    }
+</style>
+<body>
+     <div class="container">
+        <div class="card">
+            <div class="card-header">BMI calculator</div>
+            <div class="card-body">
+                <form class="w-50 m-auto" onsubmit="return false">
+                    <div class="form-group">
+                        <label>weight:</label>
+                        <input type="number" name="" id="weight" class="form-control" placeholder="weight in kg" required>
+                    </div>
+                    <div class="form-group">
+                        <label>height:</label>
+                        <input type="number" name="" id="height" class="form-control" placeholder="height in ft">
+                    </div>
+                    <div class="form-group">
+                        <label>BMI </label>
+                        <input type="number" name="" id="bmivalue" class="form-control">
+                    </div>
+                    <div>
+                        <button type="submit" class="btn btn-success" onclick="getbmi()">
+                        get BMI</button>
+                    </div>
+                    
+                </form>
+            </div>
+            <div class="card-footer text-center">for a healthy body BMI should be 19 to 25</div>
+        </div>
+     </div>
+
+     <script>
+        function getbmi(){
+        var weight = document.getElementById('weight').value;
+        var height = document.getElementById('height').value;
+        height=height*12;
+        height=height*0.025;
+        var newbmivalue=weight/(height*height);
+        newbmivalue=Math.round(newbmivalue);
+        document.getElementById('bmivalue').value=newbmivalue;
+        }
+     </script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
