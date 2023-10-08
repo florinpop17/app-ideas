@@ -1,0 +1,37 @@
+# Expense Tracker
+Tier: 1-Beginner
+
+## Description
+Expense Tracker is a simple web application that helps users keep track of their expenses. Users can easily add, categorize, and manage their expenses, making it a handy tool for personal finance management.
+
+## Purpose
+The purpose of this application is to provide users with an easy-to-use expense tracking solution, helping them stay organized and manage their finances more effectively.
+
+## Resources Needed
+- Programming Language: JavaScript
+- Web Framework: Express.js (Node.js)
+- Database: SQLite (for simplicity, but you can use other databases)
+
+## User Stories
+- User can view a list of all expenses.
+- User can add a new expense with details like amount, category, and description.
+- User can edit existing expenses to update their details.
+- User can delete expenses they no longer need.
+- User can view the total sum of expenses.
+
+## Bonus Features
+- User can filter expenses by date range.
+- User can categorize expenses into predefined categories (e.g., food, transportation).
+- User can set a budget and receive notifications when approaching or exceeding the budget.
+- User can export expense data to a CSV or Excel file.
+- User can use authentication to secure their expense data.
+
+## Useful Links and Resources
+- [Express.js Documentation](https://expressjs.com/)
+- [SQLite Documentation](https://www.sqlite.org/index.html)
+
+## Example Projects
+- [Expense Tracker App using Express.js](https://github.com/example/expense-tracker-express)
+- [Simple Expense Tracker using Node.js and SQLite](https://github.com/example/simple-expense-tracker-nodejs)
+
+These example projects can serve as references for building a basic Expense Tracker application using Express.js and SQLite, which aligns with the beginner tier requirements.
