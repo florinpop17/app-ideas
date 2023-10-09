@@ -1,0 +1,65 @@
+# Task Manager Application
+
+**Tier:** 2-Intermediate
+
+The Task Manager Application is a web-based task management tool designed to help users organize and manage their tasks effectively. It provides a user-friendly interface to create, edit, prioritize, and track tasks, ensuring users can stay organized and focused on their goals.
+
+## Purpose of the Application
+
+The purpose of the Task Manager Application is to provide a convenient platform for individuals and teams to manage their tasks, whether they are personal, work-related, or any other type of tasks. It aims to streamline the task management process and improve productivity by offering a range of features that facilitate task organization and tracking.
+
+## Main Features
+
+- **User Authentication**: Users can create accounts and log in securely to access their task lists.
+
+- **Task Creation**: Users can create new tasks by specifying a title, description, due date, and priority level.
+
+- **Task List**: Users can view a list of all their tasks, which includes important details such as due dates and priorities.
+
+- **Task Editing**: Users can edit task details, including title, description, due date, and priority.
+
+- **Task Prioritization**: Users can prioritize tasks by assigning priority levels (e.g., high, medium, low) to each task.
+
+- **Task Status**: Users can mark tasks as "completed" or "in progress" to track their progress.
+
+- **Task Filtering and Sorting**: Users can filter and sort tasks based on various criteria, such as due date or priority, to focus on what's most important.
+
+- **Task Categories**: Users can categorize tasks into different categories or projects for better organization.
+
+- **Task Reminders**: Users can set reminders for tasks to receive notifications when a task is due.
+
+- **Collaboration (Optional)**: For advanced users, the application can support collaboration on tasks, allowing multiple users to work together on projects.
+
+## User Stories
+
+- [ ] User can create an account and log in.
+- [ ] User can add a new task with a title, description, due date, and priority.
+- [ ] User can view a list of all their tasks.
+- [ ] User can edit the details of a task.
+- [ ] User can mark tasks as "completed" or "in progress."
+- [ ] User can filter and sort tasks based on different criteria.
+- [ ] User can categorize tasks into different categories or projects.
+- [ ] User can set reminders for tasks.
+- [ ] User can collaborate on tasks with other users (optional).
+
+## Bonus Features
+
+- [ ] User can attach files or links to tasks.
+- [ ] User can view task statistics, such as completed tasks per week/month.
+- [ ] User can set recurring tasks.
+- [ ] User can export task lists to PDF or other formats.
+- [ ] User can integrate the application with external calendar apps.
+
+## Useful Links and Resources
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Express.js Documentation](https://expressjs.com/)
+- [MongoDB Documentation](https://docs.mongodb.com/)
+- [Authentication with Passport.js](http://www.passportjs.org/docs/)
+
+## Example Projects
+
+- [Todoist](https://todoist.com/): Todoist is a popular task management application with features similar to those described above.
+- [Trello](https://trello.com/): Trello is a visual project management tool that allows users to create and manage tasks on a digital board.
+- [Asana](https://asana.com/): Asana is a team collaboration tool that includes task management features for both individuals and teams.
