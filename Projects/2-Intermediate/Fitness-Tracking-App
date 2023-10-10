@@ -1,0 +1,20 @@
+Description :
+Create a mobile or web application that allows users to track their fitness, 
+record their physical activities, and receive personalized advice based on their goals.
+
+User Stories : 
+- As a user, I want to be able to record my workouts to track my progress.
+- As a user, I want to have access to an exercise database to create personalized workout routines.
+- As a user, I want to receive reminders for my planned workouts.
+
+Resources :
+- Mobile development framework (like Flutter or React Native).
+- Database for storing user and exercise information.
+- API to access an exercise database or Use Firebase.
+
+Links 
+Fitbit Link : https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile&hl=fr&gl=US&pli=1
+Web Site Link : https://www.fitbit.com/global/fr/home
+
+Myfitnesspal App : https://play.google.com/store/apps/details?id=com.myfitnesspal.android&hl=fr&gl=US
+Web Site Link : https://www.myfitnesspal.com/fr
