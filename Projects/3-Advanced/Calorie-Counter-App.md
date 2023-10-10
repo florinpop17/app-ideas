@@ -10,6 +10,11 @@ This app provides the number of calories based on the result of a user search
 for a type of food. The U.S. Department of Agriculture MyPyramid Food Raw Data
 will be searched to determine the calorie values.
 
+Along with the calories, it also calculates the protein amount in food entered by
+the user corresponding to its amount. For example the amount could be in "gm" for
+oats, peanut butter and "number" for eggs, bread loaf etc. This would be done based
+on the presaved data of each food item.
+
 Calorie Counter also provides you, the developer, with experience in transforming
 raw data into a format that will make it easier to search. In this case, the
 MyPyramid Food Raw Data file, which is an MS Excel spreadsheet, must be 
@@ -29,7 +34,9 @@ a 'Search' button, and a 'Clear' button.
 -   [ ] User can see a list of the matching food items, portion sizes, and
 calories in a scrollable results panel that is limited to 25 entries.
 -   [ ] User can click on the 'Clear' button to clear the search terms and 
-results list. 
+results list.
+-   [ ] User can find the food item and enter the amount for which the user wants
+calculate the calories and protein.
 
 ## Bonus features
 
@@ -39,7 +46,10 @@ the results list.
 -   [ ] User can see more than 25 entries from a search by clicking a Down
 icon button to add more matching food items to the search results list.
 -   [ ] Developer will implement load the MyPyramid data into a database or a
-data structure other than an array for faster searching. 
+data structure other than an array for faster searching.
+-   [ ] It would indicate that user has required intake of calories and protein
+according to height and weight of user, if the user works out or not, if the user
+plays any sport.
 
 ## Useful links and resources
 
