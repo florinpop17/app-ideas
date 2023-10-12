@@ -26,7 +26,7 @@ The goal of the **Biblical Reflections** application is to provide a different B
 ## Useful Links and Resources
 
 - [API.Bible](https://scripture.api.bible/)
-- [API com versículos](https://www.abibliadigital.com.br/)
+- [API with verses](https://www.abibliadigital.com.br/)
 
 ## Example Projects
 
