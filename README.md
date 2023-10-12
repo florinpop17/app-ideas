@@ -31,11 +31,11 @@ Here you can [watch a video about this repository](https://www.youtube.com/watch
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
 
-| Tier | Developer Profile                                                                                                                                                |
-| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
+| Tier  | Developer Profile                                                                                                                                                |
+| :---: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
+|   2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
+|   3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
 
 🌟 - New Project
 
@@ -83,6 +83,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
+| [Biblical Reflections](./Projects/2-Intermediate/Biblical-Reflections.md)         | Randomly generated verses app.                     | 2-Intermediate |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
 | [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                     | Create a basic calculator cli.                     | 2-Intermediate |
