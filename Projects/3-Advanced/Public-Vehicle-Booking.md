@@ -1,46 +1,8 @@
-# Drawing App
+# Mobile App Development:
 
-**Tier:** 2-Intermediate
+Android (Java/Kotlin) and iOS (Swift/Objective-C) native development
+Or Cross-platform development using React Native or Flutter
 
-Create digital artwork on a canvas on the web to share online and also export as images.
-
-## User Stories
-
--   [ ] User can draw in a `canvas` using the mouse
--   [ ] User can change the color
--   [ ] User can change the size of the tool
--   [ ] User can press a button to clear the `canvas`
-
-## Bonus features
-
--   [ ] User can save the artwork as an image (`.png`, `.jpg`, etc format)
--   [ ] User can draw different shapes (`rectangle`, `circle`, `star`, etc)
--   [ ] User can share the artwork on social media
-
-## Useful links and resources
-
--   [Learn how to create a Drawing Application using p5js](https://www.florin-pop.com/blog/2019/04/drawing-app-built-with-p5js/)
-
-## Example projects
-
-# Public Vehicle Booking App Development
-**Tier:** 3-Advance
-## App Features
-  - [ ] User Registration and Login
-  - [ ] Vehicle Selection (e.g., car, bike, scooter, etc.)
-  - [ ] Location Selection for Pickup and Drop-off
-  - [ ] Pricing and Payment Integration
-  - [ ] Booking Confirmation and Driver Details
-  - [ ] Real-time Vehicle Tracking
-  - [ ] Ratings and Reviews System
-  - [ ] Booking History and Receipts
-  - [ ] Push Notifications for Booking Status
-  - [ ] Customer Support and Help Center
-  - [ ] Technology Stack
-## Mobile App Development:
-
- - [ ] Android (Java/Kotlin) and iOS (Swift/Objective-C) native development
- - [ ] Or Cross-platform development using React Native or Flutter
 ## Backend:
  - [ ] Server-side application (Node.js, Python, Ruby on Rails, etc.)
  - [ ] Database (PostgreSQL, MySQL, MongoDB, etc.)
