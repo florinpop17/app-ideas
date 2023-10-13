@@ -27,46 +27,46 @@ Create digital artwork on a canvas on the web to share online and also export as
 **Tier:** 3-Advance
 ## App Features
   - [ ] User Registration and Login
-  - [ ]Vehicle Selection (e.g., car, bike, scooter, etc.)
-  - [ ]Location Selection for Pickup and Drop-off
-  - [ ]Pricing and Payment Integration
-  - [ ]Booking Confirmation and Driver Details
-  - [ ]Real-time Vehicle Tracking
-  - [ ]Ratings and Reviews System
-  - [ ]Booking History and Receipts
-  - [ ]Push Notifications for Booking Status
-  - [ ]Customer Support and Help Center
-  - [ ]Technology Stack
+  - [ ] Vehicle Selection (e.g., car, bike, scooter, etc.)
+  - [ ] Location Selection for Pickup and Drop-off
+  - [ ] Pricing and Payment Integration
+  - [ ] Booking Confirmation and Driver Details
+  - [ ] Real-time Vehicle Tracking
+  - [ ] Ratings and Reviews System
+  - [ ] Booking History and Receipts
+  - [ ] Push Notifications for Booking Status
+  - [ ] Customer Support and Help Center
+  - [ ] Technology Stack
 ## Mobile App Development:
 
- - [ ]Android (Java/Kotlin) and iOS (Swift/Objective-C) native development
- - [ ]Or Cross-platform development using React Native or Flutter
+ - [ ] Android (Java/Kotlin) and iOS (Swift/Objective-C) native development
+ - [ ] Or Cross-platform development using React Native or Flutter
 ## Backend:
- - [ ]Server-side application (Node.js, Python, Ruby on Rails, etc.)
- - [ ]Database (PostgreSQL, MySQL, MongoDB, etc.)
- - [ ]Mapping and Location Services (Google Maps, Mapbox, etc.)
- - [ ]Payment Gateway Integration (Stripe, PayPal, etc.)
+ - [ ] Server-side application (Node.js, Python, Ruby on Rails, etc.)
+ - [ ] Database (PostgreSQL, MySQL, MongoDB, etc.)
+ - [ ] Mapping and Location Services (Google Maps, Mapbox, etc.)
+ - [ ] Payment Gateway Integration (Stripe, PayPal, etc.)
 ## User Experience
- - [ ]User-friendly and intuitive app design
- - [ ]Responsive design for various screen sizes and orientations
+ - [ ] User-friendly and intuitive app design
+ - [ ] Responsive design for various screen sizes and orientations
 ## Security
- - [ ]Data encryption in transit and at rest
- - [ ]Strong authentication and authorization mechanisms
+ - [ ] Data encryption in transit and at rest
+ - [ ] Strong authentication and authorization mechanisms
 ## Legal Considerations
- - [ ]Compliance with local regulations and licensing requirements
- - [ ]Data protection and privacy compliance
+ - [ ] Compliance with local regulations and licensing requirements
+ - [ ] Data protection and privacy compliance
 ## Testing and Quality Assurance
- - [ ]Comprehensive testing for bugs, security, and performance
- - [ ]User testing for usability feedback
+ - [ ] Comprehensive testing for bugs, security, and performance
+ - [ ] User testing for usability feedback
 ## Documentation and Deployment
- - [ ]Code and architecture documentation
- - [ ]Deployment to Google Play Store and Apple App Store
+ - [ ] Code and architecture documentation
+ - [ ] Deployment to Google Play Store and Apple App Store
 ## Marketing and Promotion
- - [ ]Develop a marketing strategy
- - [ ]Consider partnerships with local transportation services or businesses
+ - [ ] Develop a marketing strategy
+ - [ ] Consider partnerships with local transportation services or businesses
 ## Continuous Improvement
- - [ ]Collect user feedback for app improvement
- - [ ]Regular updates for a better user experience
+ - [ ] Collect user feedback for app improvement
+ - [ ] Regular updates for a better user experience
 
 Building a public vehicle booking app is a substantial project, and success depends on thorough planning and execution.
 You may also need a multidisciplinary team to handle development, design, and legal aspects. 
