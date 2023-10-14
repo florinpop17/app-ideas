@@ -32,7 +32,7 @@ account and change the preffered time duration (as per your class duration) for 
 - Hint! You can use the following code to make your attendance in google classroom 
 without even joining your classes with slight chanes in the code like username,
 password, time and schedule of classes.
-```
+
 ## Example projects
 
 - [Attend Google Class Bot by Raunakkumarr](https://github.com/Raunakkumarr/Python-Automations/tree/main/Bot%20Attending%20my%20Google%20Classes)
