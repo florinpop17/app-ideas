@@ -1,0 +1,38 @@
+# Google Classroom Bot
+# Author: Raunak Mishra
+# Github Link: https://github.com/Raunakkumarr
+
+**Tier:** 3-Advanced
+
+Most of us must be familiar with Google Classroom. Most of the schools/colleges use
+google classroom to conduct their virtual/online classes. In google classrooom
+classes are scheduled and students need to join specific classes as per time via
+Google Meet posted in the classroom few minutes before class schedule. Attendance
+is taken automatically if you're present in the meet. This bot scraps through
+each classes as per their respective time and finds the meet link. Joins there
+with your google classroom account and makes you present during attendance.
+
+## User Stories
+
+-   [ ] Bot automatically joins the class on scheduled time and turns off the mic and 
+camera.
+-   [ ] Bot automatically puts the aatendance for google classroom.
+
+## Bonus features
+
+-   [ ] Users need to provide their username and password for google classroom
+account and change the preffered time duration (as per your class duration) for which class is scheduled to be
+30sec in this code!
+
+## Useful links and resources
+
+- [Bot Demo](https://youtu.be/mVfAtR6znao)
+- [Google Classroom](https://support.google.com/edu/classroom/answer/6020279?hl=en)
+- [Find xPath in Chrome](https://www.testgrid.io/blog/xpath-in-chrome-for-selenium/)
+- Hint! You can use the following code to make your attendance in google classroom 
+without even joining your classes with slight chanes in the code like username,
+password, time and schedule of classes.
+
+## Example projects
+
+- [Attend Google Class Bot by Raunakkumarr](https://github.com/Raunakkumarr/Python-Automations/tree/main/Bot%20Attending%20my%20Google%20Classes)
