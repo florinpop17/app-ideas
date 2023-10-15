@@ -107,6 +107,7 @@ required to complete them.
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
 | [Regular Expression Helper](./Projects/2-Intermediate/RegExp-Helper-App.md)       | Test Regular Expressions                           | 2-Intermediate |
+[Resume Builder App](./Projects/2-Intermediate/Resume-Builder-App.md)                             | Resume Builder Web Application                                                 | 2-Intermediate |
 | [Sales Reciepts App](./Projects/2-Intermediate/Sales-DB-App.md)                   | Record Sales Receipts in a DB                      | 2-Intermediate |
 | [Simple Online Store](./Projects/2-Intermediate/Simple-Online-Store.md)           | Simple Online Store                                | 2-Intermediate |
 | [Sports Bracket Generator](./Projects/2-Intermediate/Sports-Bracket-Generator.md) | Generate a sports bracket diagram                  | 2-Intermediate |
