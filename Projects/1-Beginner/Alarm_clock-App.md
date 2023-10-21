@@ -16,3 +16,6 @@ python alarm_clock.py
 Follow the prompts to set the desired time and alarm sound. The program will then start a countdown timer and play the selected sound once the timer reaches zero.
 
 
+## Example projects
+[Data fair training](https://data-flair.training/blogs/alarm-clock-python/)
+ [Aditya9764](https://github.com/Aditya9764/Alarm-Clock-Timer)
