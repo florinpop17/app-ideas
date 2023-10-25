@@ -1,0 +1,46 @@
+Application Name: Task Manager Pro
+
+Tier: 2-Intermediate
+
+Description:
+Task Manager Pro is an advanced task management application designed to help users organize their tasks and improve productivity. It offers a user-friendly interface with a variety of features to manage tasks efficiently.
+
+Purpose:
+The purpose of this application is to assist users in managing their tasks, setting priorities, and tracking progress. It is ideal for individuals and small teams looking for a comprehensive task management solution.
+
+Resources Needed:
+
+Programming languages: HTML, CSS, JavaScript, and a backend language like Python or Node.js
+Web development framework (e.g., React, Angular, or Vue.js for frontend; Express.js or Django for backend)
+Database system (e.g., MongoDB, PostgreSQL)
+Version control system (e.g., Git)
+Hosting and deployment platform (e.g., Heroku, AWS)
+User Stories:
+
+User can create a new task with a title, description, due date, and priority level.
+User can mark a task as complete or mark it as pending/incomplete.
+User can edit the task details (title, description, due date, priority).
+User can delete a task.
+User can categorize tasks into different projects or categories.
+User can set reminders for tasks and receive notifications.
+User can search for tasks based on keywords or categories.
+User can view a dashboard displaying tasks' statuses, priorities, and upcoming due dates.
+User can create and manage multiple task lists.
+Bonus Features:
+
+User can add attachments (files, images) to tasks.
+User can collaborate with others by sharing tasks and projects.
+User can set recurring tasks (daily, weekly, monthly).
+User can create custom labels/tags for tasks.
+User can view task completion statistics and reports.
+
+
+Useful Links and Resources:
+MDN Web Docs - Comprehensive web development documentation and tutorials.
+React Documentation - Official documentation for the React.js library.
+Express.js Documentation - Official documentation for the Express.js web application framework.
+MongoDB University - Free online courses for learning MongoDB, a popular NoSQL database.
+Example Projects:
+
+Todoist - A popular task management application with a clean and intuitive interface.
+Trello - A collaboration tool that organizes tasks into boards, a great example of a team-oriented task management system.
