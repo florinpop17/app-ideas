@@ -72,7 +72,7 @@ class IOTMailbox {
       ? Math.random().toFixed(2) * -1 
       : Math.random().toFixed(2);
     console.log(`Mailbox state changed - lightLevel: ${lightLevel}`);
-    this.signalCallback(this.lightLevel);
+    this.signalCallback(lightLevel);
     this.lastLightLevel = lightLevel;
   }
 };
