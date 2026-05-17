@@ -1,1 +1,3 @@
 .DS_Store
+config.bat
+node_modules
