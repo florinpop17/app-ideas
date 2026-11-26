@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f8fa">
+    <title>GitHub Status</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="page">
+      <header class="page-header">
+        <div>
+          <p class="eyebrow">Service health</p>
+          <h1>GitHub Status</h1>
+          <p class="intro">A live view of GitHub service availability.</p>
+        </div>
+        <button id="refresh-button" class="refresh-button" type="button">
+          Refresh status
+        </button>
+      </header>
+
+      <section class="summary-panel" aria-labelledby="summary-heading">
+        <h2 id="summary-heading">Overall status</h2>
+        <p id="overall-status" class="overall-status" role="status" aria-live="polite">
+          Loading current status…
+        </p>
+        <p id="last-updated" class="last-updated"></p>
+      </section>
+
+      <section class="components-section" aria-labelledby="components-heading">
+        <div class="section-heading">
+          <h2 id="components-heading">Components</h2>
+          <p>Current status of GitHub services</p>
+        </div>
+        <p id="components-message" class="message" aria-live="polite"></p>
+        <ul id="components-list" class="components-list"></ul>
+      </section>
+
+      <p class="source-note">
+        Data provided by the
+        <a href="https://www.githubstatus.com/" target="_blank" rel="noreferrer">GitHub Status API</a>.
+      </p>
+    </main>
+  </body>
+</html>
