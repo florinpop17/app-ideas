@@ -1,0 +1,238 @@
+:root {
+  color-scheme: light;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #1f2328;
+  background: #f6f8fa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+.page {
+  width: min(100% - 2rem, 860px);
+  margin: 0 auto;
+  padding: 3rem 0;
+}
+
+.page-header,
+.section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.page-header {
+  margin-bottom: 2rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.4rem;
+  color: #57606a;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 0.4rem;
+  font-size: clamp(2rem, 6vw, 2.75rem);
+  letter-spacing: -0.04em;
+}
+
+h2 {
+  margin-bottom: 0.75rem;
+  font-size: 1.15rem;
+}
+
+.intro,
+.section-heading p,
+.last-updated,
+.source-note {
+  color: #57606a;
+}
+
+.intro,
+.section-heading p {
+  margin-bottom: 0;
+}
+
+.refresh-button {
+  flex: 0 0 auto;
+  padding: 0.65rem 1rem;
+  border: 1px solid #1f883d;
+  border-radius: 6px;
+  background: #1f883d;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.refresh-button:hover:not(:disabled) {
+  background: #1a7f37;
+}
+
+.refresh-button:focus-visible,
+a:focus-visible {
+  outline: 3px solid #0969da;
+  outline-offset: 3px;
+}
+
+.refresh-button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+.summary-panel,
+.component-card {
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.summary-panel {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+}
+
+.overall-status {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.overall-status::before,
+.status-indicator {
+  width: 0.65rem;
+  height: 0.65rem;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: #1a7f37;
+  content: "";
+}
+
+.overall-status.is-degraded::before,
+.status-indicator.is-degraded {
+  background: #bf8700;
+}
+
+.overall-status.is-outage::before,
+.status-indicator.is-outage {
+  background: #cf222e;
+}
+
+.overall-status.is-unknown::before,
+.status-indicator.is-unknown {
+  background: #6e7781;
+}
+
+.last-updated {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+.components-section {
+  margin-bottom: 2rem;
+}
+
+.section-heading {
+  margin-bottom: 1rem;
+}
+
+.components-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+  gap: 0.75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.component-card {
+  min-height: 92px;
+  padding: 1rem;
+}
+
+.component-card.is-degraded {
+  border-color: #bf8700;
+  background: #fff8c5;
+}
+
+.component-card.is-outage {
+  border-color: #cf222e;
+  background: #ffebe9;
+}
+
+.component-name {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+  font-weight: 650;
+}
+
+.component-status {
+  margin: 0;
+  color: #57606a;
+  font-size: 0.9rem;
+}
+
+.message {
+  margin-bottom: 0.75rem;
+}
+
+.message:empty {
+  display: none;
+}
+
+.message.is-error {
+  color: #cf222e;
+}
+
+.source-note {
+  margin-bottom: 0;
+  font-size: 0.85rem;
+}
+
+a {
+  color: #0969da;
+}
+
+@media (max-width: 560px) {
+  .page {
+    padding: 2rem 0;
+  }
+
+  .page-header,
+  .section-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .refresh-button {
+    width: 100%;
+  }
+}

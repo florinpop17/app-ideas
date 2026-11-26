@@ -51,5 +51,6 @@ request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {
 
 ## Example projects
 
+- [Local implementation](../../Examples/GitHub-Status-App/)
 - [Peter Luczynski's example](https://peterluczynski.github.io/github-status/)
 - [Diogo Moreira's example](https://diogomoreira.github.io/github-status/)
